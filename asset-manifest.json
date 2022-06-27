@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ses/static/css/main.8c3b5dba.css",
-    "main.js": "/ses/static/js/main.3136aaa7.js",
+    "main.js": "/ses/static/js/main.a7f07c46.js",
     "static/media/skola.gif": "/ses/static/media/skola.5af703fecb907d5cb8f2.gif",
     "static/media/video.mp4": "/ses/static/media/video.fb8e17f79670656eb550.mp4",
     "static/media/fa-solid-900.svg": "/ses/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
@@ -28,10 +28,10 @@
     "static/media/historija4.jpg": "/ses/static/media/historija4.b5c0bf330ff8ce0cad19.jpg",
     "index.html": "/ses/index.html",
     "main.8c3b5dba.css.map": "/ses/static/css/main.8c3b5dba.css.map",
-    "main.3136aaa7.js.map": "/ses/static/js/main.3136aaa7.js.map"
+    "main.a7f07c46.js.map": "/ses/static/js/main.a7f07c46.js.map"
   },
   "entrypoints": [
     "static/css/main.8c3b5dba.css",
-    "static/js/main.3136aaa7.js"
+    "static/js/main.a7f07c46.js"
   ]
 }
