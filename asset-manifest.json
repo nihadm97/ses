@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/ses/static/css/main.8c3b5dba.css",
-    "main.js": "/ses/static/js/main.a7f07c46.js",
-    "static/media/skola.gif": "/ses/static/media/skola.5af703fecb907d5cb8f2.gif",
+    "main.css": "/ses/static/css/main.76175d09.css",
+    "main.js": "/ses/static/js/main.7d35c66e.js",
     "static/media/video.mp4": "/ses/static/media/video.fb8e17f79670656eb550.mp4",
+    "static/media/skola.gif": "/ses/static/media/skola.533571e0bdc57ccaf040.gif",
     "static/media/fa-solid-900.svg": "/ses/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "/ses/static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/fa-solid-900.eot": "/ses/static/media/fa-solid-900.efbd5d20e407bbf85f2b.eot",
     "static/media/fa-solid-900.ttf": "/ses/static/media/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
+    "static/media/zeleno.jpg": "/ses/static/media/zeleno.d63af897355ef1d9a31c.jpg",
     "static/media/upis1.jpg": "/ses/static/media/upis1.490e6fdf00289bde5e5b.jpg",
     "static/media/brošura.png": "/ses/static/media/brošura.d5bb094ec769b41cb5c3.png",
     "static/media/fa-regular-400.svg": "/ses/static/media/fa-regular-400.19e27d348fefc21941e0.svg",
     "static/media/fa-brands-400.eot": "/ses/static/media/fa-brands-400.89a52ae1d02b86d61439.eot",
     "static/media/fa-brands-400.ttf": "/ses/static/media/fa-brands-400.9e138496e8f1719c6ebf.ttf",
+    "static/media/pozadina.jpg": "/ses/static/media/pozadina.7afa92a9b43af6b3713d.jpg",
     "static/media/biblioteka.jpg": "/ses/static/media/biblioteka.a643cfde2b7c76793480.jpg",
+    "static/media/zeleno1.jpg": "/ses/static/media/zeleno1.5c86c3f91ecdb32400bd.jpg",
     "static/media/fa-solid-900.woff": "/ses/static/media/fa-solid-900.c6ec080084769a6d8a34.woff",
     "static/media/fa-brands-400.woff": "/ses/static/media/fa-brands-400.329a95a9172fdb2cccb4.woff",
     "static/media/fa-solid-900.woff2": "/ses/static/media/fa-solid-900.ada6e6df937f7e5e8b79.woff2",
@@ -27,11 +30,11 @@
     "static/media/historija3.jpg": "/ses/static/media/historija3.f057b8ba960a7ad9e288.jpg",
     "static/media/historija4.jpg": "/ses/static/media/historija4.b5c0bf330ff8ce0cad19.jpg",
     "index.html": "/ses/index.html",
-    "main.8c3b5dba.css.map": "/ses/static/css/main.8c3b5dba.css.map",
-    "main.a7f07c46.js.map": "/ses/static/js/main.a7f07c46.js.map"
+    "main.76175d09.css.map": "/ses/static/css/main.76175d09.css.map",
+    "main.7d35c66e.js.map": "/ses/static/js/main.7d35c66e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c3b5dba.css",
-    "static/js/main.a7f07c46.js"
+    "static/css/main.76175d09.css",
+    "static/js/main.7d35c66e.js"
   ]
 }
