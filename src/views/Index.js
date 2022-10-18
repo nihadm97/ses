@@ -45,7 +45,8 @@ export default function Index() {
               backgroundImage: `url(${Background})`, backgroundSize: 'cover', alignSelf: 'center', minHeight: "800px"
             }}>
         <UpisNavbar fixed/>
-        <div className="container mx-auto items-center flex flex-wrap">
+        <div className="container flex flex-wrap absolute">
+          <div  className="flex flex-wrap py-2">
           <div className="w-full md:w-8/12 ml-20 lg:w-8/12 xl:w-8/12 px-10">
             <div id = "div" className="sm:pt-0 rounded text-center lg:text-left hidden" style={{backgroundColor: "rgb(0, 0, 0, 0.5"}}>
               <h2 className="font-serif text-4xl text-white">
@@ -74,6 +75,7 @@ export default function Index() {
               </div>
             </div>
           </div>
+          </div>
         </div>
       </section>
 
@@ -81,7 +83,7 @@ export default function Index() {
         
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center">
-            <div className="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32" style={{marginTop: "15%"}}>
+            <div className="w-11/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32" style={{marginTop: "15%"}}>
               <div className="relative flex flex-col min-w-0 break-words bg-lightBlue w-full mb-6 shadow-lg rounded-lg bg-lightBlue-500" style={{backgroundColor: '#92d050'}}>
               <img src={biblioteka} alt="Logo" width={"100"} height={"100"} className="w-full align-middle rounded-t-lg"/>
                 <blockquote className="relative p-8 mb-4">
@@ -162,10 +164,7 @@ export default function Index() {
                       <br></br>
                       <p className="mb-4 text-blueGray-500">
                       Svaki radni dan od 08 – 16 h
-                      </p>
-                      <p className="mb-4 text-blueGray-500">
-                      Tel.: 033 / 724 – 617 </p>
-                      <p className="mb-4 text-blueGray-500">
+                      Tel.: 033 / 724 – 617
                       Amra Lagumdžija, dipl. bibliotekar
                       </p>
                     </div>
@@ -217,7 +216,7 @@ export default function Index() {
               </div>
             </div>
 
-            <div className="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
+            <div className="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48 text-center md:text-left">
               <h3 className="text-3xl mb-2 font-semibold leading-normal">
               Historijat od 1912. godine do danas
               </h3>
@@ -269,14 +268,14 @@ export default function Index() {
       <section className="bg-white w-full">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap">
-              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+              <div className="w-full text-center md:w-6/12">
               <div>
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: "rgb(254, 125, 1)"}}>
                     </span>
               </div>
-              <h4 className="text-xl font-semibold uppercase mb-6">Obavijesti za učenike</h4>
+              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "rgb(254, 125, 1)"}}>Obavijesti za učenike</h4>
             {sortirani.map(obj  => 
-                <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
+                <div className="relative flex flex-col min-w-0 break-words w-full mb-8 rounded-lg">
                   <div className="flex-auto">
                   <a
                   className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
@@ -292,14 +291,14 @@ export default function Index() {
                     </div>
                   </div>)}
                 </div>
-              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+              <div className="w-full text-center md:w-6/12">
               <div>
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: '#92d050'}}>
                     </span>
               </div>
-              <h4 className="text-xl font-semibold uppercase mb-6">Ostale obavijesti</h4>
+              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "#92d050"}}>Ostale obavijesti</h4>
             {sortirani1.map(obj  => 
-                <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
+                <div className="relative flex flex-col min-w-0 break-words w-full mb-8 rounded-lg">
                   <div className="flex-auto">
                   <a
                   className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"

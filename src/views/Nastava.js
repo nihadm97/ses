@@ -1,8 +1,8 @@
 import React from "react";
-import prvirazred from './images/prvirazred.jpg';
-import drugirazred from './images/drugirazred.jpg';
-import trecirazred from './images/trecirazred.jpg';
-import cetvrtirazred from './images/cetvrtirazred.jpg';
+import prvirazred from './images/I razred.png';
+import drugirazred from './images/II razred.png';
+import trecirazred from './images/III razred.png';
+import cetvrtirazred from './images/IV razred.png';
 // components
 
 import NastavaNav from "components/Navbars/NastavaNavbar";
