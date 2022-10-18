@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ses/static/css/main.76175d09.css",
-    "main.js": "/ses/static/js/main.7d35c66e.js",
+    "main.js": "/ses/static/js/main.82ad3b81.js",
     "static/media/video.mp4": "/ses/static/media/video.fb8e17f79670656eb550.mp4",
     "static/media/skola.gif": "/ses/static/media/skola.533571e0bdc57ccaf040.gif",
     "static/media/fa-solid-900.svg": "/ses/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
@@ -22,8 +22,12 @@
     "static/media/fa-solid-900.woff2": "/ses/static/media/fa-solid-900.ada6e6df937f7e5e8b79.woff2",
     "static/media/fa-brands-400.woff2": "/ses/static/media/fa-brands-400.c1210e5ebe4344da5083.woff2",
     "static/media/direktorica.jpg": "/ses/static/media/direktorica.20dfee5abf3913012ede.jpg",
+    "static/media/IV razred.png": "/ses/static/media/IV razred.20a24ed10c471732604c.png",
+    "static/media/I razred.png": "/ses/static/media/I razred.43c066bc664685d7f7fd.png",
+    "static/media/II razred.png": "/ses/static/media/II razred.1e9b1d31236132a98ee0.png",
     "static/media/fa-regular-400.eot": "/ses/static/media/fa-regular-400.4079ae2d2a15d0689568.eot",
     "static/media/fa-regular-400.ttf": "/ses/static/media/fa-regular-400.1017bce89c72f95bcf8e.ttf",
+    "static/media/III razred.png": "/ses/static/media/III razred.7287fe6fb679a067910b.png",
     "static/media/logo.jpg": "/ses/static/media/logo.5f695801d1afba7b1a7f.jpg",
     "static/media/fa-regular-400.woff": "/ses/static/media/fa-regular-400.3672264812746c3c7225.woff",
     "static/media/fa-regular-400.woff2": "/ses/static/media/fa-regular-400.68c5af1f48e2bfca1e57.woff2",
@@ -31,10 +35,10 @@
     "static/media/historija4.jpg": "/ses/static/media/historija4.b5c0bf330ff8ce0cad19.jpg",
     "index.html": "/ses/index.html",
     "main.76175d09.css.map": "/ses/static/css/main.76175d09.css.map",
-    "main.7d35c66e.js.map": "/ses/static/js/main.7d35c66e.js.map"
+    "main.82ad3b81.js.map": "/ses/static/js/main.82ad3b81.js.map"
   },
   "entrypoints": [
     "static/css/main.76175d09.css",
-    "static/js/main.7d35c66e.js"
+    "static/js/main.82ad3b81.js"
   ]
 }
