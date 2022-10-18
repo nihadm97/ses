@@ -71,7 +71,7 @@ export default function Nastava() {
 
           <div className="container mx-auto px-4" style={{marginBottom: "10%"}}>
             <div className="items-center flex flex-wrap">
-              <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
+              <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
                 <img
                   alt="..."
                   className="max-w-full rounded-lg shadow-lg"
