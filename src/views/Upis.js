@@ -209,8 +209,8 @@ export default function Upis() {
 
           <div className="container mx-auto px-4">
             <div className="items-center flex flex-wrap">
-              <div className="w-full md:w-4/12 ml-auto mr-auto px-4" style={{marginBottom: "10%"}}>
-              <video src={video1} width="800" height="600" controls="controls" className="w-full align-middle rounded-t-lg"/>
+              <div className="w-full md:w-6/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>
+              <video src={video1} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/>
               </div>
               <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
                 <div className="md:pr-12">
@@ -296,7 +296,7 @@ export default function Upis() {
             </svg>
           </div>
 
-          <div className="container mx-auto px-4 lg:pt-24 lg:pb-64">
+          <div className="container mx-auto px-4 lg:pt-24 lg:pb-64" style={{paddingTop: "5%"}}>
             <div className="flex flex-wrap text-center justify-center">
               <div className="w-full lg:w-8/12 px-4">
                 <h2 className="text-4xl font-semibold text-white uppercase">

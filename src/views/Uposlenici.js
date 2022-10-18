@@ -73,7 +73,7 @@ export default function Uposleni() {
           <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-xl rounded-lg -mt-64" style={{padding: "5%", marginBottom: "15%", backgroundImage: `url(${Background1})`, backgroundSize: 'cover', alignSelf: 'center'}}>
               <div className="px-8">
                 <div className="flex flex-wrap justify-center">
-                  <div className="w-full lg:w-3/12 px-4 lg:order-2 flex justify-center text-center">
+                  <div className="w-full lg:w-6/12 px-4 lg:order-2 flex justify-center text-center">
                     <div className="relative">
                     <h3 className="text-4xl font-semibold leading-normal mb-2 text-blueGray-700 mb-2">
                     Amira Kadrispahić
