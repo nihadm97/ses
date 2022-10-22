@@ -98,7 +98,7 @@ export default function Navbar(props) {
                   </li>
                   <li className="flex items-center">
                 <a
-                  className="hover:text-blueGray-500 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
+                  className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold"
                   href="https://www.facebook.com/Srednja-ekonomska-%C5%A1kola-Sarajevo-847192995623370/"
                   target="_blank"
                   rel="noreferrer"
