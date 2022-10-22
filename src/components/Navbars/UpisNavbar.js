@@ -15,7 +15,7 @@ export default function Upis(props) {
         <div className="w-full">
           <nav className="fixed z-50 w-full flex flex-wrap items-center justify-between px-2 py-3 navbar-expand-lg shadow" style={{backgroundColor: "rgba(0, 0, 0, 0.5)"}}>
             <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
-              <div className="w-full relative flex justify-between lg:w-auto px-4 lg:static lg:block lg:justify-start">
+              <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
               <h2 className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75" style={{color: '#92d050'}} >SREDNJA EKONOMSKA ŠKOLA</h2>
                 <button
                   className="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -88,7 +88,7 @@ export default function Upis(props) {
                   rel="noreferrer"
                   
                 >
-                  <i className="text-blueGray-400 fab fa-facebook text-lg leading-lg " />
+                  <i className="px-2 text-blueGray-400 fab fa-facebook text-lg leading-lg " />
                   
                 </a>
               </li>

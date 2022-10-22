@@ -16,7 +16,7 @@ export default function Navbar(props) {
         <div className="w-full px-4">
           <nav className="relative flex flex-wrap items-center justify-between px-2 py-3 navbar-expand-lg bg-lightBlue-500 rounded" style={{backgroundColor: '#92d050'}}>
             <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
-              <div className="w-full relative flex justify-between lg:w-auto px-4 lg:static lg:block lg:justify-start">
+              <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
               <Link
                 to="/"
                 className="text-blueGray-700 text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase"
@@ -103,7 +103,7 @@ export default function Navbar(props) {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <i className="text-blueGray-400 fab fa-facebook text-lg leading-lg " />
+                  <i className="px-2 text-blueGray-400 fab fa-facebook text-lg leading-lg " />
                   
                 </a>
               </li>
