@@ -4,11 +4,16 @@ import drugirazred from './images/II razred.png';
 import trecirazred from './images/III razred.png';
 import cetvrtirazred from './images/IV razred.png';
 // components
-
+import { useEffect } from "react";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import NastavaNav from "components/Navbars/NastavaNavbar";
 import Footer from "components/Footers/Footer.js";
 
 export default function Nastava() {
+  useEffect(() => {
+    AOS.init({duration: 2000});
+  }, []);
   return (
     <>
       <NastavaNav transparent />
@@ -69,7 +74,7 @@ export default function Nastava() {
             </svg>
           </div>
 
-          <div className="container mx-auto px-4" style={{marginBottom: "10%"}}>
+          <div  data-aos="fade-down" className="container mx-auto px-4" style={{marginBottom: "10%"}}>
             <div className="items-center flex flex-wrap">
               <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
                 <img
@@ -89,7 +94,7 @@ export default function Nastava() {
             </div>
           </div>
         </section>
-        <section className="pb-20 bg-blueGray-200 -mt-24" style={{paddingTop: "15%"}}>
+        <section data-aos="fade-down" className="pb-20 bg-blueGray-200 -mt-24" style={{paddingTop: "15%"}}>
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap items-center mt-32">
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
@@ -129,7 +134,7 @@ export default function Nastava() {
             </svg>
           </div>
 
-          <div className="container mx-auto px-4">
+          <div  data-aos="fade-down" className="container mx-auto px-4">
             <div className="items-center flex flex-wrap">
               <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
                 <img

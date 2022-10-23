@@ -10,8 +10,13 @@ import background from "./images/pozadina.jpg"
 import { db } from "./firebase-config";
 import { collection, getDocs} from "firebase/firestore";
 import { useState, useEffect } from "react";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 export default function Uposleni() {
+  useEffect(() => {
+    AOS.init({duration: 2000});
+  }, []);
   const [users, setUsers] = useState([]);
   const usersCollectionRef = collection(db, "uposlenici");
   const [users1, setUsers1] = useState([]);
@@ -95,17 +100,17 @@ export default function Uposleni() {
                 <div className="mt-10 py-10 border-t border-blueGray-200 text-center">
                   <div className="flex flex-wrap justify-center ">
                     <div className="w-full lg:w-9/12 px-4">
-                      <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
+                      <p data-aos="fade-left" className="mb-4 text-lg leading-relaxed text-blueGray-700">
                       Drage učenice i dragi učenici, roditelji, uposlenice i uposlenici, partneri, a posebno, dragi heroji za katedrom 
                       i najvažniji nosioci društva u cjelini - profesorice i profesori!
                       Srednja ekonomska škola, Sarajevo je od samog postojanja pa sve do danas iznjedrila brojne generacije izuzetno uspješnih učenika. Svjesni ubrzanih tehničkih i tehnoloških promjena u društvu nastojimo biti u trendu i pratiti savremene metode učenja i podučavanja. Nastava je u našoj školi usmjerena na učenika, a životni učitelji su voditelji nastavnog procesa. Učenik istražuje, analizira, diskutuje i ima slobodu da dostojanstveno iznosi vlastito mišljenje. Velika važnost pridaje se volji i emociji učenika, što rezultira interdisciplinarnim pristupom nastavnim sadržajima, ugodnom emocionalnom atmosferom, multimedijalnim učenjem i dostizanjem individualnih maksimuma. 
                       </p>
-                      <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
+                      <p data-aos="fade-right" className="mb-4 text-lg leading-relaxed text-blueGray-700">
                       Njegujemo partnerske odnose između nastavnika i učenika kojem zajedno doprinosimo i u kojem komuniciramo na način da obje strane slušaju i uvažavaju jedna drugu, uz zajednički formulisana pravila za rad u učionici. Prva smo škola u KS koja u nastavnom procesu implementira sedmicu učenja na daljinu od 2010. godine, a što nam je znatno olakšalo djelovanje u periodu Covid pandemije. Svjesni da živimo vrijeme u kojem je teorijsko znanje bez praktičnog rada nedovoljno, u redovno školovanje uveli smo i novo zanimanje - Bankarski tehničar na principima dualnog sistema obrazovanja, a u saradnji sa Privrednom komorom Njemačke, koji, pored nastave u učionici, zahtijeva praktičan rad u bankama sa kojima smo u partnerstvu. 
                       S obzirom da imamo izuzetno talentovane učenike koji postižu vrhunske rezultate, aktivirali smo školski hor, orkestar, folklor, dramsku, plesnu, sportsku, literarnu i likovnu sekciju, čime smo boravak učenika u našoj školi dodatno učinili zabavnijim i zanimljivijim. 
 
                       </p>
-                      <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
+                      <p data-aos="fade-up" className="mb-4 text-lg leading-relaxed text-blueGray-700">
                       Posebno smo posvećeni odgojnoj komponenti koja promiče duhovni i moralni razvoj ličnosti učenika. Mentalno zdravlje naših učenika nam je veoma važno i maksimalno se trudimo da doprinesemo psiho-fizičkom zdravlju svakog pojedinca. Vlastitu inovativnost i kreativnost svakodnevno obogaćujemo značajnim projektima u skladu sa Evropskim standardima, uključujući i međunarodnu saradnju sa drugim školama. Ne izostajemo ni kada je društveno-koristan rad u pitanju te, pored redovnog učešća u uređivanju školskog dvorišta, uzgajamo i zdravu hranu na zemljištu Mojmilo, a zahvaljujući donaciji Općine Novi Grad. Izuzetno nam je važna i saradnja sa lokalnom zajednicom i mnoge naše aktivnosti su podržane od strane Općine Novo Sarajevo sa kojom imamo izuzetne partnerske odnose i podršku. Svjesni činjenice da se uspjeh u odgoju i obrazovanju ne dostiže bez kvalitetne saradnje sa roditeljima, nastojimo ih involvirati u sve naše aktivnosti i izazove koji se stavljaju pred nas.
                       </p>
                     </div>
@@ -115,7 +120,7 @@ export default function Uposleni() {
                 </div>
                 
           {users.map(obj  => 
-              <div>
+              <div data-aos="fade-down">
               <div className="relative inline-flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-xl rounded-lg -mt-64" style={{padding: "5%", marginBottom: "15%", backgroundImage: `url(${Background})`, backgroundSize: 'cover', marginTop:"-5%", alignSelf: 'center'}}>
               <div className="px-8">
                 <div className="flex flex-wrap justify-center">

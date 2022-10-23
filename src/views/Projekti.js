@@ -6,8 +6,13 @@ import { Carousel } from 'react-responsive-carousel';
 import { db } from "./firebase-config";
 import { collection, getDocs} from "firebase/firestore";
 import { useState, useEffect } from "react";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 const Projekti = () => {
+  useEffect(() => {
+    AOS.init({duration: 2000});
+  }, []);
   const [users, setUsers] = useState([]);
   const usersCollectionRef = collection(db, "projekti");
 
@@ -24,7 +29,7 @@ const Projekti = () => {
     <>
     <ProjektiNavbar fixed/>
     {sortirani.map(obj  => 
-      <section className="pb-20 bg-white w-full">
+      <section data-aos="fade-up" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
               <h6 className="text-xl mb-1 font-semibold text-center uppercase">{obj.naslov}</h6>

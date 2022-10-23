@@ -4,7 +4,9 @@ import {useRef, useState} from "react";
 import { send } from 'emailjs-com';
 import background from "./images/pozadina.jpg"
 // components
-
+import { useEffect } from "react";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import UpisNavbar from "components/Navbars/UpisNavbar";
 import Footer from "components/Footers/Footer.js";
 import upis1 from './images/upis1.jpg';
@@ -14,6 +16,9 @@ import video1 from './video.mp4';
 
 
 export default function Upis() {
+  useEffect(() => {
+    AOS.init({duration: 2000});
+  }, []);
   const [toSend, setToSend] = useState({
     from_name: '',
     to_name: '',
@@ -138,7 +143,7 @@ export default function Upis() {
               </div>
             </div>
 
-            <div ref={myRef} className="flex flex-wrap items-center mt-32">
+            <div data-aos="fade-down" ref={myRef} className="flex flex-wrap items-center mt-32">
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
                 <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
                   <i className="fas fa-user-friends text-xl"></i>
@@ -207,7 +212,7 @@ export default function Upis() {
             </svg>
           </div>
 
-          <div className="container mx-auto px-4">
+          <div data-aos="fade-down" className="container mx-auto px-4">
             <div className="items-center flex flex-wrap">
               <div className="w-full md:w-6/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>
               <video src={video1} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/>
@@ -229,7 +234,7 @@ export default function Upis() {
                   Stimulišemo i podstičemo učenike:
                   </p>
                   <ul className="list-none mt-2">
-                    <li className="py-2">
+                    <li data-aos="fade-left" className="py-2">
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
@@ -242,7 +247,7 @@ export default function Upis() {
                         </div>
                       </div>
                     </li>
-                    <li className="py-2">
+                    <li data-aos="fade-left" className="py-2">
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
@@ -255,7 +260,7 @@ export default function Upis() {
                         </div>
                       </div>
                     </li>
-                    <li className="py-2">
+                    <li data-aos="fade-left" className="py-2">
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
@@ -296,7 +301,7 @@ export default function Upis() {
             </svg>
           </div>
 
-          <div className="container mx-auto px-4 lg:pt-24 lg:pb-64" style={{paddingTop: "5%"}}>
+          <div data-aos="fade-up" className="container mx-auto px-4 lg:pt-24 lg:pb-64" style={{paddingTop: "5%"}}>
             <div className="flex flex-wrap text-center justify-center">
               <div className="w-full lg:w-8/12 px-4">
                 <h2 className="text-4xl font-semibold text-white uppercase">
@@ -348,7 +353,7 @@ export default function Upis() {
             <div className="flex flex-wrap justify-center lg:-mt-64 -mt-48">
               <div className="w-full lg:w-6/12 px-4">
                 <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-blueGray-200">
-                  <form className="flex-auto p-5 lg:p-10" onSubmit={onSubmit}>
+                  <form data-aos="fade-up" className="flex-auto p-5 lg:p-10" onSubmit={onSubmit}>
                     <h4 className="text-2xl font-semibold">
                       IMATE DODATNIH PITANJA OKO UPISA?
                     </h4>

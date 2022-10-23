@@ -3,7 +3,8 @@ import { Link } from "react-router-dom";
 import { db } from "./firebase-config";
 import { collection, getDocs} from "firebase/firestore";
 import { useState, useEffect } from "react";
-
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import UpisNavbar from "components/Navbars/UpisNavbar";
 import Footer from "components/Footers/Footer.js";
 import biblioteka from './images/biblioteka.jpg';
@@ -18,6 +19,7 @@ export default function Index() {
   const usersCollectionRef = collection(db, "1");
 
   useEffect(() => {
+    AOS.init({duration: 2000});
     const getUsers = async () => {
       const data = await getDocs(usersCollectionRef);
       setUsers(data.docs.map((doc) => ({ ...doc.data(), id: doc.id })));
@@ -79,7 +81,7 @@ export default function Index() {
         </div>
       </section>
 
-      <section className="pb-40 relative bg-blueGray-100">
+      <section data-aos="fade-in" className="pb-40 relative bg-blueGray-100">
         
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center">
@@ -179,7 +181,7 @@ export default function Index() {
           </div>
         </div>
 
-        <div className="container mx-auto overflow-hidden pb-20">
+        <div data-aos="fade-up" className="container mx-auto overflow-hidden pb-20">
           <div className="flex flex-wrap items-center pt-32">
             <div className="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
               <div className="justify-center flex flex-wrap relative">
@@ -272,7 +274,7 @@ export default function Index() {
       <section className="bg-white w-full">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap">
-              <div className="w-full text-center md:w-6/12 mt-4">
+              <div data-aos="fade-right" className="w-full text-center md:w-6/12 mt-4">
               <div>
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: "rgb(254, 125, 1)"}}>
                     </span>
@@ -295,7 +297,7 @@ export default function Index() {
                     </div>
                   </div>)}
                 </div>
-              <div className="w-full text-center md:w-6/12 mt-4">
+              <div data-aos="fade-left" className="w-full text-center md:w-6/12 mt-4">
               <div>
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: '#92d050'}}>
                     </span>
