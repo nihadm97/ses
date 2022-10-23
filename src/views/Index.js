@@ -52,7 +52,7 @@ export default function Index() {
               <h2 className="font-serif text-4xl text-white">
               O školi topline, sigurnosti i odgovornosti
               </h2>
-              <b><p className="mt-4 text-lg leading-relaxed text-white">Srednja ekonomska škola, Sarajevo ima dugu povijest. Počela je da radi 1912. godine kao Trgovačka akademija. Preživjela je dva svjetska rata. Tokom posljednjeg rata u Bosni i Hercegovini, škola je potpuno uništena.
+              <b><p className="mt-4 text-lg leading-relaxed text-white">Čovjekov je odgoj ogledalo u kojem pokazuje svoj portret. Podučavanje je profesija koja podučava sve druge profesije.
               </p></b>
               <div className="mt-12">
                 <Link
@@ -162,9 +162,13 @@ export default function Index() {
                       Radno vrijeme i kontakt
                       </h6>
                       <br></br>
-                      <p className="mb-4 text-blueGray-500">
+                      <p className="mb-1 text-blueGray-500">
                       Svaki radni dan od 08 – 16 h
+                      </p>
+                      <p className="mb-1 text-blueGray-500">
                       Tel.: 033 / 724 – 617
+                      </p>
+                      <p className="mb-1 text-blueGray-500">
                       Amra Lagumdžija, dipl. bibliotekar
                       </p>
                     </div>
@@ -268,14 +272,14 @@ export default function Index() {
       <section className="bg-white w-full">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap">
-              <div className="w-full text-center md:w-6/12">
+              <div className="w-full text-center md:w-6/12 mt-4">
               <div>
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: "rgb(254, 125, 1)"}}>
                     </span>
               </div>
               <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "rgb(254, 125, 1)"}}>Obavijesti za učenike</h4>
             {sortirani.map(obj  => 
-                <div className="relative flex flex-col min-w-0 break-words w-full mb-8 rounded-lg">
+                <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
                   <div className="flex-auto">
                   <a
                   className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
@@ -291,14 +295,14 @@ export default function Index() {
                     </div>
                   </div>)}
                 </div>
-              <div className="w-full text-center md:w-6/12">
+              <div className="w-full text-center md:w-6/12 mt-4">
               <div>
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: '#92d050'}}>
                     </span>
               </div>
               <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "#92d050"}}>Ostale obavijesti</h4>
             {sortirani1.map(obj  => 
-                <div className="relative flex flex-col min-w-0 break-words w-full mb-8 rounded-lg">
+                <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
                   <div className="flex-auto">
                   <a
                   className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
@@ -313,10 +317,6 @@ export default function Index() {
                   
                     </div>
                   </div>)}
-                <div className="relative flex flex-col min-w-0 break-words w-full mb-8 shadow-">
-                  <div className="px-4 py-5 flex-auto">
-                  </div>
-                </div>
               </div>
               
             </div>

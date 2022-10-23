@@ -156,7 +156,7 @@ export default function Upis() {
                 Koje zvanje se stiče?
                 </Link>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                Završetkom Srednje ekonomske škole, Sarajevo stiče se zvanje ekonomski tehničar koje omogućava upis na različite fakultete društvenih, tehničkih, prirodnih nauka i na druge visokoškolske institucije. 
+                Završetkom Srednje ekonomske škole, Sarajevo stiče se zvanje ekonomski tehničar ili bankarski tehničar koje omogućava upis na različite fakultete društvenih, tehničkih, prirodnih nauka i na druge visokoškolske institucije. 
                 </p>
               </div>
 
@@ -225,17 +225,19 @@ export default function Upis() {
                   učinile su da naša škola bude prepoznata u široj regiji kao inovativna što je okrunjeno i dvostrukom 
                   dodjelom titule Innovative School od strane Microsofta. Stimulišemo i podstičemo učenike:
                   </p>
-                  <ul className="list-none mt-6">
+                  <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
+                  Stimulišemo i podstičemo učenike:
+                  </p>
+                  <ul className="list-none mt-2">
                     <li className="py-2">
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
-                            <i className="fas fa-fingerprint" ></i>
                           </span>
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                          da otkriju i izgrađuju svoje talente
+                          Da otkriju i izgrađuju svoje talente
                           </h4>
                         </div>
                       </div>
@@ -244,12 +246,11 @@ export default function Upis() {
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
-                            <i className="fas fa-file-alt"></i>
                           </span>
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                          da ovladaju praktičnim uputama vezanim za budućnost
+                          Da ovladaju praktičnim uputama vezanim za budućnost
                           </h4>
                         </div>
                       </div>
@@ -258,12 +259,11 @@ export default function Upis() {
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
-                            <i className="far fa-paper-plane"></i>
                           </span>
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                          da otkriju i izgrađuju svoje talente
+                          Da otkriju i izgrađuju svoje talente
                           </h4>
                         </div>
                       </div>
@@ -303,7 +303,7 @@ export default function Upis() {
                 Bankarski tehničar 
                 </h2>
                 <p className="text-lg leading-relaxed mt-4 mb-4" style={{color:"white"}}>
-                Od školske 2018/2019. godine učenici Kantona Sarajevo će moći pohađati novi smjer Bankarski tehničar u Srednjoj 
+                Od školske 2018/2019. godine učenici Kantona Sarajevo mogu pohađati novi smjer Bankarski tehničar u Srednjoj 
                 ekonomskoj školi Sarajevo po dualnom sistemu obrazovanja koji se ugleda prema njemačkim standardima, kao i na i 
                 zakonski okvir u Bosni i Hercegovini. U prvom razredu nastava se održava samo u školi. Od druge do četvrte godine 
                 udio praktične nastave u bankama se kontinuirano povećava sa dva na tri dana.
