@@ -100,12 +100,12 @@ export default function Uposleni() {
                 <div className="mt-10 py-10 border-t border-blueGray-200 text-center">
                   <div className="flex flex-wrap justify-center ">
                     <div className="w-full lg:w-9/12 px-4">
-                      <p data-aos="fade-left" className="mb-4 text-lg leading-relaxed text-blueGray-700">
+                      <p data-aos="fade-in" className="mb-4 text-lg leading-relaxed text-blueGray-700">
                       Drage učenice i dragi učenici, roditelji, uposlenice i uposlenici, partneri, a posebno, dragi heroji za katedrom 
                       i najvažniji nosioci društva u cjelini - profesorice i profesori!
                       Srednja ekonomska škola, Sarajevo je od samog postojanja pa sve do danas iznjedrila brojne generacije izuzetno uspješnih učenika. Svjesni ubrzanih tehničkih i tehnoloških promjena u društvu nastojimo biti u trendu i pratiti savremene metode učenja i podučavanja. Nastava je u našoj školi usmjerena na učenika, a životni učitelji su voditelji nastavnog procesa. Učenik istražuje, analizira, diskutuje i ima slobodu da dostojanstveno iznosi vlastito mišljenje. Velika važnost pridaje se volji i emociji učenika, što rezultira interdisciplinarnim pristupom nastavnim sadržajima, ugodnom emocionalnom atmosferom, multimedijalnim učenjem i dostizanjem individualnih maksimuma. 
                       </p>
-                      <p data-aos="fade-right" className="mb-4 text-lg leading-relaxed text-blueGray-700">
+                      <p data-aos="fade-in" className="mb-4 text-lg leading-relaxed text-blueGray-700">
                       Njegujemo partnerske odnose između nastavnika i učenika kojem zajedno doprinosimo i u kojem komuniciramo na način da obje strane slušaju i uvažavaju jedna drugu, uz zajednički formulisana pravila za rad u učionici. Prva smo škola u KS koja u nastavnom procesu implementira sedmicu učenja na daljinu od 2010. godine, a što nam je znatno olakšalo djelovanje u periodu Covid pandemije. Svjesni da živimo vrijeme u kojem je teorijsko znanje bez praktičnog rada nedovoljno, u redovno školovanje uveli smo i novo zanimanje - Bankarski tehničar na principima dualnog sistema obrazovanja, a u saradnji sa Privrednom komorom Njemačke, koji, pored nastave u učionici, zahtijeva praktičan rad u bankama sa kojima smo u partnerstvu. 
                       S obzirom da imamo izuzetno talentovane učenike koji postižu vrhunske rezultate, aktivirali smo školski hor, orkestar, folklor, dramsku, plesnu, sportsku, literarnu i likovnu sekciju, čime smo boravak učenika u našoj školi dodatno učinili zabavnijim i zanimljivijim. 
 

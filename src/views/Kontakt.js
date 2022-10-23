@@ -128,7 +128,7 @@ const Kontakt = () => {
                   <section className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap">
-              <div data-aos="fade-right" className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+              <div data-aos="fade-in" className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg rounded-lg">
                   <div className="py-5 flex-auto">
                   <div>
@@ -142,7 +142,7 @@ const Kontakt = () => {
                     </div>
                   </div>
                 </div>
-              <div data-aos="fade-left" className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+              <div data-aos="fade-in" className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg rounded-lg">
                   <div className="px-4 py-5 flex-auto">
                   <div>

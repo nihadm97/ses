@@ -234,7 +234,7 @@ export default function Upis() {
                   Stimulišemo i podstičemo učenike:
                   </p>
                   <ul className="list-none mt-2">
-                    <li data-aos="fade-left" className="py-2">
+                    <li data-aos="fade-in" className="py-2">
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
@@ -247,7 +247,7 @@ export default function Upis() {
                         </div>
                       </div>
                     </li>
-                    <li data-aos="fade-left" className="py-2">
+                    <li data-aos="fade-in" className="py-2">
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
@@ -260,7 +260,7 @@ export default function Upis() {
                         </div>
                       </div>
                     </li>
-                    <li data-aos="fade-left" className="py-2">
+                    <li data-aos="fade-in" className="py-2">
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>

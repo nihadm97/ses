@@ -274,7 +274,7 @@ export default function Index() {
       <section className="bg-white w-full">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap">
-              <div data-aos="fade-right" className="w-full text-center md:w-6/12 mt-4">
+              <div data-aos="fade-in" className="w-full text-center md:w-6/12 mt-4">
               <div>
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: "rgb(254, 125, 1)"}}>
                     </span>
@@ -297,7 +297,7 @@ export default function Index() {
                     </div>
                   </div>)}
                 </div>
-              <div data-aos="fade-left" className="w-full text-center md:w-6/12 mt-4">
+              <div data-aos="fade-in" className="w-full text-center md:w-6/12 mt-4">
               <div>
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: '#92d050'}}>
                     </span>
