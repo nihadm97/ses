@@ -3,6 +3,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 // components
 import logo from './logo.jpg';
+import etwi1 from './etwi1.jpg';
+import etwi2 from './etwi2.png';
 
 
 
@@ -102,6 +104,26 @@ export default function Navbar(props) {
                   rel="noreferrer"
                 >
                   <i className="px-2 text-blueGray-400 fab fa-facebook text-lg leading-lg " />
+                  
+                </a>
+                <a
+                  className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold"
+                  href="https://school-education.ec.europa.eu/en/etwinning"
+                  target="_blank"
+                  rel="noreferrer"
+                  
+                >
+                  <img src={etwi1} width="40" height="40"></img>
+                  
+                </a>
+                <a
+                  className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold px-6"
+                  href="https://sites.google.com/a/ses.edu.ba/srednja-ekonomska-skola---etwinning-tim/?fbclid=IwAR0xKMAKKGN0b65xh_OXHy_4GdzXJ03Z8QFAEd_4OSg0m17Ay9_D0IxcvWg"
+                  target="_blank"
+                  rel="noreferrer"
+                  
+                >
+                  <img src={etwi2} width="30" height="30"></img>
                   
                 </a>
               </li>
