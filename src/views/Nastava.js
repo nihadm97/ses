@@ -20,10 +20,10 @@ export default function Nastava() {
       <main>
 
         <section className="pb-20 bg-blueGray-200 -mt-24" style={{paddingTop: "15%"}}>
-          <div className="container mx-auto px-4">
+          <div className="container mx-auto px-4 text-center md:text-left">
             <div className="flex flex-wrap items-center mt-32">
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
-              <h3 className="text-3xl mb-2 font-semibold leading-normal">Predmeti koji se izučavaju u prvom razredu (<span style={{color: "rgb(254, 125, 1)"}}>Bankarski tehničar</span>, <span style={{color: "rgb(146, 208, 80)"}}>Ekonomski tehničar</span>, <span>Oba smjera</span>):</h3>
+              <h3 className="text-3xl mb-2 font-semibold leading-normal">Predmeti koji se izučavaju u prvom razredu:</h3>
               <ul className="text-lg leading-relaxed mt-4 mb-4">
                 <li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li>
                 <li>Engleski jezik</li>
@@ -33,13 +33,13 @@ export default function Nastava() {
                 <li>Historija/Povijest</li>
                 <li>Vjeronauka ili Kultura  religija</li>
                 <li>Informatika</li>
-                <li><span style={{color: "rgb(146, 208, 80)"}}>Fizika</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Osnove ekonomije</span></li>
+                <li>Fizika (Osnove ekonomije za smjer bankarski tehničar)</li>
                 <li>Ekologija</li>
                 <li>Geografija i ekonomska geografija</li>
                 <li>Hemija i tehnologija sa poznavanjem robe</li>
                 <li>Daktilografija sa poslovnim komunikacijama</li>
-                <li style={{color: "rgb(254, 125, 1)"}}>Tehnike bankarskog računanja</li>
-                <li style={{color: "rgb(254, 125, 1)"}}>Bankarsko poslovanje</li>
+                <li>Tehnike bankarskog računanja (za smjer bankarski tehničar)</li>
+                <li>Bankarsko poslovanje (za smjer bankarski tehničar)</li>
               </ul>
               </div>
               <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
@@ -74,7 +74,7 @@ export default function Nastava() {
             </svg>
           </div>
 
-          <div  data-aos="fade-in" className="container mx-auto px-4" style={{marginBottom: "10%"}}>
+          <div  data-aos="fade-in" className="container mx-auto px-4 text-center md:text-left" style={{marginBottom: "10%"}}>
             <div className="items-center flex flex-wrap">
               <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
                 <img
@@ -86,8 +86,18 @@ export default function Nastava() {
               </div>
               <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
                 <div className="md:pr-12">
-                <h3 className="text-3xl font-semibold">Predmeti koji se izučavaju u drugom razredu (<span style={{color: "rgb(254, 125, 1)"}}>Bankarski tehničar</span>, <span style={{color: "rgb(146, 208, 80)"}}>Ekonomski tehničar</span>, <span>Oba smjera</span>):</h3>
-                <ul className="mt-4 text-lg leading-relaxed"><li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li><li>Engleski jezik</li><li><span style={{color: "rgb(146, 208, 80)"}}>Njemački jezik</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Poslovni njemački jezik</span></li><li>Tjelesni i zdravstveni odgoj </li><li>Matematika</li><li><span style={{color: "rgb(146, 208, 80)"}}>Historija/Povijest</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Bankarsko poslovanje</span></li><li>Vjeronauka ili Kultura  religija</li><li><span style={{color: "rgb(146, 208, 80)"}}>Informatika</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Poslovna informatika</span></li><li><span style={{color: "rgb(146, 208, 80)"}}>Marketing</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Marketing u bankarstvu</span></li><li><span style={{color: "rgb(146, 208, 80)"}}>Biznis ekonomija</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Tehnike bankarskog računanja</span></li><li style={{color: "rgb(254, 125, 1)"}}>Praktična nastava u bankama</li></ul>
+                <h3 className="text-3xl font-semibold">Predmeti koji se izučavaju u drugom razredu:</h3>
+                <ul className="mt-4 text-lg leading-relaxed"><li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li>
+                <li>Engleski jezik</li>
+                <li>Njemački jezik (Poslovni njemački jezik za smjer bankarski tehničar)</li>
+                <li>Tjelesni i zdravstveni odgoj </li>
+                <li>Matematika</li>
+                <li>Historija/Povijest (Bankarsko poslovanje za smjer bankarski tehničar)</li>
+                <li>Vjeronauka ili Kultura  religija</li>
+                <li>Informatika (Poslovna informatika za smjer bankarski tehničar)</li>
+                <li>Marketing (Marketing u bankarstvu za smjer bankarski tehničar</li>
+                <li>Biznis ekonomija (Tehnike bankarskog računanja za smjer bankarski tehničar)</li>
+                <li>Praktična nastava u bankama (za smjer bankarski tehničar)</li></ul>
                   
                 </div>
               </div>
@@ -95,11 +105,23 @@ export default function Nastava() {
           </div>
         </section>
         <section data-aos="fade-in" className="pb-20 bg-blueGray-200 -mt-24" style={{paddingTop: "15%"}}>
-          <div className="container mx-auto px-4">
+          <div className="container mx-auto px-4 text-center md:text-left">
             <div className="flex flex-wrap items-center mt-32">
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
-              <h3 className="text-3xl mb-2 font-semibold leading-normal">Predmeti koji se izučavaju u trećem razredu (<span style={{color: "rgb(254, 125, 1)"}}>Bankarski tehničar</span>, <span style={{color: "rgb(146, 208, 80)"}}>Ekonomski tehničar</span>, <span>Oba smjera</span>):</h3>
-              <ul className="text-lg leading-relaxed mt-4 mb-4"><li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li><li>Engleski jezik</li><li><span style={{color: "rgb(146, 208, 80)"}}>Njemački jezik</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Poslovni njemački jezik</span></li><li>Tjelesni i zdravstveni odgoj </li><li>Matematika</li><li>Vjeronauka ili Kultura  religija</li><li>Građansko obrazovanje/Demokracija i ljudska prava</li><li><span style={{color: "rgb(146, 208, 80)"}}>Marketing</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Bankarsko poslovanje</span></li><li style={{color: "rgb(146, 208, 80)"}}><span>Biznis ekonomija</span></li><li style={{color: "rgb(146, 208, 80)"}}>Informatičke tehnologije</li><li><span style={{color: "rgb(146, 208, 80)"}}>Ekonomska matematika</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Uvod u bankarsko poslovanje</span></li><li style={{color: "rgb(254, 125, 1)"}}>Praktična nastava u bankama</li></ul>
+              <h3 className="text-3xl mb-2 font-semibold leading-normal">Predmeti koji se izučavaju u trećem razredu:</h3>
+              <ul className="text-lg leading-relaxed mt-4 mb-4">
+                <li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li>
+                <li>Engleski jezik</li>
+                <li>Njemački jezik (Poslovni njemački jezik)</li>
+                <li>Tjelesni i zdravstveni odgoj</li>
+                <li>Matematika</li>
+                <li>Vjeronauka ili Kultura  religija</li>
+                <li>Građansko obrazovanje/Demokracija i ljudska prava</li>
+                <li>Marketing (Bankarsko poslovanje za smjer bankarski tehničar)</li>
+                <li>Biznis ekonomija</li>
+                <li>Informatičke tehnologije</li>
+                <li>Ekonomska matematika (Uvod u bankarsko poslovanje za smjer bankarski tehničar)</li>
+                <li>Praktična nastava u bankama (za smjer bankarski tehničar)</li></ul>
               </div>
               <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
                 <img
@@ -144,10 +166,22 @@ export default function Nastava() {
                   src={cetvrtirazred}
                 />
               </div>
-              <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
+              <div className="w-full md:w-5/12 ml-auto mr-auto px-4 text-center md:text-left">
                 <div className="md:pr-12">
-                <h3 className="text-3xl font-semibold">Predmeti koji se izučavaju u četvrtom razredu (<span style={{color: "rgb(254, 125, 1)"}}>Bankarski tehničar</span>, <span style={{color: "rgb(146, 208, 80)"}}>Ekonomski tehničar</span>, <span>Oba smjera</span>):</h3>
-                <ul className="mt-4 text-lg leading-relaxed"><li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li><li>Engleski jezik</li><li><span style={{color: "rgb(146, 208, 80)"}}>Njemački jezik</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Poslovni engleski jezik</span></li><li>Tjelesni i zdravstveni odgoj </li><li style={{color: "rgb(254, 125, 1)"}}>Matematika</li><li>Vjeronauka ili Kultura  religija</li><li style={{color: "rgb(146, 208, 80)"}}>Biznis ekonomija</li><li><span style={{color: "rgb(146, 208, 80)"}}>Međunarodna ekonomija</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Bankarsko poslovanje</span> </li><li><span style={{color: "rgb(146, 208, 80)"}}>Evropska unija i međunarodna saradnja</span> ili <span style={{color: "rgb(254, 125, 1)"}}>Poslovno pravo</span></li><li style={{color: "rgb(146, 208, 80)"}}>Privredno pravo</li><li style={{color: "rgb(146, 208, 80)"}}>Izborni predmet (Knjigovodstvo, Bankarsko poslovanje. Preduzeće za vježbu, Matematika)</li><li style={{color: "rgb(254, 125, 1)"}}>Praktična nastava u bankama</li></ul>
+                <h3 className="text-3xl font-semibold">Predmeti koji se izučavaju u četvrtom razredu:</h3>
+                <ul className="mt-4 text-lg leading-relaxed">
+                  <li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li>
+                  <li>Engleski jezik</li>
+                  <li>Njemački jezik (Poslovni engleski jezik za smjer bankarski tehničar)</li>
+                  <li>Tjelesni i zdravstveni odgoj</li>
+                  <li>Matematika</li>
+                  <li>Vjeronauka ili Kultura  religija</li>
+                  <li>Biznis ekonomija</li>
+                  <li>Međunarodna ekonomija (Bankarsko poslovanje za smjer bankarski tehničar)</li>
+                  <li>Evropska unija i međunarodna saradnja (Poslovno pravo za smjer bankarski tehničar)</li>
+                  <li>Privredno pravo</li>
+                  <li>Izborni predmet (Knjigovodstvo, Bankarsko poslovanje, Preduzeće za vježbu, Matematika) za smjer bankarski tehničar</li>
+                  <li>Praktična nastava u bankama (za smjer bankarski tehničar)</li></ul>
                   
                 </div>
               </div>
