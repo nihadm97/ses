@@ -27,6 +27,15 @@ ReactDOM.render(
       <Route path="/upis" exact component={Upis} />
       <Route path="/kontakt" exact component={Kontakt} />
       <Route path="/uposlenici" exact component={Uposlenici} />
+      <Route path='/uredi' component={() => { 
+      window.location.href = 'https://console.firebase.google.com/u/1/project/obavijesti-b3310/overview'; 
+      return null;
+      }}/>
+      <Route path='/admin' component={() => { 
+      window.location.href = 'https://linhost04.utic.net.ba:8443/login_up.php?success_redirect_url=%2Fsmb%2Fweb%2Fview'; 
+      return null;
+      }}/>
+      
       
       <Redirect from="*" to="/" />
     </Switch>
