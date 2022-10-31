@@ -12,8 +12,8 @@ import historija1 from './images/historija1.jpg';
 import historija2 from './images/historija2.jpg';
 import historija3 from './images/historija3.jpg';
 import historija4 from './images/historija4.jpg';
-import Background from './images/skola.gif'
 export default function Index() {
+  console.log(window.innerHeight);
 
   const [users, setUsers] = useState([]);
   const usersCollectionRef = collection(db, "1");
@@ -43,8 +43,8 @@ export default function Index() {
   const sortirani1 = [...users1].sort((a, b) => b.Broj - a.Broj);
   return (
     <>
-      <section className="header relative  flex h-screen bg-center" style={{
-              backgroundImage: `url(${Background})`, backgroundSize: 'cover', alignSelf: 'center', minHeight: "800px"
+      <section id="pocetna" className="header relative  flex h-screen bg-center" style={{
+               backgroundSize: 'cover', alignSelf: 'center', minHeight: "800px"
             }}>
         <UpisNavbar fixed/>
         <div className="container flex flex-wrap absolute">
