@@ -60,7 +60,7 @@ export default function Navbar(props) {
                   <li className="nav-item">
                     <a
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                      href="https://docs.google.com/document/d/1d4wGiu0jkg4iCpWqeGsLTbQMpOZRgnwhDA0iiAwe6kQ/edit"
+                      href="https://drive.google.com/file/d/1WaJfIAQeHW9-hSgO23Ylhewtq7UzBr11/view?usp=sharing"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -70,7 +70,7 @@ export default function Navbar(props) {
                   <li className="nav-item">
                     <a
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                      href="https://docs.google.com/document/d/1d4wGiu0jkg4iCpWqeGsLTbQMpOZRgnwhDA0iiAwe6kQ/edit"
+                      href="https://drive.google.com/file/d/1aDSt4lnMQW_HndlqPybB-TWPgY_NELzA/view?usp=sharing"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -80,7 +80,7 @@ export default function Navbar(props) {
                   <li className="nav-item">
                     <a
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                      href="https://docs.google.com/document/d/1xRitoFqh6BE9uI9Jp7mZ2KPjrHGez8iNvqOJpWYafEk/edit"
+                      href="https://drive.google.com/file/d/1WaJfIAQeHW9-hSgO23Ylhewtq7UzBr11/view?usp=sharing"
                       target="_blank"
                       rel="noreferrer"
                     >
