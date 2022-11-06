@@ -1,8 +1,8 @@
 import React from "react";
-import prvirazred from './images/I razred.png';
-import drugirazred from './images/II razred.png';
-import trecirazred from './images/III razred.png';
-import cetvrtirazred from './images/IV razred.png';
+import Video2 from './images/VideoN1.gif';
+import Video4 from './images/VideoN2.gif';
+import Video1 from './images/VideoN3.gif';
+import Video3 from './images/VideoN4.gif';
 // components
 import { useEffect } from "react";
 import AOS from 'aos';
@@ -42,11 +42,11 @@ export default function Nastava() {
                 <li>Bankarsko poslovanje (za smjer bankarski tehničar)</li>
               </ul>
               </div>
-              <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
+              <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
                 <img
                   alt="..."
                   className="max-w-full rounded-lg shadow-lg"
-                  src={prvirazred}
+                  src={Video1}
                 />
               </div>
             </div>
@@ -76,12 +76,12 @@ export default function Nastava() {
 
           <div  data-aos="fade-in" className="container mx-auto px-4 text-center md:text-left" style={{marginBottom: "10%"}}>
             <div className="items-center flex flex-wrap">
-              <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
+              <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
                 <img
                   alt="..."
                   className="max-w-full rounded-lg shadow-lg"
                   style={{marginBottom: "10%"}}
-                  src={drugirazred}
+                  src={Video2}
                 />
               </div>
               <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
@@ -123,11 +123,11 @@ export default function Nastava() {
                 <li>Ekonomska matematika (Uvod u bankarsko poslovanje za smjer bankarski tehničar)</li>
                 <li>Praktična nastava u bankama (za smjer bankarski tehničar)</li></ul>
               </div>
-              <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
+              <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
                 <img
                   alt="..."
                   className="max-w-full rounded-lg shadow-lg"
-                  src={trecirazred}
+                  src={Video3}
                 />
               </div>
             </div>
@@ -158,12 +158,12 @@ export default function Nastava() {
 
           <div  data-aos="fade-in" className="container mx-auto px-4">
             <div className="items-center flex flex-wrap">
-              <div className="w-full md:w-6/12 ml-auto mr-auto px-4">
+              <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
                 <img
                   alt="..."
                   className="max-w-full rounded-lg shadow-lg"
                   style={{marginBottom: "10%"}}
-                  src={cetvrtirazred}
+                  src={Video4}
                 />
               </div>
               <div className="w-full md:w-5/12 ml-auto mr-auto px-4 text-center md:text-left">

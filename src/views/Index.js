@@ -12,8 +12,8 @@ import historija1 from './images/historija1.jpg';
 import historija2 from './images/historija2.jpg';
 import historija3 from './images/historija3.jpg';
 import historija4 from './images/historija4.jpg';
+
 export default function Index() {
-  console.log(window.innerHeight);
 
   const [users, setUsers] = useState([]);
   const usersCollectionRef = collection(db, "1");
@@ -52,7 +52,7 @@ export default function Index() {
           <div className="w-full md:w-8/12 ml-20 lg:w-8/12 xl:w-8/12 px-10">
             <div id = "div" className="sm:pt-0 rounded text-center lg:text-left hidden" style={{backgroundColor: "rgb(0, 0, 0, 0.5"}}>
               <h2 className="font-serif text-4xl text-white">
-              O školi topline, sigurnosti i odgovornosti
+              Dobro došli u Ekonomsku školu !
               </h2>
               <b><p className="mt-4 text-lg leading-relaxed text-white">Čovjekov je odgoj ogledalo u kojem pokazuje svoj portret. Podučavanje je profesija koja podučava sve druge profesije.
               </p></b>
