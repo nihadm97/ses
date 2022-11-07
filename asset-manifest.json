@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ses/static/css/main.ce8eb756.css",
+    "main.css": "/ses/static/css/main.714975b6.css",
     "main.js": "/ses/static/js/main.74f4185e.js",
     "static/media/VideoP.gif": "/ses/static/media/VideoP.18a11ae5472791ca8b51.gif",
+    "static/media/skola.gif": "/ses/static/media/skola.0da5e1d1dd6f67d24564.gif",
     "static/media/VideoN4.gif": "/ses/static/media/VideoN4.83ede9697b814bc3804a.gif",
     "static/media/VideoN1.gif": "/ses/static/media/VideoN1.bcad35f35da3feadc92c.gif",
     "static/media/VideoN3.gif": "/ses/static/media/VideoN3.b08de87f51853944bdb5.gif",
     "static/media/VideoN2.gif": "/ses/static/media/VideoN2.e42bd891eb919d52f6f7.gif",
     "static/media/video.mp4": "/ses/static/media/video.fb8e17f79670656eb550.mp4",
-    "static/media/skola.gif": "/ses/static/media/skola.533571e0bdc57ccaf040.gif",
     "static/media/fa-solid-900.svg": "/ses/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "/ses/static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/fa-solid-900.eot": "/ses/static/media/fa-solid-900.efbd5d20e407bbf85f2b.eot",
@@ -36,11 +36,11 @@
     "static/media/etwi2.png": "/ses/static/media/etwi2.f0b1a51b5f77d986307a.png",
     "static/media/historija4.jpg": "/ses/static/media/historija4.b5c0bf330ff8ce0cad19.jpg",
     "index.html": "/ses/index.html",
-    "main.ce8eb756.css.map": "/ses/static/css/main.ce8eb756.css.map",
+    "main.714975b6.css.map": "/ses/static/css/main.714975b6.css.map",
     "main.74f4185e.js.map": "/ses/static/js/main.74f4185e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce8eb756.css",
+    "static/css/main.714975b6.css",
     "static/js/main.74f4185e.js"
   ]
 }
