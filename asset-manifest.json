@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/ses/static/css/main.ce8eb756.css",
-    "main.js": "/ses/static/js/main.1ab53dd4.js",
+    "main.js": "/ses/static/js/main.74f4185e.js",
     "static/media/VideoP.gif": "/ses/static/media/VideoP.18a11ae5472791ca8b51.gif",
     "static/media/VideoN4.gif": "/ses/static/media/VideoN4.83ede9697b814bc3804a.gif",
     "static/media/VideoN1.gif": "/ses/static/media/VideoN1.bcad35f35da3feadc92c.gif",
-    "static/media/VideoN3.gif": "/ses/static/media/VideoN3.8af4c30574da4e77cece.gif",
+    "static/media/VideoN3.gif": "/ses/static/media/VideoN3.b08de87f51853944bdb5.gif",
     "static/media/VideoN2.gif": "/ses/static/media/VideoN2.e42bd891eb919d52f6f7.gif",
     "static/media/video.mp4": "/ses/static/media/video.fb8e17f79670656eb550.mp4",
     "static/media/skola.gif": "/ses/static/media/skola.533571e0bdc57ccaf040.gif",
@@ -37,10 +37,10 @@
     "static/media/historija4.jpg": "/ses/static/media/historija4.b5c0bf330ff8ce0cad19.jpg",
     "index.html": "/ses/index.html",
     "main.ce8eb756.css.map": "/ses/static/css/main.ce8eb756.css.map",
-    "main.1ab53dd4.js.map": "/ses/static/js/main.1ab53dd4.js.map"
+    "main.74f4185e.js.map": "/ses/static/js/main.74f4185e.js.map"
   },
   "entrypoints": [
     "static/css/main.ce8eb756.css",
-    "static/js/main.1ab53dd4.js"
+    "static/js/main.74f4185e.js"
   ]
 }
