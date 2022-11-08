@@ -130,7 +130,7 @@ export default function Uposleni() {
                     <h3 className="text-4xl font-semibold leading-normal mb-2 text-blueGray-700 mb-2">
                     {obj.Ime}
                   </h3>
-                    <img src={obj.Slika}/>
+                    <img style={{minWidth:300, minHeight:200}} src={obj.Slika}/>
                     </div>
                   </div>
                 </div>
