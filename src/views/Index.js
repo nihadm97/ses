@@ -101,10 +101,10 @@ export default function Index() {
                       style={{color: '#92d050'}}
                     ></polygon>
                   </svg>
-                  <h4 className="text-xl font-bold text-white">
+                  <h4 className="text-2xl font-bold text-white">
                     BIBLIOTEKA
                   </h4>
-                  <p className="text-md font-light mt-2 text-white">
+                  <p className="text-xl font-light mt-2 text-white">
                  U nizu aktivnosti kojima obiluje Srednja ekonomska škola, Sarajevo želja nam je podići i čitalačku svijest mladih.  
                   </p>
                 </blockquote>
@@ -155,21 +155,21 @@ export default function Index() {
                   </div>
                   <div className="relative flex flex-col min-w-0">
                     <div className="px-4 py-5 flex-auto">
+                    <br></br>
                       <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                         <i className="fas fa-file-alt"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
                       Radno vrijeme i kontakt
                       </h6>
-                      <br></br>
                       <p className="mb-1 text-blueGray-500">
-                      Svaki radni dan od 08 – 16 h
+                      Svaki radni dan od 08–16h
                       </p>
                       <p className="mb-1 text-blueGray-500">
-                      Tel.: 033 / 724 – 617
+                      Tel.: 033/724–617
                       </p>
                       <p className="mb-1 text-blueGray-500">
-                      Amra Lagumdžija, dipl. bibliotekar
+                      Amra Lagumdžija, bibliotekar
                       </p>
                     </div>
                   </div>

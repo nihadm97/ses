@@ -156,7 +156,7 @@ export default function Upis() {
                 Koje zvanje se stiče?
 
                 </p>
-                <Link to="/" className="font-bold text-blueGray-700 mt-8">
+                <Link to="/" className="text-xl mb-4 font-bold text-blueGray-700 mt-8">
                 Koje zvanje se stiče?
                 </Link>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
@@ -218,9 +218,6 @@ export default function Upis() {
               </div>
               <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
                 <div className="md:pr-12">
-                  <div className="text-Black-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-lightBlue-300" style={{backgroundColor: '#92d050'}}>
-                    <i className="fas fa-rocket text-xl"></i>
-                  </div>
                   <h3 className="text-3xl font-semibold">Po čemu se ističe naša škola?</h3>
                   <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
                   Nastava je u našoj školi usmjerena na učenika, a životni učitelji su voditelji nastavnog procesa. Učenik istražuje, analizira, diskutuje i ima slobodu da dostojanstveno iznosi vlastito mišljenje. Velika važnost pridaje se volji i emociji učenika, što rezultira interdisciplinarnim pristupom nastavnim sadržajima, ugodnom emocionalnom atmosferom, multimedijalnim učenjem i dostizanjem individualnih maksimuma.
