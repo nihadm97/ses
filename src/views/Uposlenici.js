@@ -39,6 +39,7 @@ export default function Uposleni() {
 
     getUsers();
   }, []);
+  const sortirani = [...users].sort((a, b) => a.Broj - b.Broj);
   return (
     <>
       <UpisNavbar transparent/>
@@ -119,7 +120,7 @@ export default function Uposleni() {
               </div>
                 </div>
                 
-          {users.map(obj  => 
+          {sortirani.map(obj  => 
               <div data-aos="fade-down">
               <div className="relative inline-flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-xl rounded-lg -mt-64" style={{padding: "5%", marginBottom: "15%", backgroundImage: `url(${Background})`, backgroundSize: 'cover', marginTop:"-5%", alignSelf: 'center'}}>
               <div className="px-8">
