@@ -136,9 +136,8 @@ const Kontakt = () => {
                     </span>
                   </div>
                   <h6 class="text-xl font-semibold">Telefon</h6>
-                  <p class="mt-2 mb-4 text-blueGray-500">Centrala: +387 33 724 611</p>
                   <p class="mt-2 mb-4 text-blueGray-500">Tehnički sekretar: +387 33 724 610</p>
-                  <p class="mt-2 mb-4 text-blueGray-500">Sekretar: +387 33 724 612</p>
+                  <p class="mt-2 mb-4 text-blueGray-500">Email: ses@ses.edu.ba</p>
                     </div>
                   </div>
                 </div>
@@ -151,7 +150,6 @@ const Kontakt = () => {
                   </div>
                   <h6 class="text-xl font-semibold">Ostalo</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">Fax: +387 33 724 618</p>
-                  <p class="mt-2 mb-4 text-blueGray-500">Email: ses@ses.edu.ba</p>
                   <p class="mt-2 mb-4 text-blueGray-500">Uredništvo web stranice: web@ses.edu.ba</p>
                   </div>
                 </div>

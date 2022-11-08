@@ -132,10 +132,9 @@ export default function Upis() {
                   <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
                       <i className="fas fa-retweet"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Slobodno vrijeme</h6>
+                    <h6 className="text-xl font-semibold">Vannastavne aktivnosti</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                    Na kvalitetan način osmisle svoje slobodno vrijeme jer time poboljšavaju 
-                    kvalitet života i zadovoljavaju svoje potrebe.
+                    Učenicima je omogućeno da na kvalitan način ispolje sve svoje talente i vlastitu kreativnost kroz obilje vannastavnih aktivnosti
                     </p>
                   </div>
                   </a>
@@ -161,7 +160,7 @@ export default function Upis() {
                 Koje zvanje se stiče?
                 </Link>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                Završetkom Srednje ekonomske škole, Sarajevo stiče se zvanje ekonomski tehničar ili bankarski tehničar koje omogućava upis na različite fakultete društvenih, tehničkih, prirodnih nauka i na druge visokoškolske institucije. 
+                Završetkom Srednje ekonomske škole, Sarajevo učenici stiču zvanje ekonomski tehničar ili bankarski tehničar čime se ostavlja mogučnost učenicima da upišu fakultet koji žele. 
                 </p>
               </div>
 
@@ -182,7 +181,7 @@ export default function Upis() {
                       ></polygon>
                     </svg>
                     <h4 className="text-xl font-bold text-white">
-                    Možda vaš posao iz snova još ne postoji? Pomoći ćemo vam da ga kreirate!
+                    Možda vaš posao iz snova još ne postoji? Poklonite nam povjerenje da otkrijemo vaše talente!
                     </h4>
                   </blockquote>
                 </div>
@@ -224,56 +223,8 @@ export default function Upis() {
                   </div>
                   <h3 className="text-3xl font-semibold">Po čemu se ističe naša škola?</h3>
                   <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  Želimo da omogućimo učenicima kvalitetno znanje i mnogobrojne kontakte izvan škole, 
-                  kako bi oni osigurali vlastitu budućnost, a time i ljepšu budućnost prostora u kojem su stasali.
-                  Mnogobrojne inovacije u školi, od kojih izdvajamo sedmicu učenja na daljinu (online sedmica), 
-                  učinile su da naša škola bude prepoznata u široj regiji kao inovativna što je okrunjeno i dvostrukom 
-                  dodjelom titule Innovative School od strane Microsofta. Stimulišemo i podstičemo učenike:
+                  Nastava je u našoj školi usmjerena na učenika, a životni učitelji su voditelji nastavnog procesa. Učenik istražuje, analizira, diskutuje i ima slobodu da dostojanstveno iznosi vlastito mišljenje. Velika važnost pridaje se volji i emociji učenika, što rezultira interdisciplinarnim pristupom nastavnim sadržajima, ugodnom emocionalnom atmosferom, multimedijalnim učenjem i dostizanjem individualnih maksimuma.
                   </p>
-                  <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  Stimulišemo i podstičemo učenike:
-                  </p>
-                  <ul className="list-none mt-2">
-                    <li data-aos="fade-in" className="py-2">
-                      <div className="flex items-center">
-                        <div>
-                          <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
-                          </span>
-                        </div>
-                        <div>
-                          <h4 className="text-blueGray-500">
-                          Da otkriju i izgrađuju svoje talente
-                          </h4>
-                        </div>
-                      </div>
-                    </li>
-                    <li data-aos="fade-in" className="py-2">
-                      <div className="flex items-center">
-                        <div>
-                          <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
-                          </span>
-                        </div>
-                        <div>
-                          <h4 className="text-blueGray-500">
-                          Da ovladaju praktičnim uputama vezanim za budućnost
-                          </h4>
-                        </div>
-                      </div>
-                    </li>
-                    <li data-aos="fade-in" className="py-2">
-                      <div className="flex items-center">
-                        <div>
-                          <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-Black-600 bg-lightBlue-200 mr-3" style={{backgroundColor: '#92d050'}}>
-                          </span>
-                        </div>
-                        <div>
-                          <h4 className="text-blueGray-500">
-                          Da otkriju i izgrađuju svoje talente
-                          </h4>
-                        </div>
-                      </div>
-                    </li>
-                  </ul>
                 </div>
               </div>
             </div>
@@ -308,8 +259,7 @@ export default function Upis() {
                 Bankarski tehničar 
                 </h2>
                 <p className="text-lg leading-relaxed mt-4 mb-4" style={{color:"white"}}>
-                Od školske 2018/2019. godine učenici Kantona Sarajevo mogu pohađati novi smjer Bankarski tehničar u Srednjoj 
-                ekonomskoj školi Sarajevo po dualnom sistemu obrazovanja koji se ugleda prema njemačkim standardima, kao i na i 
+                Od školske 2018/2019. godine učenici naše škole imaju mogućnost pohađanja novog smjera Bankarski tehničar po dualnom sistemu obrazovanja, a koji se implementira po uzoru na njemačke standarde, kao i na
                 zakonski okvir u Bosni i Hercegovini. U prvom razredu nastava se održava samo u školi. Od druge do četvrte godine 
                 udio praktične nastave u bankama se kontinuirano povećava sa dva na tri dana.
                 </p><p style={{color:"black"}}>

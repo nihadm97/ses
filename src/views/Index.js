@@ -105,9 +105,7 @@ export default function Index() {
                     BIBLIOTEKA
                   </h4>
                   <p className="text-md font-light mt-2 text-white">
-                  Biblioteka Srednje ekonomske škole, Sarajevo je informacijsko, medijsko i komunikacijsko mjesto u školi. 
-                  Kao izvor informacija namijenjena je prvenstveno učenicima, profesorima za potrebe nastave, 
-                  ali i podrška u nastavnim i vannastavnim aktivnostima škole. Biblioteka je mjesto za realizaciju raznih projekata.
+                 U nizu aktivnosti kojima obiluje Srednja ekonomska škola, Sarajevo želja nam je podići i čitalačku svijest mladih.  
                   </p>
                 </blockquote>
               </div>
@@ -122,7 +120,7 @@ export default function Index() {
                         <i className="fas fa-sitemap"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                      Škola znanja, a ne škola ocjena
+                      Škola topline, odgovornosti i sigurnosti
                       </h6>
                       <p className="mb-4 text-blueGray-500">
                       Svi učenici i profesori imaju pravo besplatno koristiti skolsku biblioteku.
@@ -227,7 +225,7 @@ export default function Index() {
               Historijat od 1912. godine do danas
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-              Rasprava o otvaranju finansijske škole višeg stupnja vodila se nekoliko godina. 
+              Rasprava o otvaranju finansijske škole višeg stepena vodila se nekoliko godina. 
               Tako već 1910. godine Trgovačka škola i obrtnička komora za BiH u Sarajevu u svom dopisu od 19.11.1910. godine upućenom 
               Zemaljskoj vladi za BiH traži otvaranje jednogodišnjeg merkatilnog tečaja za apsolvente srednjih škola i ujedno predlaže 
               da se u Sarajevu osnuje Trgovačka akademija ''sa sličnim uređenjem i nastavnom osnovom kao akademije u Monarhiji''. 
@@ -279,7 +277,7 @@ export default function Index() {
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: "rgb(254, 125, 1)"}}>
                     </span>
               </div>
-              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "rgb(254, 125, 1)"}}>Obavijesti za učenike</h4>
+              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "rgb(254, 125, 1)"}}>Informacije za učenike</h4>
             {sortirani.map(obj  => 
                 <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
                   <div className="flex-auto">
@@ -302,7 +300,7 @@ export default function Index() {
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: '#92d050'}}>
                     </span>
               </div>
-              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "#92d050"}}>Ostale obavijesti</h4>
+              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "#92d050"}}>Ostale informacije</h4>
             {sortirani1.map(obj  => 
                 <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
                   <div className="flex-auto">
