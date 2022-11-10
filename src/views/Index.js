@@ -166,7 +166,7 @@ export default function Index() {
                       Svaki radni dan od 08–16h
                       </p>
                       <p className="mb-1 text-blueGray-500">
-                      Tel.: 033/724–617
+                      Kontakt: 033/724–617
                       </p>
                       <p className="mb-1 text-blueGray-500">
                       Amra Lagumdžija, bibliotekar

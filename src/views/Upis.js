@@ -302,7 +302,7 @@ export default function Upis() {
                 <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-blueGray-200">
                   <form data-aos="fade-up" className="flex-auto p-5 lg:p-10" onSubmit={onSubmit}>
                     <h4 className="text-2xl font-semibold">
-                      IMATE DODATNIH PITANJA OKO UPISA?
+                      IMATE DODATNIH PITANJA?
                     </h4>
                     <p className="leading-relaxed mt-1 mb-4 text-blueGray-500">
                       Pošaljite nam poruku...

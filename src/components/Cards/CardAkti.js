@@ -488,7 +488,7 @@ rel="noreferrer"
           target="_blank"
           rel="noreferrer"
         >
-          Pravilnik o izmjenama i dopunama pravilnika o vođenju pedagoške dokumentacije i evidencije
+          Pravilnik o vođenju pedagoške dokumentacije i evidencije
         </a>
         <a
           href="https://drive.google.com/file/d/1f2569-NNBpOFDw8qsz24I47RzeRRCE77/view"
@@ -498,7 +498,7 @@ rel="noreferrer"
           target="_blank"
           rel="noreferrer"
         >
-          Pravilnik o praćenju, vrednovanju i ocjenjivanju učenika osnovnih i srednjih škola u Kantonu Sarajevo
+          Pravilnik o praćenju, vrednovanju i ocjenjivanju učenika
         </a>
         <a
           href="https://drive.google.com/file/d/16jU87NHT36RnyP-KiHCUfS3CdX2eMjuV/view"
