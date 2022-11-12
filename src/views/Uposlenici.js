@@ -2,10 +2,10 @@ import React from "react";
 
 import UpisNavbar from "components/Navbars/UpisNavbar";
 import Footer from "components/Footers/Footer.js";
-import direktorica from './images/direktorica.jpg';
-import Background from './images/zeleno.jpg'
-import Background1 from './images/zeleno1.jpg'
-import background from "./images/pozadina.jpg"
+import direktorica from './images/direktorica.webp';
+import Background from './images/zeleno.webp'
+import Background1 from './images/zeleno1.webp'
+import background from "./images/pozadina.webp"
 
 import { db } from "./firebase-config";
 import { collection, getDocs} from "firebase/firestore";

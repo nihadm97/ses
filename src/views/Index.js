@@ -7,11 +7,11 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import UpisNavbar from "components/Navbars/UpisNavbar";
 import Footer from "components/Footers/Footer.js";
-import biblioteka from './images/biblioteka.jpg';
-import historija1 from './images/historija1.jpg';
-import historija2 from './images/historija2.jpg';
-import historija3 from './images/historija3.jpg';
-import historija4 from './images/historija4.jpg';
+import biblioteka from './images/biblioteka.webp';
+import historija1 from './images/historija1.webp';
+import historija2 from './images/historija2.webp';
+import historija3 from './images/historija3.webp';
+import historija4 from './images/historija4.webp';
 
 export default function Index() {
 

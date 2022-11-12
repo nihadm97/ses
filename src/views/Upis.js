@@ -2,14 +2,14 @@ import React from "react";
 import { Link } from "react-router-dom";
 import {useRef, useState} from "react";
 import { send } from 'emailjs-com';
-import background from "./images/pozadina.jpg"
+import background from "./images/pozadina.webp"
 // components
 import { useEffect } from "react";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import UpisNavbar from "components/Navbars/UpisNavbar";
 import Footer from "components/Footers/Footer.js";
-import upis1 from './images/upis1.jpg';
+import upis1 from './images/upis1.webp';
 import video1 from './video.mp4';
 
 
