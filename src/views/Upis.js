@@ -50,10 +50,7 @@ export default function Upis() {
     setToSend({ ...toSend, [e.target.name]: e.target.value });
   };
   const myRef = useRef(null)
-  const ScrollDemo = () => {
-    const myRef = useRef(null)
-  }
-   const executeScroll = () => myRef.current.scrollIntoView() 
+  const executeScroll = () => myRef.current.scrollIntoView() 
   return (
     <>
       <UpisNavbar transparent />
