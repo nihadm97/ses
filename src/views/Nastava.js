@@ -1,8 +1,8 @@
 import React from "react";
-import Video2 from './images/VideoN1.gif';
-import Video4 from './images/VideoN2.gif';
-import Video1 from './images/VideoN3.gif';
-import Video3 from './images/VideoN4.gif';
+import Video2 from './images/VideoN3.webp';
+import Video4 from './images/VideoN4.webp';
+import Video1 from './images/VideoN1.webp';
+import Video3 from './images/VideoN2.webp';
 // components
 import { useEffect } from "react";
 import AOS from 'aos';
