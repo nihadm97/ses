@@ -2,9 +2,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 // components
-import logo from './logo.jpg';
-import etwi1 from './etwi1.jpg';
-import etwi2 from './etwi2.png';
+import logo from './logo.webp';
+import etwi1 from './etwi1.webp';
+import etwi2 from './etwi2.webp';
 
 
 

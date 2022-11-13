@@ -1,5 +1,5 @@
 import React from "react";
-import brošura from './brošura.png';
+import brošura from './brošura.webp';
 import { Link } from "react-router-dom";
 
 export default function Footer() {

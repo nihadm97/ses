@@ -1,8 +1,8 @@
 import React from "react";
-import logo from './logo.jpg';
+import logo from './logo.webp';
 import { Link } from "react-router-dom";
-import etwi1 from './etwi1.jpg';
-import etwi2 from './etwi2.png';
+import etwi1 from './etwi1.webp';
+import etwi2 from './etwi2.webp';
 
 export default function Menu() {
   const [menuOpen, setMenuOpen] = React.useState(false);

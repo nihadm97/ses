@@ -2,8 +2,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import etwi1 from './etwi1.jpg';
-import etwi2 from './etwi2.png';
+import etwi1 from './etwi1.webp';
+import etwi2 from './etwi2.webp';
 
 
 

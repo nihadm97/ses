@@ -135,7 +135,7 @@ const Kontakt = () => {
                     <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: 'rgb(254, 125, 1)'}}>
                     </span>
                   </div>
-                  <h6 class="text-xl font-semibold">Telefon</h6>
+                  <h6 class="text-xl font-semibold">Kontakt</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">Tehnički sekretar: +387 33 724 610</p>
                   <p class="mt-2 mb-4 text-blueGray-500">Email: ses@ses.edu.ba</p>
                     </div>
