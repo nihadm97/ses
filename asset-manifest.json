@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ses/static/css/main.97c3fd43.css",
-    "main.js": "/ses/static/js/main.4fee9b19.js",
+    "main.js": "/ses/static/js/main.c182bd5f.js",
     "static/media/video.mp4": "/ses/static/media/video.fb8e17f79670656eb550.mp4",
     "static/media/skola.webp": "/ses/static/media/skola.5603449ea771e46f549b.webp",
     "static/media/VideoP.webp": "/ses/static/media/VideoP.189c8000610b021a4a07.webp",
@@ -14,7 +14,6 @@
     "static/media/fa-solid-900.eot": "/ses/static/media/fa-solid-900.efbd5d20e407bbf85f2b.eot",
     "static/media/fa-solid-900.ttf": "/ses/static/media/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
     "static/media/upis1.webp": "/ses/static/media/upis1.e8790a22d2517ee35354.webp",
-    "static/media/brošura.png": "/ses/static/media/brošura.d5bb094ec769b41cb5c3.png",
     "static/media/fa-regular-400.svg": "/ses/static/media/fa-regular-400.19e27d348fefc21941e0.svg",
     "static/media/biblioteka.webp": "/ses/static/media/biblioteka.cf779d5388b7a22600c3.webp",
     "static/media/fa-brands-400.eot": "/ses/static/media/fa-brands-400.89a52ae1d02b86d61439.eot",
@@ -29,20 +28,22 @@
     "static/media/zeleno1.webp": "/ses/static/media/zeleno1.e239e8d85a60982c96c7.webp",
     "static/media/fa-regular-400.eot": "/ses/static/media/fa-regular-400.4079ae2d2a15d0689568.eot",
     "static/media/fa-regular-400.ttf": "/ses/static/media/fa-regular-400.1017bce89c72f95bcf8e.ttf",
-    "static/media/logo.jpg": "/ses/static/media/logo.5f695801d1afba7b1a7f.jpg",
     "static/media/fa-regular-400.woff": "/ses/static/media/fa-regular-400.3672264812746c3c7225.woff",
+    "static/media/brošura.webp": "/ses/static/media/brošura.c8316107973a04773fc2.webp",
     "static/media/historija3.webp": "/ses/static/media/historija3.1b9d5b4ca7be06d0b296.webp",
     "static/media/fa-regular-400.woff2": "/ses/static/media/fa-regular-400.68c5af1f48e2bfca1e57.woff2",
-    "static/media/etwi2.png": "/ses/static/media/etwi2.f0b1a51b5f77d986307a.png",
     "static/media/historija4.webp": "/ses/static/media/historija4.f1a2d135154fa8acee65.webp",
     "static/media/historija1.webp": "/ses/static/media/historija1.a4d02bd9b124cbd89114.webp",
+    "static/media/logo.webp": "/ses/static/media/logo.3718ca52f0d4995f1bfc.webp",
     "static/media/historija2.webp": "/ses/static/media/historija2.db39a9901a326daefc4c.webp",
+    "static/media/etwi2.webp": "/ses/static/media/etwi2.23a5a5fd6499c6cad4f2.webp",
+    "static/media/etwi1.webp": "/ses/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/ses/index.html",
     "main.97c3fd43.css.map": "/ses/static/css/main.97c3fd43.css.map",
-    "main.4fee9b19.js.map": "/ses/static/js/main.4fee9b19.js.map"
+    "main.c182bd5f.js.map": "/ses/static/js/main.c182bd5f.js.map"
   },
   "entrypoints": [
     "static/css/main.97c3fd43.css",
-    "static/js/main.4fee9b19.js"
+    "static/js/main.c182bd5f.js"
   ]
 }
