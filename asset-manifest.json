@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/ses/static/css/main.97c3fd43.css",
+    "main.css": "/ses/static/css/main.87454dd7.css",
     "main.js": "/ses/static/js/main.c182bd5f.js",
+    "static/media/skola.gif": "/ses/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/video.mp4": "/ses/static/media/video.fb8e17f79670656eb550.mp4",
-    "static/media/skola.webp": "/ses/static/media/skola.5603449ea771e46f549b.webp",
     "static/media/VideoP.webp": "/ses/static/media/VideoP.189c8000610b021a4a07.webp",
     "static/media/VideoN1.webp": "/ses/static/media/VideoN1.2a31a1110efe3086d9dd.webp",
     "static/media/VideoN2.webp": "/ses/static/media/VideoN2.bdc259207c0290a545c1.webp",
@@ -39,11 +39,11 @@
     "static/media/etwi2.webp": "/ses/static/media/etwi2.23a5a5fd6499c6cad4f2.webp",
     "static/media/etwi1.webp": "/ses/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/ses/index.html",
-    "main.97c3fd43.css.map": "/ses/static/css/main.97c3fd43.css.map",
+    "main.87454dd7.css.map": "/ses/static/css/main.87454dd7.css.map",
     "main.c182bd5f.js.map": "/ses/static/js/main.c182bd5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.97c3fd43.css",
+    "static/css/main.87454dd7.css",
     "static/js/main.c182bd5f.js"
   ]
 }
