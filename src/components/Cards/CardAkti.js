@@ -424,7 +424,7 @@ rel="noreferrer"
                   </span>
                 </th>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
-                  16
+                  17
                 </td>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   OSOBLJE I UČENIKE
@@ -450,6 +450,16 @@ rel="noreferrer"
           "bg-white text-base z-50 float-left py-2 list-none text-left rounded shadow-lg min-w-48"
         }
       >
+        <a
+          href="https://drive.google.com/file/d/1FyrC7yyP6gJlrG1EkFJUs-wM5rpZD-GP/view?ts=6391b5dd"
+          className={
+            "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
+          }
+          target="_blank"
+          rel="noreferrer"
+        >
+          Pravilnik o prijavljivanju korupcije
+        </a>
         <a
           href="https://drive.google.com/file/d/1dOtnFY-MJUu_5xUNWq6weHAkKu5C5Ls7/view"
           className={
@@ -671,14 +681,14 @@ rel="noreferrer"
           Ostali propisi
         </a>
         <a
-          href="https://drive.google.com/file/d/1ZLyiKOcmCfA5gn-KsyhCS5yXaHaU9mi9/view?usp=sharing"
+          href="https://drive.google.com/file/d/1Fbx7hqvAdCM39Rl2A7imAy7rQlDqchvL/view?usp=sharing"
           className={
             "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
           }
           target="_blank"
           rel="noreferrer"
         >
-          Obrazac za prijavu nasilja
+          Obrazac za prijavu korupcije
         </a>
       </div>
                 </td>
