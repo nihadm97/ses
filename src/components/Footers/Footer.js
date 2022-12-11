@@ -37,6 +37,7 @@ export default function Footer() {
               <div className="flex flex-wrap items-top mb-6">
                 <div className="w-full lg:w-4/12 px-4 ml-auto">
                   <br></br>
+                  <br></br>
                   <span className="block uppercase text-blueGray-500 text-sm font-semibold mb-2">
                     ADRESA
                   </span>
@@ -88,6 +89,14 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
+                        href="https://drive.google.com/file/d/1r4Cfg5sNGS8AGF8yw6uYojIBixihhP-2/view"
+                      >
+                        Nabavka opreme za fuskulturnu salu
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                         href="http://upis.unsa.ba/"
                       >
                         Upis na fakultet
@@ -120,7 +129,7 @@ export default function Footer() {
               <div className="text-sm text-blueGray-500 font-semibold py-1">
                 Copyright © {new Date().getFullYear()} by{" "}
                 <a
-                  href="https://portfolio-nihad-mehmedovic.herokuapp.com/"
+                  href="https://nihadm97.github.io/Portfolio/#/"
                   className="text-blueGray-500 hover:text-blueGray-800"
                 >
                   Nihad Mehmedović

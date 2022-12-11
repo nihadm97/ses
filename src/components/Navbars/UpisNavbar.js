@@ -55,6 +55,15 @@ export default function Upis(props) {
                     </Link>
                   </li>
                   <li className="nav-item">
+                    <a
+                      className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLScAdSBBDsq265PqFsJqO4-hGvBMnzg_BvNexUC7mnyf5QC74A/viewform"
+                      style={{color: '#92d050'}}
+                    >
+                      PRIJAVA KORUPCIJE
+                    </a>
+                  </li>
+                  <li className="nav-item">
                     <Link
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
                       to="/informacije"

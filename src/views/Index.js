@@ -52,7 +52,7 @@ export default function Index() {
           <div className="w-full md:w-8/12 ml-20 lg:w-8/12 xl:w-8/12 px-10">
             <div id = "div" className="sm:pt-0 rounded text-center lg:text-left hidden" style={{backgroundColor: "rgb(0, 0, 0, 0.5"}}>
               <h2 className="font-serif text-4xl text-white">
-              Dobro došli u Ekonomsku školu !
+              Dobro došli u Ekonomsku školu!
               </h2>
               <b><p className="mt-4 text-lg leading-relaxed text-white">Čovjekov je odgoj ogledalo u kojem pokazuje svoj portret. Podučavanje je profesija koja podučava sve druge profesije.
               </p></b>
