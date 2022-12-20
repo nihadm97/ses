@@ -511,7 +511,7 @@ rel="noreferrer"
           Pravilnik o praćenju, vrednovanju i ocjenjivanju učenika
         </a>
         <a
-          href="https://drive.google.com/file/d/16jU87NHT36RnyP-KiHCUfS3CdX2eMjuV/view"
+          href="https://drive.google.com/file/d/1k9ndUNoshsothwUr9eWaATqD-HsC9wQ9/view?usp=sharing"
           className={
             "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
           }
