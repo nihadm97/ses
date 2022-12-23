@@ -37,7 +37,6 @@ export default function Footer() {
               <div className="flex flex-wrap items-top mb-6">
                 <div className="w-full lg:w-4/12 px-4 ml-auto">
                   <br></br>
-                  <br></br>
                   <span className="block uppercase text-blueGray-500 text-sm font-semibold mb-2">
                     ADRESA
                   </span>
@@ -70,6 +69,14 @@ export default function Footer() {
                         Bosna i Hercegovina
                       </a>
                     </li>
+                    <li>
+                      <Link
+                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
+                        to="/kontakt"
+                      >
+                        Kontaktirajte nas
+                      </Link>
+                    </li>
                   </ul>
                 </div>
                 <div className="w-full lg:w-4/12 px-4">
@@ -84,6 +91,14 @@ export default function Footer() {
                         href="https://jn.ks.gov.ba/pretraga/31"
                       >
                         Javne nabavke
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
+                        href="https://drive.google.com/file/d/137gt-MuKMKNFhlkOvTLlaoRFnSEGQ6mH/view?usp=sharing"
+                      >
+                        Plan integriteta
                       </a>
                     </li>
                     <li>
@@ -108,14 +123,6 @@ export default function Footer() {
                         to="/uposlenici"
                       >
                         Radnice i radnici
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        to="/kontakt"
-                      >
-                        Kontaktirajte nas
                       </Link>
                     </li>
                   </ul>
