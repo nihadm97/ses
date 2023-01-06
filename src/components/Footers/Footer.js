@@ -88,7 +88,7 @@ export default function Footer() {
                   <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://jn.ks.gov.ba/pretraga/31"
+                        href="https://www.anticorrupiks.com/institucija/867DF5AE-1867-864E-8EBF-879AC0D6637E/registar-javnih-nabavki"
                       >
                         Javne nabavke
                       </a>
