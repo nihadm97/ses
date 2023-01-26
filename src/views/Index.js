@@ -80,9 +80,89 @@ export default function Index() {
           </div>
         </div>
       </section>
+      <section className="pb-16 bg-blueGray-200 relative pt-32">
+        <div
+          className="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
+          style={{ transform: "translateZ(0)" }}
+        >
+          <svg
+            className="absolute bottom-0 overflow-hidden"
+            xmlns="http://www.w3.org/2000/svg"
+            preserveAspectRatio="none"
+            version="1.1"
+            viewBox="0 0 2560 100"
+            x="0"
+            y="0"
+          >
+            <polygon
+              className="text-blueGray-200 fill-current"
+              points="2560 0 2560 100 0 100"
+            ></polygon>
+          </svg>
+        </div>
 
+        <div className="container mx-auto">
+          <div className="flex flex-wrap justify-center bg-white shadow-xl rounded-lg py-16 px-12 relative z-10"> 
+      <section className="bg-white w-full">
+          <div className="container mx-auto px-4">
+            <div className="flex flex-wrap">
+              <div data-aos="fade-in" className="w-full text-center md:w-6/12 mt-4">
+              <div>
+                    <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: "rgb(254, 125, 1)"}}>
+                    </span>
+              </div>
+              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "rgb(254, 125, 1)"}}>Informacije za učenike</h4>
+            {sortirani.map(obj  => 
+                <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
+                  <div className="flex-auto">
+                  <a
+                  className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
+                  href={obj.Link}
+                  target="_blank"
+                  rel="noreferrer"
+                  
+                >
+                  {obj.Naslov}
+                  
+                </a>
+                  
+                    </div>
+                  </div>)}
+                </div>
+              <div data-aos="fade-in" className="w-full text-center md:w-6/12 mt-4">
+              <div>
+                    <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: '#92d050'}}>
+                    </span>
+              </div>
+              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "#92d050"}}>Ostale informacije</h4>
+            {sortirani1.map(obj  => 
+                <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
+                  <div className="flex-auto">
+                  <a
+                  className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
+                  href={obj.Link}
+                  target="_blank"
+                  rel="noreferrer"
+                  
+                >
+                  {obj.Naslov}
+                  
+                </a>
+                  
+                    </div>
+                  </div>)}
+              </div>
+              
+            </div>
+            </div>
+          </section>
+          
+
+          </div>
+        </div>
+      </section>
+      
       <section data-aos="fade-in" className="pb-40 relative bg-blueGray-100">
-        
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center">
             <div className="w-11/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32" style={{marginTop: "15%"}}>
@@ -240,91 +320,6 @@ Ovo odlikovanje bilo je priznanje za sve generacije učenika, profesora i drugih
 
 
        
-      </section>
-
-      
-
-      
-      <section className="pb-16 bg-blueGray-200 relative pt-32">
-        <div
-          className="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
-          style={{ transform: "translateZ(0)" }}
-        >
-          <svg
-            className="absolute bottom-0 overflow-hidden"
-            xmlns="http://www.w3.org/2000/svg"
-            preserveAspectRatio="none"
-            version="1.1"
-            viewBox="0 0 2560 100"
-            x="0"
-            y="0"
-          >
-            <polygon
-              className="text-blueGray-200 fill-current"
-              points="2560 0 2560 100 0 100"
-            ></polygon>
-          </svg>
-        </div>
-
-        <div className="container mx-auto">
-          <div className="flex flex-wrap justify-center bg-white shadow-xl rounded-lg py-16 px-12 relative z-10"> 
-      <section className="bg-white w-full">
-          <div className="container mx-auto px-4">
-            <div className="flex flex-wrap">
-              <div data-aos="fade-in" className="w-full text-center md:w-6/12 mt-4">
-              <div>
-                    <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: "rgb(254, 125, 1)"}}>
-                    </span>
-              </div>
-              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "rgb(254, 125, 1)"}}>Informacije za učenike</h4>
-            {sortirani.map(obj  => 
-                <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
-                  <div className="flex-auto">
-                  <a
-                  className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
-                  href={obj.Link}
-                  target="_blank"
-                  rel="noreferrer"
-                  
-                >
-                  {obj.Naslov}
-                  
-                </a>
-                  
-                    </div>
-                  </div>)}
-                </div>
-              <div data-aos="fade-in" className="w-full text-center md:w-6/12 mt-4">
-              <div>
-                    <span className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full" style={{backgroundColor: '#92d050'}}>
-                    </span>
-              </div>
-              <h4 className="text-xl font-semibold uppercase mb-6" style={{color: "#92d050"}}>Ostale informacije</h4>
-            {sortirani1.map(obj  => 
-                <div className="relative flex flex-col min-w-0 break-words w-full mb-2 rounded-lg">
-                  <div className="flex-auto">
-                  <a
-                  className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
-                  href={obj.Link}
-                  target="_blank"
-                  rel="noreferrer"
-                  
-                >
-                  {obj.Naslov}
-                  
-                </a>
-                  
-                    </div>
-                  </div>)}
-              </div>
-              
-            </div>
-            </div>
-          </section>
-          
-
-          </div>
-        </div>
       </section>
       <Footer />
     </>
