@@ -152,7 +152,7 @@ export default function CardAkti({ color }) {
                   </span>
                 </th>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
-                  8
+                  6
                 </td>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   OSOBLJE I UČENIKE
@@ -229,16 +229,6 @@ rel="noreferrer"
           Pravilnik o zaštiti na radu 
         </a>
         <a
-          href="https://drive.google.com/file/d/1NF7kBd3FawyZ1uVTZ4RxJcG1W36ao2Pd/view"
-          className={
-            "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
-          }
-          target="_blank"
-rel="noreferrer"
-        >
-          Pravilnik o II izmjenama i dopunama pravilnika o radu 
-        </a>
-        <a
           href="https://drive.google.com/file/d/1fY68_q27E7ActhnFUY6OSrRKpJXp5lMJ/view"
           className={
             "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
@@ -247,16 +237,6 @@ rel="noreferrer"
 rel="noreferrer"
         >
           Pravilnik o radu
-        </a>
-        <a
-          href="https://drive.google.com/file/d/1Knp8DpLgiFvJpqGHrW1hfpehZKq6CHgI/view"
-          className={
-            "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
-          }
-          target="_blank"
-          rel="noreferrer"
-        >
-          Izmjene i dopune pravilnika o radu
         </a>
       </div>
                 </td>
