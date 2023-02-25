@@ -77,6 +77,14 @@ export default function Footer() {
                         Kontaktirajte nas
                       </Link>
                     </li>
+                    <li>
+                      <Link
+                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
+                        to="/uposlenici"
+                      >
+                        Radnice i radnici
+                      </Link>
+                    </li>
                   </ul>
                 </div>
                 <div className="w-full lg:w-4/12 px-4">
@@ -104,6 +112,14 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
+                        href="https://drive.google.com/file/d/1IP1ZG_f3nyugmlH8n1qWuV6racqKCBYt/view"
+                      >
+                        Dopunjeni plan integriteta
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                         href="https://drive.google.com/file/d/1r4Cfg5sNGS8AGF8yw6uYojIBixihhP-2/view"
                       >
                         Nabavka opreme za fuskulturnu salu
@@ -116,14 +132,6 @@ export default function Footer() {
                       >
                         Upis na fakultet
                       </a>
-                    </li>
-                    <li>
-                      <Link
-                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        to="/uposlenici"
-                      >
-                        Radnice i radnici
-                      </Link>
                     </li>
                   </ul>
                 </div>

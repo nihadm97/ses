@@ -300,7 +300,7 @@ export default function Index() {
 
             <div className="w-full md:w-7/12 px-12 md:px-4 ml-auto mr-auto mt-48 text-center md:text-left">
               <h3 className="text-3xl mb-2 font-semibold leading-normal">
-              Historijat od 1912. godine do danas
+              O školi...
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
               Nakon 1945. godine, škola je nosila svoj prvobitni naziv Trgovačka akademija. Od 27. juna 1951. godine dobiva ime Srednja ekonomska škola u Sarajevu, a zatim 1960. godine Ekonomska škola "Hasan Brkić" u Sarajevu. U toku rata 1992-1995. godine ponovno dobiva naziv Srednja ekonomska škola u Sarajevu. 
