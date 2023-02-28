@@ -55,10 +55,12 @@ const Projekti = () => {
                     {obj.paragrafi.map(paragraf  => 
                   <p className="mb-4 text-blueGray-500">{paragraf}</p> 
               )}
- 
-
-</span>
+                  </span>
+                  
                   </div>
+              <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+      {typeof obj.video=="string" ? <video src={obj.video} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/> : ""} 
+              </div>
                 </div>
               </div>
             </div>
