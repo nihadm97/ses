@@ -57,10 +57,12 @@ const Projekti = () => {
               )}
                   </span>
                   
-                  </div>
+                  </div> 
               <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+              {typeof obj.link=="string" ? <a href={obj.link} target="_blank" rel="noreferrer" style={{color: "#fe7d01"}} > Pročitaj više: </a>: ""} 
       {typeof obj.video=="string" ? <video src={obj.video} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/> : ""} 
               </div>
+              
                 </div>
               </div>
             </div>
