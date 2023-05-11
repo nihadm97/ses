@@ -57,7 +57,7 @@ export default function Index() {
               <b><p className="mt-4 text-lg leading-relaxed text-white">Čovjekov je odgoj ogledalo u kojem pokazuje svoj portret. Podučavanje je profesija koja podučava sve druge profesije.
               </p></b>
               <div className="mt-12">
-                <Link
+                {/*<Link
                   to="/upis"
                   target="_blank"
                   rel="noreferrer"
@@ -66,16 +66,27 @@ export default function Index() {
                 >
                   Upis u SEŠ
                 </Link>
+          */}
                 <Link
                   to="/kontakt"
                   target="_blank"
                   rel="noreferrer"
                   className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+                  style={{backgroundColor: '#92d050'}} 
                 >
                   Kontakt
                 </Link>
+                <a href="https://drive.google.com/file/d/1QYKXdA6nr4I_tOVrPnmu28xQ9FYIMmGL/view"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-red-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+                  style={{backgroundColor: 'rgb(254, 125, 1)'}}                
+                >
+                  Iznajmljivanje sale
+                </a>
               </div>
             </div>
+            
           </div>
           </div>
         </div>
