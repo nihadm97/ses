@@ -66,7 +66,7 @@ export default function Index() {
                 >
                   Upis u SEŠ
                 </Link>
-          */}
+          
                 <Link
                   to="/kontakt"
                   target="_blank"
@@ -75,7 +75,15 @@ export default function Index() {
                   style={{backgroundColor: '#92d050'}} 
                 >
                   Kontakt
-                </Link>
+                </Link> */} 
+                <a href="https://drive.google.com/file/d/1v9wzM5lVsdeuUlsp8xmFTmosarPv9qbC/view"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-red-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+                  style={{backgroundColor: '#92d050'}}                
+                >
+                  Upis 2023 - 2024.
+                </a>
                 <a href="https://drive.google.com/file/d/1QYKXdA6nr4I_tOVrPnmu28xQ9FYIMmGL/view"
                   target="_blank"
                   rel="noreferrer"
