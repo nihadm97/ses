@@ -13,6 +13,16 @@ import slika2 from './stem2.jpg';
 import slika3 from './stem3.jpg';
 import slika4 from './stem4.jpg';
 import slika5 from './stem5.jpg';
+import dan1 from './images/dan1.jpg';
+import dan2 from './images/dan2.jpg';
+import dan3 from './images/dan3.jpg';
+import dan4 from './images/dan4.jpg';
+import dan5 from './images/dan5.jpg';
+import dan6 from './images/dan6.jpg';
+import dan7 from './images/dan7.jpg';
+import dan8 from './images/dan8.jpg';
+import dan9 from './images/dan9.jpg';
+import video from './images/video2.mp4';
 
 const Projekti = () => {
   useEffect(() => {
@@ -33,6 +43,71 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">SRETAN 111. ROĐENDAN</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={dan1} alt="" />
+                    </div>
+                    <div>
+                        <img src={dan2} alt="" />
+                    </div>
+                    <div>
+                        <img src={dan3} alt="" />
+                    </div>
+                    <div>
+                        <img src={dan4} alt="" />
+                    </div>
+                    <div>
+                        <img src={dan5} alt="" />
+                    </div>
+                    <div>
+                        <img src={dan6} alt="" />
+                    </div>
+                    <div>
+                        <img src={dan7} alt="" />
+                    </div>
+                    <div>
+                        <img src={dan8} alt="" />
+                    </div>
+                    <div>
+                        <img src={dan9} alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+                    
+                  <p className="mb-4 text-blueGray-500">1. oktobra obilježavamo dan škole.</p>
+                  <p className="mb-4 text-blueGray-500">Povodom toga upućujemo iskrene čestitke našoj dragoj direktorici, svim uposlenicima, učenicima, roditeljima i saradnicima sa željom da i svake naredne godine budemo među najboljim školama i zajedničkim snagama učestvujemo u misiji odgoja i obrazovanja budućih nosioca društva.</p> 
+              
+ 
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               <video src={video} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/>
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
@@ -86,7 +161,6 @@ const Projekti = () => {
 
 </span>
                   </div>
-                 
                 </div>
               </div>
             </div>
