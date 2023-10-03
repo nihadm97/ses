@@ -10,7 +10,9 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import slika1 from './slika1.jpg';
 import slika2 from './slika2.jpg';
-
+import asa1 from './images/asa1.jpg';
+import asa2 from './images/asa2.jpg';
+import asa3 from './images/asa3.jpg';
 
 
 const Projekti = () => {
@@ -32,6 +34,51 @@ const Projekti = () => {
   return (
     <>
     <ProjektiNavbar fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Nastavak saradnje sa ASA bankom</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={asa1} alt="" />
+                    </div>
+                    <div>
+                        <img src={asa2} alt="" />
+                    </div>
+                    <div>
+                        <img src={asa3} alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+                    
+                  <p className="mb-4 text-blueGray-500">
+U okviru Memoranduma o saradnji koji je naša škola potpisala sa ASA bankom prošle godine, školi je doniran smart TV.</p>
+                  <p className="mb-4 text-blueGray-500">Ovim gestom ASA banka je pokazala da je društveno odgovorna organizacija i da je ulaganje u obrazovanje ulaganje u budućnost ove zemlje.</p> 
+                  <p className="mb-4 text-blueGray-500">Zahvaljujući ovom poklonu nastavljamo unaprjeđivati nastavni proces i saradnju koju je sa ASA bankom započela direktorica škole Amira Kadrispahić.</p>      
+              
+ 
+
+</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
