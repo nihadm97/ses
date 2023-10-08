@@ -108,6 +108,16 @@ export default function Navbar(props) {
                 </a>
                 <a
                   className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold"
+                  href="https://www.instagram.com/srednja_ekonomska_skola/"
+                  target="_blank"
+                  rel="noreferrer"
+                  
+                >
+                  <i className="px-2 text-blueGray-400 fab fa-instagram text-lg leading-lg " />
+                  
+                </a>
+                <a
+                  className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold"
                   href="https://school-education.ec.europa.eu/en/etwinning"
                   target="_blank"
                   rel="noreferrer"
@@ -118,7 +128,7 @@ export default function Navbar(props) {
                 </a>
                 <a
                   className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold px-6"
-                  href="https://sites.google.com/a/ses.edu.ba/srednja-ekonomska-skola---etwinning-tim/?fbclid=IwAR0xKMAKKGN0b65xh_OXHy_4GdzXJ03Z8QFAEd_4OSg0m17Ay9_D0IxcvWg"
+                  href="https://sites.google.com/ses.edu.ba/srednjaekonomskakola-etwinning/o-etwinningu"
                   target="_blank"
                   rel="noreferrer"
                   
