@@ -65,10 +65,10 @@ const Projekti = () => {
                   <div className="px-4 py-5 flex-auto">
                   <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
                     
-                  <p className="mb-4 text-blueGray-500">
-U okviru Memoranduma o saradnji koji je naša škola potpisala sa ASA bankom prošle godine, školi je doniran smart TV.</p>
-                  <p className="mb-4 text-blueGray-500">Ovim gestom ASA banka je pokazala da je društveno odgovorna organizacija i da je ulaganje u obrazovanje ulaganje u budućnost ove zemlje.</p> 
-                  <p className="mb-4 text-blueGray-500">Zahvaljujući ovom poklonu nastavljamo unaprjeđivati nastavni proces i saradnju koju je sa ASA bankom započela direktorica škole Amira Kadrispahić.</p>      
+                  <p className="mb-4 text-blueGray-500"><i>"Niko nije beskoristan na ovom svijetu ko olakšava breme drugog."</i> - Charles Dickens</p>
+                  <p className="mb-4 text-blueGray-500">U okviru Memoranduma o saradnji, kojeg je naša škola potpisala sa ASA bankom prošle godine, Školi je donirano izuzetno vrijedno nastavno sredstvo - smart TV.</p>
+                  <p className="mb-4 text-blueGray-500">Ovom gestom, ASA banka je pokazala da je društveno odgovorna organizacija, te da je ulaganje u obrazovanje, ulaganje u budućnost.</p> 
+                  <p className="mb-4 text-blueGray-500">Radujemo se nastavku naše saradnje, koju je započela direktorica Škole, Amira Kadrispahić, a u cilju unaprjeđenja nastavnog procesa.</p>      
               
  
 
