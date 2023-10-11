@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.b3bd2a7e.js",
+    "main.js": "/static/js/main.7f282130.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/video.mp4": "/static/media/video.fb8e17f79670656eb550.mp4",
     "static/media/VideoP.webp": "/static/media/VideoP.189c8000610b021a4a07.webp",
@@ -14,19 +14,25 @@
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/brošura.webp": "/static/media/brošura.fdf1e52f0ad92b37ffa3.webp",
     "static/media/slika1.jpg": "/static/media/slika1.b00d875372dd9e9d9ad5.jpg",
+    "static/media/vrh1.jpg": "/static/media/vrh1.11dd3018ce8db31e0f07.jpg",
     "static/media/asa2.jpg": "/static/media/asa2.aeb2d270e6c780fb6eca.jpg",
+    "static/media/streliste0.jpg": "/static/media/streliste0.461f13375dc3dee4b1d8.jpg",
     "static/media/stem3.jpg": "/static/media/stem3.20d6e39466b06e4f2f92.jpg",
+    "static/media/muzej4.jpg": "/static/media/muzej4.2f54bea6dd137ad02f45.jpg",
     "static/media/dan8.jpg": "/static/media/dan8.68ba5dd5446bc72c1155.jpg",
     "static/media/dan3.jpg": "/static/media/dan3.04c68f0d0be922c3c4fc.jpg",
     "static/media/dan9.jpg": "/static/media/dan9.bae871a8e3a78c9b5373.jpg",
+    "static/media/muzej3.jpg": "/static/media/muzej3.1974bab82f62efefdbd3.jpg",
+    "static/media/streliste1.jpg": "/static/media/streliste1.b7d9d1d446608c7865f5.jpg",
     "static/media/dan6.jpg": "/static/media/dan6.f3949881a4a4216bb1e0.jpg",
-    "static/media/spars1.jpg": "/static/media/spars1.60325230a34b458674e8.jpg",
     "static/media/stem1.jpg": "/static/media/stem1.09d87320817af49bac6c.jpg",
     "static/media/dan5.jpg": "/static/media/dan5.0b11aae943c1d3c20144.jpg",
     "static/media/asa3.jpg": "/static/media/asa3.4dc2bfa18668051025e1.jpg",
     "static/media/stem2.jpg": "/static/media/stem2.d31e17fd6f96ac17c0a6.jpg",
     "static/media/dan7.jpg": "/static/media/dan7.db098b0b172a66495963.jpg",
+    "static/media/muzej1.jpg": "/static/media/muzej1.b41c5d7364d903495f38.jpg",
     "static/media/dan2.jpg": "/static/media/dan2.eb09b81746bbee958837.jpg",
+    "static/media/muzej2.jpg": "/static/media/muzej2.f8a7720ca3a85b067fcf.jpg",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.efbd5d20e407bbf85f2b.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
     "static/media/dan4.jpg": "/static/media/dan4.f596910031be261a9133.jpg",
@@ -41,11 +47,14 @@
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.c6ec080084769a6d8a34.woff",
     "static/media/zeleno.webp": "/static/media/zeleno.2e43c83f4fc5678abadd.webp",
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.329a95a9172fdb2cccb4.woff",
+    "static/media/spars2.jpg": "/static/media/spars2.c1c2b169b2c135a6e155.jpg",
     "static/media/pozadina.webp": "/static/media/pozadina.93c9d9173337c41c0150.webp",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.ada6e6df937f7e5e8b79.woff2",
+    "static/media/spars4.jpg": "/static/media/spars4.a58e1b9146bb7db85795.jpg",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c1210e5ebe4344da5083.woff2",
     "static/media/direktorica.webp": "/static/media/direktorica.6251c0392fe6a62e9c23.webp",
     "static/media/stem5.jpg": "/static/media/stem5.e6ef4401c339c1b9b332.jpg",
+    "static/media/spars3.jpg": "/static/media/spars3.7923db2cf57f3cc46f04.jpg",
     "static/media/stem4.jpg": "/static/media/stem4.d53ede28f0271213986f.jpg",
     "static/media/zeleno1.webp": "/static/media/zeleno1.e239e8d85a60982c96c7.webp",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.4079ae2d2a15d0689568.eot",
@@ -61,10 +70,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.b3bd2a7e.js.map": "/static/js/main.b3bd2a7e.js.map"
+    "main.7f282130.js.map": "/static/js/main.7f282130.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.b3bd2a7e.js"
+    "static/js/main.7f282130.js"
   ]
 }
