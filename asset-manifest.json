@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.dab40996.js",
+    "main.js": "/static/js/main.39d81c91.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/video.mp4": "/static/media/video.fb8e17f79670656eb550.mp4",
@@ -21,12 +21,16 @@
     "static/media/izlet7.jpg": "/static/media/izlet7.2ff7edad702b488b735b.jpg",
     "static/media/vrh1.jpg": "/static/media/vrh1.11dd3018ce8db31e0f07.jpg",
     "static/media/asa2.jpg": "/static/media/asa2.aeb2d270e6c780fb6eca.jpg",
+    "static/media/svila5.jpg": "/static/media/svila5.4bdd18c83bc64bb041be.jpg",
     "static/media/izlet6.jpg": "/static/media/izlet6.e71312bdc65482c78029.jpg",
+    "static/media/svila3.jpg": "/static/media/svila3.edf8e993d0b9d5f99794.jpg",
     "static/media/streliste0.jpg": "/static/media/streliste0.461f13375dc3dee4b1d8.jpg",
+    "static/media/opasno1.jpg": "/static/media/opasno1.3e6b11f6e79ea26b2a09.jpg",
     "static/media/izlet5.jpg": "/static/media/izlet5.3302cfbd0d4979fd4b6c.jpg",
     "static/media/stem3.jpg": "/static/media/stem3.20d6e39466b06e4f2f92.jpg",
     "static/media/muzej4.jpg": "/static/media/muzej4.2f54bea6dd137ad02f45.jpg",
     "static/media/izlet2.jpg": "/static/media/izlet2.569c0993137c6f0644a3.jpg",
+    "static/media/opasno2.jpg": "/static/media/opasno2.be254a9f0ba44357c219.jpg",
     "static/media/g2.jpg": "/static/media/g2.399dd1894e68ad9a7059.jpg",
     "static/media/izlet8.jpg": "/static/media/izlet8.6a765a94b55ab630a3c1.jpg",
     "static/media/dan8.jpg": "/static/media/dan8.68ba5dd5446bc72c1155.jpg",
@@ -40,9 +44,11 @@
     "static/media/g1.jpg": "/static/media/g1.35ffbd047f8ebf2a78c7.jpg",
     "static/media/stem1.jpg": "/static/media/stem1.09d87320817af49bac6c.jpg",
     "static/media/dan5.jpg": "/static/media/dan5.0b11aae943c1d3c20144.jpg",
+    "static/media/opasno3.jpg": "/static/media/opasno3.a646cb93b86095a7ab28.jpg",
     "static/media/jabuka1.jpg": "/static/media/jabuka1.9f9d42ff7f9bc7efdf15.jpg",
     "static/media/jabuka3.jpg": "/static/media/jabuka3.e029d07e211c849e3208.jpg",
     "static/media/asa3.jpg": "/static/media/asa3.4dc2bfa18668051025e1.jpg",
+    "static/media/svila1.jpg": "/static/media/svila1.58c4e48e7e9c78cb1468.jpg",
     "static/media/stem2.jpg": "/static/media/stem2.d31e17fd6f96ac17c0a6.jpg",
     "static/media/g3.jpg": "/static/media/g3.566fc01080b2fbcb380d.jpg",
     "static/media/jabuka2.jpg": "/static/media/jabuka2.e21294fc7a4c7cac740a.jpg",
@@ -64,6 +70,7 @@
     "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.89a52ae1d02b86d61439.eot",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.9e138496e8f1719c6ebf.ttf",
     "static/media/carina1.jpg": "/static/media/carina1.f127dd327b43c9246e14.jpg",
+    "static/media/svila2.jpg": "/static/media/svila2.71e32f23ad38edded307.jpg",
     "static/media/dan1.jpg": "/static/media/dan1.38fb472d0c18a2dc72b3.jpg",
     "static/media/izlet9.jpg": "/static/media/izlet9.95591418a6dfa993152b.jpg",
     "static/media/carina2.jpg": "/static/media/carina2.dd7d291a95b493a40257.jpg",
@@ -93,10 +100,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.dab40996.js.map": "/static/js/main.dab40996.js.map"
+    "main.39d81c91.js.map": "/static/js/main.39d81c91.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.dab40996.js"
+    "static/js/main.39d81c91.js"
   ]
 }
