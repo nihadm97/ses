@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.29d27123.js",
+    "main.js": "/static/js/main.e6826226.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/video.mp4": "/static/media/video.fb8e17f79670656eb550.mp4",
@@ -41,6 +41,7 @@
     "static/media/ejs2.jpg": "/static/media/ejs2.5d06863b46e740397a79.jpg",
     "static/media/ejs1.jpg": "/static/media/ejs1.269563e80bb9da3c7020.jpg",
     "static/media/dan3.jpg": "/static/media/dan3.04c68f0d0be922c3c4fc.jpg",
+    "static/media/mete.jpg": "/static/media/mete.6bfe3c03e3a9e7d54532.jpg",
     "static/media/dan9.jpg": "/static/media/dan9.bae871a8e3a78c9b5373.jpg",
     "static/media/bib3.jpg": "/static/media/bib3.dd6be7c217e0f682b9fb.jpg",
     "static/media/medijske2.jpg": "/static/media/medijske2.f7f3bfc52d778e64eb41.jpg",
@@ -118,10 +119,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.29d27123.js.map": "/static/js/main.29d27123.js.map"
+    "main.e6826226.js.map": "/static/js/main.e6826226.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.29d27123.js"
+    "static/js/main.e6826226.js"
   ]
 }
