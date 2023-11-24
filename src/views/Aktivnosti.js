@@ -78,6 +78,19 @@ import stednja3 from './images/stednja3.jpg';
 import stednja4 from './images/stednja4.jpg';
 import stednja5 from './images/stednja5.jpg';
 import mete from './images/mete.jpg';
+import sajamaaa1 from './images/sajamaaa1.jpg';
+import sajamaaa2 from './images/sajamaaa2.jpg';
+import sajamaaa3 from './images/sajamaaa3.jpg';
+import sajamaaa4 from './images/sajamaaa4.jpg';
+import sajamaaa5 from './images/sajamaaa5.jpg';
+import sajamaaa6 from './images/sajamaaa6.jpg';
+import selo1 from './images/selo1.jpg';
+import selo2 from './images/selo2.jpg';
+import selo3 from './images/selo3.jpg';
+import selo4 from './images/selo4.jpg';
+import selo5 from './images/selo5.jpg';
+import selo6 from './images/selo6.jpg';
+import selo7 from './images/selo7.jpg';
 
 const Projekti = () => {
   useEffect(() => {
@@ -98,6 +111,219 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
+   
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Susret škola Dugog Sela i Sarajeva</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={selo1} alt="" />
+                    </div>
+                    <div>
+                        <img src={selo2} alt="" />
+                    </div>
+                    <div>
+                        <img src={selo3} alt="" />
+                    </div>
+                    <div>
+                        <img src={selo4} alt="" />
+                    </div>
+                    <div>
+                        <img src={selo5} alt="" />
+                    </div>
+                    <div>
+                        <img src={selo6} alt="" />
+                    </div>
+                    <div>
+                        <img src={selo7} alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  ETwinning projekat “Besplatna, a čista” je u petak, 10.11. 2023. godine, okupio učenice i učenike iz tri škole na 
+trosatnoj radionici vezanoj za obnovljive izvore energije. 
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Srednja škola Dugo Selo iz Republike Hrvatske 
+bila je domaćin radionice, na kojoj su se njihove/i učenice i učenici zajedno sa učenicama i učenicima naše škole i Srednje 
+zubotehničke škole, Sarajevo, Etwinning teams kroz kvizove, prezentacije i praktične demonstracije 
+družili/e i učili/i. Naredno druženje je zakazano za decembar u Sarajevu!
+ </p> 
+                  <p className="mb-4 text-blueGray-500">Učenici/e Srednje ekonomske škole, Sarajevo, Amar Suljević, Emina Priganica, Emina Ligata, Ena Šehić, 
+Lamija Halilović, Nejra Mušić, te profesorice Lejla Hujdur i Edina Kopić su prisustvovali/e trosatnom 
+programu koji je uključivao edukativne i zabavne sadržaje. Učenici/e iz sarajevskih škola su pripremili 
+Kahoot kviz o poznavanju grada Sarajeva. Pobjednicima kviza uručene su prigodne nagrade.
+ 
+</p>
+                  <p className="mb-4 text-blueGray-500">Profesor Srednje škole Dugo Selo, Republika Hrvatska, Vedran Strmečki, održao je zanimljivo 
+predavanje o sunčevoj energiji. Realizirane su radionice na 3D printeru, dronu i solarnim automobilima, o 
+čemu je sačinjen i videozapis. Posebno je bio zanimljiv Kahoot kviz na temu poznavanja problematike 
+obnovljivih izvora energije i ušteda energije.
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Uslijedio je obilazak grada Zagreba, posjeta Muzeju čokolade Zagreb i Interliberu, 45. Međunarodnom 
+sajmu knjiga na zagrebačkom velesajmu.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Zahvaljujemo Srednjoj školi Dugo Selo za gostoprimstvo! 
+</p> 
+<p className="mb-4 text-blueGray-500">Radujemo se novom susretu i novim projektima!
+</p> 
+</span>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">IX SAJAM BOSANSKOHERCEGOVAČKE PRIVREDE 2023</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={sajamaaa1} alt="" />
+                    </div>
+                    <div>
+                        <img src={sajamaaa2} alt="" />
+                    </div>
+                    <div>
+                        <img src={sajamaaa3} alt="" />
+                    </div>
+                    <div>
+                        <img src={sajamaaa4} alt="" />
+                    </div>
+                    <div>
+                        <img src={sajamaaa5} alt="" />
+                    </div>
+                    <div>
+                        <img src={sajamaaa6} alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Učenici/e četvrtog razreda naše škole su sa profesoricama Lejlom Hujdur, Vildanom Čelić, Lamijom Šabanović i profesorom Edinom
+Selmanović, posjetili IX SAJAM BOSNSKOHERCEGOVAČKE PRIVREDE, u sarajevskom centru Skenderija.
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Ovogodišnji sarajevski Sajam od 02. do 05. novembra, 2023. godine se održava pod motom: „Domaći 
+proizvod u službi građana BIH“.  
+ </p> 
+                  <p className="mb-4 text-blueGray-500">Svojim kvalitetom, sajamske manifestacije zauzimaju veliki značaj u privrednim dešavanjima ovog dijela 
+Evrope. Preko 1500 izlagača i suizlagača, prezentiraju svoje proizvode i usluge. Zahvaljujući 
+dugogodišnjoj uspješnosti, organizaciji i realizaciji ovih manifestacija, te stečenom ugledu i renomeu, 
+sarajevski Sajam je član UFI i EASE. 
+ 
+</p>
+                  <p className="mb-4 text-blueGray-500">Fokus Sajma je na razvoju sektora malog i srednjeg poduzetništva kao generatoru regionalnog i lokalnog 
+rasta i razvoja. Stručno edukativni program koji se održava na centralnom prezentacionom prostoru 
+dvorane Skenderija, bio je u fokusu interesovanja izlagača, posjetilaca i medija.Učenici/e su imali priliku 
+za razgovore sa izlagačima, nove spoznaje, inovacije, trendove u oblasti realnog poslovnog svijeta i 
+poslovne prakse, što će zasigurno doprinijeti njihovoj poslovnoj kreativnosti i kompetencijama.
+</p> 
+ 
+
+</span>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Uspjeh naše učenice Zerine Zec na Međunarodnom  takmičenju u ritmičkoj gimastici, OBUDA CUP 2023, Budimpešta</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Gimnastika%201.jpg?alt=media&token=3b595afe-98b0-48c9-be7f-5b0f60e38fb3" alt="" />
+                    </div>
+                    <div>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Gimnastika%201.jpg?alt=media&token=3b595afe-98b0-48c9-be7f-5b0f60e38fb3" alt="" />
+                    </div>
+                    <div>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Gimnastika%201.jpg?alt=media&token=3b595afe-98b0-48c9-be7f-5b0f60e38fb3" alt="" />
+                    </div>
+                    <div>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Gimnastika%203.jpg?alt=media&token=8728970f-8202-4f8e-bf53-b5ebed7d5071" alt="" />
+                    </div>
+                    <div>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Gimnastika%204.jpg?alt=media&token=305fec67-6abf-426c-809d-18e5f7ba9777" alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Takmičenje u ritmičkoj gimastici je održano u subotu i nedjelju, 28. i 29. oktobra 2023. godine, u Budimpešti, pod nazivom „ OBUDA CUP 2023“ i okupilo je oko 300 takmičara iz petnaest zemalja Evrope, Kipra, Italije, Ukrajine, Slovačke, ... 
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Pored kluba KRG „Željezničar“, Sarajevo,  još tri kluba iz BiH su uzela učešće na takmičenju.  Zerina Zec je nastupila u najtežem programu, tzv.  A programu i osvojila tri medalje u najjačoj konkurenciji: 2. mjesto, rekvizit traka, 3. mjesto rekvizit obruč i 4. mjesto, u ukupnom poretku.   
+ </p> 
+                  <p className="mb-4 text-blueGray-500">Takmičarski program je uključivao tri vježbe i tri rekvizita: vježbu sa obručem, vježbu sa loptom i vježbu sa trakom. 
+</p>
+                  <p className="mb-4 text-blueGray-500">Čestitamo našoj Zerini Zec i poželimo joj još mnogo medalja! 
+</p> 
+ 
+
+</span>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+
+    
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
@@ -200,10 +426,10 @@ const Projekti = () => {
             </div>
             </div>
           </section>
-    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
-              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Dani medijske i informacijske pismenosti u prostorijama Centra za zdravo starenje Novo Sarajevo</h6>
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Dani medijske i informacijske pismenosti, Centar za zdravo starenje Novo Sarajevo</h6>
             </span>
             <div className="flex flex-wrap">
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
@@ -220,6 +446,7 @@ const Projekti = () => {
                     <div>
                         <img src={pismenost3} alt="" />
                     </div>
+                  
                     
                     
                 </Carousel>
@@ -232,16 +459,81 @@ const Projekti = () => {
                   <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
 
                   <p className="mb-4 text-blueGray-500">
-                  U organizaciji Centra za promociju civilnog društva, u Centru za zdravo starenje, održana je radionica Medijske i informacijske pismenosti. U radionici su učestvovale/i i učenice i učenici naše škole u pratnji profesorice Emine Svraka.
-</p> 
-                  <p className="mb-4 text-blueGray-500">Realizacija radionice doprinijela je nastojanjima da zajednički prevaziđemo stereotipe kako starije osobe imaju poteškoće sa učenjem osnovnih principa novih tehnologija. </p> 
-                  <p className="mb-4 text-blueGray-500">Pored navedenog, cilj radionice je i razvijanje svijesti o važnosti medijske pismenosti osnaživanjem građana i građanki, a posebno mladih za kritičko promišljanje medijskih sadržaja. 
-</p>
-                  <p className="mb-4 text-blueGray-500">Važnost odabrane teme ogleda se i u činjenici da su mladi danas dodatno izloženi različitim štetnim sadržajima i dezinformacijama, kako putem medija, tako i društvenih mreža. 
-</p> 
-                  <p className="mb-4 text-blueGray-500">Ulazak u digitalnu sferu, koja se razvija užurbanim tempom, starijim osobama može biti odbojan ili zastrašujući zbog mnoštva opcija koje se nude.</p> 
- 
+                  Centar za promociju civilnog društva, Sarajevo je organizovao radionicu „Dani medijske i 
 
+informacijske pismenosti“ u Centru za zdravo starenje, Novo Sarajevo, 30. oktobra 2023. godine.
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Učenici/e naše škole i profesorica Emina Svraka su prisustvovali/e ovoj radionici. Cilj radionice je 
+
+osnaživanje starijih osoba za usvajanje informatičkih vještina, razvijanje svijesti o važnosti medijske 
+
+pismenosti i kritičkog promišljanja medijskih sadržaja. Kampanja ima za cilj da skrene pažnju na značaj 
+
+odgovornog i sigurnog korištenja digitalnih tehnologija, razvoj svijesti o važnosti medijske pismenosti, 
+
+osnaživanje građana, građanki i mladih za kritičko promišljanje medijskih sadržaja.
+ </p> 
+                  <p className="mb-4 text-blueGray-500">Informacijska i medijska pismenost preduslov je sigurnosti na Internetu, jer bez temeljnih znanja o 
+
+korištenju informacijsko-komunikacijske tehnologije i društvenih medija, nije moguće postići zavidan 
+
+stepen sigurnosti na Internetu. 
+ 
+</p>
+                  <p className="mb-4 text-blueGray-500">Značaj odabrane teme ogleda se u činjenici da su mladi danas dodatno izloženi različitim štetnim 
+
+sadržajima i dezinformacijama, kako putem medija, tako i društvenih mreža, dok ulazak u digitalnu sferu 
+
+koja se razvija užurbanim tempom starijim osobama može biti odbojan ili zastrašujući zbog mnoštva 
+
+opcija koje se nude.
+
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Informacijska i medijska pismenost je osnova za poboljšanje pristupa informacijama i znanju, slobodi 
+
+izražavanja i kvalitetnom obrazovanju. Ona označava vještine i stavove neophodne za vrednovanje 
+
+funkcija medija i ostalih dobavljača informacija, uključujući one na Internetu, za pronalaženje, procjenu i 
+
+kreiranje informacija i medijskog sadržaja.
+
+
+</p> 
+<p className="mb-4 text-blueGray-500">Obilježavanjem Dana medijske i informacijske pismenosti, koje se održavaju od 19. do 29.10.2023. 
+
+godine, upravo se želi ukazati na činjenicu koliko je u savremenom svijetu važno razvijati medijsku pismenost, te 
+
+odgovorno i sigurno upotrebljavati informacije, kritički procjenjivati i stvarati medijski sadržaj.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Cilj radionice je razvijanje vještina kritičkog razmišljanja koja su potrebna za procjenu, analizu složenih 
+
+stanja i prepoznavanja razlika između mišljenja i činjenica.
+</p> 
+<p className="mb-4 text-blueGray-500">Ne zaboravimo:
+</p> 
+<p className="mb-4 text-blueGray-500">Tvoja privatnost - tvoja sigurnost!
+
+</p> 
+<p className="mb-4 text-blueGray-500">Ne vjeruj svemu na internetu!
+</p> 
+<p className="mb-4 text-blueGray-500">Budi oprezan na internetu!
+</p> 
+<p className="mb-4 text-blueGray-500">Prijavi sadržaj koji te uznemirava!
+
+</p> 
+<p className="mb-4 text-blueGray-500">
+Ne budi dio elektronskog nasilja!
+</p> 
+<p className="mb-4 text-blueGray-500">Zahvaljujemo Centru za promociju civilnog društva za promociju medijske i informacijske pismenosti i 
+
+doprinos unapređenju kompetencija naših učenica i učenika. Naravno, i za priliku za međugeneracijsku saradnju i 
+
+umrežavanje.
+</p> 
 </span>
                   </div>
                   

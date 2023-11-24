@@ -41,6 +41,55 @@ const Projekti = () => {
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Obilježavanje Svjetskog dana štednje</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Stednja%202.jpg?alt=media&token=b5134740-bd9e-48e1-9307-da1e948139ee" alt="" />
+                    </div>
+                    <div>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Stednja%203.jpg?alt=media&token=80629c3e-daa7-4869-8354-56975520504a" alt="" />
+                    </div>
+                    <div>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Stednja%201.jpg?alt=media&token=b38553d5-5b52-4933-8688-8dbfd684cf41" alt="" />
+                    </div>
+                    <div>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Stednja%204.jpg?alt=media&token=12aaed9f-87c3-46fc-989f-b24a37d92046" alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+                    
+                  <p className="mb-4 text-blueGray-500">Srednja ekonomska škola, Sarajevo je 31.10.2023. godine tradicionalno obilježila Svjetski dan štednje s ciljem edukacije učenika o štednji i njenoj važnosti.  Program su pripremili i realizovali učenici i učenice od drugog do četvrtog razreda, smjerovi ekonomski i bankarski tehničar, zajedno sa profesoricama Sandom Dupovac i Amrom Hodžić. </p>
+                  <p className="mb-4 text-blueGray-500">U okviru programa koji je počeo izvedbom numere na violini prikazane su prezentacije na temu štednje, dječije štednje, štednje na kupovini hrane i štednji energije, te igrokaz na temu štednje. Osim prezentacija i igrokaza, program je obogatio, recital učenica, obilježavanje trećeg rođendana Bankija i Ekonomija – maskote naše škole i kviz o štednji u kojem su gosti pristupili preko digitalnog QR koda. </p>
+                  <p className="mb-4 text-blueGray-500">U programu koji je prikazan ostvarena je korelacija između slijedećih nastavnih predmeta: Bankarsko poslovanje, Marketing, Informatika, Bosanski / hrvatski / srpski jezik i književnost, Likovna kultura i Muzička kultura gdje su učenici pokazali zavidan nivo kompetencija za medijsku, informatičku i finansijsku pismenost.</p> 
+                  <p className="mb-4 text-blueGray-500"> Prikazani program je primjer dobre prakse kako se u okviru realizacije vannastavnih aktivnosti i stručno-teorijske nastave može sprovesti kurikularala reforma.</p>
+                        
+              
+ 
+
+</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
               <h6 className="text-xl mb-1 font-semibold text-center uppercase">Radionica Medijska i informacijska pismenost uz eTwinning</h6>
             </span>
             <div className="flex flex-wrap">
