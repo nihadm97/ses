@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.2a9e25a6.js",
+    "main.js": "/static/js/main.705e161a.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/video.mp4": "/static/media/video.fb8e17f79670656eb550.mp4",
@@ -12,9 +12,12 @@
     "static/media/VideoN3.webp": "/static/media/VideoN3.a7781cac599336fdef6c.webp",
     "static/media/VideoN4.webp": "/static/media/VideoN4.9c637f3d0b1bab759619.webp",
     "static/media/ples1.mp4": "/static/media/ples1.6a4cd60e386b0943e29a.mp4",
+    "static/media/aaa2.jpg": "/static/media/aaa2.77ce097a06ed63dd70cf.jpg",
+    "static/media/aaa3.jpg": "/static/media/aaa3.6a7cdee5374039c31989.jpg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/izlet3.jpg": "/static/media/izlet3.38e19b0acc5a0fc48a77.jpg",
+    "static/media/aaa1.jpg": "/static/media/aaa1.a0a563e413408e11b9c6.jpg",
     "static/media/brošura.webp": "/static/media/brošura.fdf1e52f0ad92b37ffa3.webp",
     "static/media/goradzde7.jpg": "/static/media/goradzde7.1dbec6b8354b7dcb0527.jpg",
     "static/media/selo7.jpg": "/static/media/selo7.95883e5439c2d47375eb.jpg",
@@ -190,10 +193,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.2a9e25a6.js.map": "/static/js/main.2a9e25a6.js.map"
+    "main.705e161a.js.map": "/static/js/main.705e161a.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.2a9e25a6.js"
+    "static/js/main.705e161a.js"
   ]
 }
