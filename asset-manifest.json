@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.28a509e6.js",
+    "main.js": "/static/js/main.6520e43a.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/video.mp4": "/static/media/video.fb8e17f79670656eb550.mp4",
@@ -40,6 +40,7 @@
     "static/media/izlet7.jpg": "/static/media/izlet7.2ff7edad702b488b735b.jpg",
     "static/media/vrh1.jpg": "/static/media/vrh1.11dd3018ce8db31e0f07.jpg",
     "static/media/ples4.jpg": "/static/media/ples4.b18819072ec963f052b3.jpg",
+    "static/media/pazar3.jpg": "/static/media/pazar3.2a952c54d08770602100.jpg",
     "static/media/asa2.jpg": "/static/media/asa2.aeb2d270e6c780fb6eca.jpg",
     "static/media/yunus2.jpg": "/static/media/yunus2.06c0089dc29c4202596f.jpg",
     "static/media/svila5.jpg": "/static/media/svila5.4bdd18c83bc64bb041be.jpg",
@@ -157,6 +158,7 @@
     "static/media/25ti4.jpg": "/static/media/25ti4.c1605a5ca5ff569ddd5a.jpg",
     "static/media/haa3.jpg": "/static/media/haa3.ee4ccfeb1e7deda7642b.jpg",
     "static/media/25ti3.jpg": "/static/media/25ti3.14479a25313a60a3744b.jpg",
+    "static/media/pazar2.jpg": "/static/media/pazar2.6a9afb770600d03e2aa8.jpg",
     "static/media/25ti2.jpg": "/static/media/25ti2.283448ce6b89c677e0a8.jpg",
     "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.19e27d348fefc21941e0.svg",
     "static/media/biblioteka.webp": "/static/media/biblioteka.cf779d5388b7a22600c3.webp",
@@ -166,7 +168,9 @@
     "static/media/carina1.jpg": "/static/media/carina1.f127dd327b43c9246e14.jpg",
     "static/media/svila2.jpg": "/static/media/svila2.71e32f23ad38edded307.jpg",
     "static/media/dan1.jpg": "/static/media/dan1.38fb472d0c18a2dc72b3.jpg",
+    "static/media/pazar4.jpg": "/static/media/pazar4.da1da28ce8760d49278c.jpg",
     "static/media/izlet9.jpg": "/static/media/izlet9.95591418a6dfa993152b.jpg",
+    "static/media/pazar1.jpg": "/static/media/pazar1.5f98673728ba4fc2f78b.jpg",
     "static/media/carina2.jpg": "/static/media/carina2.dd7d291a95b493a40257.jpg",
     "static/media/dzeki1.jpg": "/static/media/dzeki1.d0c5cd8cd144a1514880.jpg",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.c6ec080084769a6d8a34.woff",
@@ -204,10 +208,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.28a509e6.js.map": "/static/js/main.28a509e6.js.map"
+    "main.6520e43a.js.map": "/static/js/main.6520e43a.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.28a509e6.js"
+    "static/js/main.6520e43a.js"
   ]
 }
