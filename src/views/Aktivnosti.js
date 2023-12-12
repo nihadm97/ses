@@ -91,6 +91,110 @@ import selo4 from './images/selo4.jpg';
 import selo5 from './images/selo5.jpg';
 import selo6 from './images/selo6.jpg';
 import selo7 from './images/selo7.jpg';
+import goradzde1 from './images/goradzde1.jpg';
+import goradzde2 from './images/goradzde2.jpg';
+import goradzde3 from './images/goradzde3.jpg';
+import goradzde4 from './images/goradzde4.jpg';
+import goradzde5 from './images/goradzde5.jpg';
+import goradzde6 from './images/goradzde6.jpg';
+import goradzde7 from './images/goradzde7.jpg';
+import goradzde9 from './images/goradzde8.jpg';
+import goradzde8 from './images/goradzde26.jpg';
+import goradzde10 from './images/goradzde9.jpg';
+import goradzde11 from './images/goradzde10.jpg';
+import goradzde12 from './images/goradzde11.jpg';
+import goradzde13 from './images/goradzde12.jpg';
+import goradzde14 from './images/goradzde13.jpg';
+import goradzde15 from './images/goradzde14.jpg';
+import goradzde16 from './images/goradzde15.jpg';
+import goradzde17 from './images/goradzde16.jpg';
+import goradzde18 from './images/goradzde17.jpg';
+import goradzde19 from './images/goradzde18.jpg';
+import goradzde20 from './images/goradzde19.jpg';
+import goradzde21 from './images/goradzde20.jpg';
+import goradzde22 from './images/goradzde21.jpg';
+import goradzde23 from './images/goradzde22.jpg';
+import goradzde24 from './images/goradzde23.jpg';
+import goradzde25 from './images/goradzde24.jpg';
+import goradzde26 from './images/goradzde25.jpg';
+
+import glob1 from './images/glob1.jpg';
+import glob2 from './images/glob2.jpg';
+import glob3 from './images/glob3.jpg';
+import glob4 from './images/glob4.jpg';
+import glob5 from './images/glob5.jpg';
+import glob6 from './images/glob6.jpg';
+import glob7 from './images/glob7.jpg';
+import glob8 from './images/glob8.jpg';
+import glob9 from './images/glob9.jpg';
+
+import ples1 from './images/ples1.jpg';
+import ples2 from './images/ples2.jpg';
+import ples3 from './images/ples3.jpg';
+import ples4 from './images/ples4.jpg';
+import plesvideo from './images/ples1.mp4';
+
+import dzeki1 from './images/dzeki1.jpg';
+import dzeki2 from './images/dzeki2.jpg';
+import dzeki3 from './images/dzeki3.jpg';
+import dzeki4 from './images/dzeki4.jpg';
+import dzeki5 from './images/dzeki5.jpg';
+import dzeki6 from './images/dzeki6.jpg';
+import dzeki7 from './images/dzeki7.jpg';
+
+import ha1 from './images/ha1.jpg';
+import ha2 from './images/ha2.jpg';
+import ha3 from './images/ha3.jpg';
+import ha4 from './images/ha4.jpg';
+
+import haa1 from './images/haa1.jpg';
+import haa2 from './images/haa2.jpg';
+import haa3 from './images/haa3.jpg';
+
+
+import dand1 from './images/25ti1.jpg';
+import dand2 from './images/25ti2.jpg';
+import dand3 from './images/25ti3.jpg';
+import dand4 from './images/25ti4.jpg';
+
+import aaa1 from './images/aaa1.jpg';
+import aaa2 from './images/aaa2.jpg';
+import aaa3 from './images/aaa3.jpg';
+
+import yunus1 from './images/yunus1.jpg';
+import yunus2 from './images/yunus2.jpg';
+import yunus3 from './images/yunus3.jpg';
+import yunus4 from './images/yunus4.jpg';
+import yunus5 from './images/yunus5.jpg';
+import yunus6 from './images/yunus6.jpg';
+import yunus7 from './images/yunus7.jpg';
+import yunus8 from './images/yunus8.jpg';
+import yunus9 from './images/yunus9.jpg';
+import yunus10 from './images/yunus10.jpg';
+import yunus11 from './images/yunus11.jpg';
+
+import pazar1 from './images/pazar1.jpg';
+import pazar2 from './images/pazar2.jpg';
+import pazar3 from './images/pazar3.jpg';
+import pazar4 from './images/pazar4.jpg';
+
+import poduzetnici1 from './images/poduzetnici1.jpg';
+import poduzetnici2 from './images/poduzetnici2.jpg';
+import poduzetnici3 from './images/poduzetnici3.jpg';
+import poduzetnici4 from './images/poduzetnici4.jpg';
+import poduzetnici5 from './images/poduzetnici5.jpg';
+import poduzetnici6 from './images/poduzetnici6.jpg';
+
+import aids1 from './images/aids1.jpg';
+import aids2 from './images/aids2.jpg';
+import aids3 from './images/aids3.jpg';
+import aids4 from './images/aids4.jpg';
+import aids5 from './images/aids5.jpg';
+
+import dandrzavnosti1 from './images/dandrzavnosti1.jpg';
+import dandrzavnosti2 from './images/dandrzavnosti2.jpg';
+import videoplesdd from './images/videoplesadd.mp4';
+
 
 const Projekti = () => {
   useEffect(() => {
@@ -111,7 +215,1086 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
-   
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Međugeneracijsko druženje povodom Dana državnosti BiH</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={dandrzavnosti1} alt="" />
+                    </div>
+                    <div>
+                        <img src={dandrzavnosti2} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Učenici i učenice plesne grupe Srednje ekonomske škole, u okviru obilježavanja Dana državnosti Bosne i Hercegovine, u petak 24. novembra 2023. godine, posjetili su Centar za zdravo starenje Novo Sarajevo sa profesoricom Dženanom Tanović-Hamzić.
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Plesna grupa izvela je tačku kojom su oduševili i zabavili publiku, koja je u velikom broju prisustvovala ovom svečanom događaju. </p>
+                  <p className="mb-4 text-blueGray-500">Zahvaljujemo Centru za zdravo starenje za poziv i ukazano povjerenje, kao i plesnoj grupi koja je doprinijela ovom značajnom događaju. 
+
+</p>
+                  <p className="mb-4 text-blueGray-500">Sretni smo što smo i ovog puta bili u prilici sarađivati sa divnim ljudima iz Centra.
+
+ 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Više detalja možete pronaći na facebook stranici Centra. 
+
+</p> 
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  <video src={videoplesdd} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/>
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">PROGRAM FONDACIJE PODUZETNIKA U BIH ZA MLADE: <b>ŠKOLA PODUZETNIŠTVA</b></h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={poduzetnici1} alt="" />
+                    </div>
+                    <div>
+                        <img src={poduzetnici2} alt="" />
+                    </div>
+                  <div>
+                        <img src={poduzetnici3} alt="" />
+                    </div>
+                    <div>
+                        <img src={poduzetnici4} alt="" />
+                    </div>
+                    <div>
+                        <img src={poduzetnici5} alt="" />
+                    </div>
+                    <div>
+                        <img src={poduzetnici6} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Za učenice i učenike Srednje poslovne škole i Srednje ekonomske škole u Sarajevu, 1.decembra 2023. godine, Fondacija poduzetnika u BiH pripremila je program Škola poduzetništva u cilju predstavljanja poduzetničkog svijeta i nekih od segmenata koje on podrazumijeva. Sadržaji programa: poduzetništvo, pokretanje biznisa, fondovi EU, plasiranje ideja na tržištu, konkurentnost, mogućnosti i koraci neophodni za pokretanje uspješnog biznisa... 
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Respektabilni privrednici su podijelili svoje stručno znanje i uspješne poslovne priče: </p>
+                  <p className="mb-4 text-blueGray-500">Mr Haris Muratovic: Važnost brendinga i vizualnog identiteta proizvoda; 
+
+</p>
+<p className="mb-4 text-blueGray-500">Dr Samir Vildić: Privredni potencijali BiH; 
+
+</p>
+<p className="mb-4 text-blueGray-500">Mr: Zašto pokrenuti vlastiti biznis - prednosti i nedostaci;  
+
+</p>
+<p className="mb-4 text-blueGray-500">Vedad Karović: Priča o putovao bih - jedan uspješan biznis primjer.  
+
+</p>
+<p className="mb-4 text-blueGray-500">Cilj programa jeste razvoj poduzetničkog duha, kreativnih ideja kod mladih, poduzetničkih kompetencija, inovativnosti, spremnosti za preuzimanje rizika, ... 
+
+</p>
+<p className="mb-4 text-blueGray-500">Sesija je bila interaktivna, učenici/ce su ispoljili stanovit interes za tematiku. Poseban naglasak predavači su stavili na eliminisanje negativne percepcije da je BiH besperspektivna, naprotiv, vlastitim poslovnim primjerima svjedočili su da BiH ima neiskorištene potencijale.  
+
+</p>
+<p className="mb-4 text-blueGray-500">Poduzetništvo vide kao najboljeg pokretača ekonomskog razvoja i blagostanja našeg društva. Naglasili su da mladi svojim poduzetničkim duhom i ulaskom u poduzetništvo donose promjene, mijenjaju društvo i omogućuju napredak. To su ujedno i razlozi zašto mlade treba na vrijeme educirati o poduzetništvu i potaknuti na ulazak u poduzetništvo.
+
+</p>
+<p className="mb-4 text-blueGray-500">Ismail Šehić, direktor Fondacije poduzetnika u BiH, na kraju sesije je poručio:  
+
+</p>
+<p className="mb-4 text-blueGray-500"><i>Nedamo mlade ljude, nedamo da im se servira negativna energija, nedamo da se ova država ne voli, nedamo da nam predstavljaju da je sve tužno i crno u ovom društvu! Hvala vam, mladi umovi, na nevjerovatnoj podršci i entuzijazmu! Vaša energija i odlučnost su pokretačka snaga pozitivnih promjena. Nastavimo inspirisati i motivisati jedni druge da dosegnemo nove visine i zajedno učinimo svijet boljim mjestom! Želim ohrabriti svakog mladog čovjeka da razmotri put poduzetništva. Ne bojte se preuzeti rizik i budite inovativni. Vaše ideje i vizije mogu biti upravo ono što naša ekonomija treba!</i>
+
+</p>
+<p className="mb-4 text-blueGray-500">Projekat: <i>Upoznaj  privredu Kantona Sarajevo</i>, Indira Zeković, prof. 
+
+</p>
+                  
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+  </section>
+          {/*
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Naida Đipa osvojila 3. mjesto u kategoriji literarnih radova na kantonalnom takmičenju srednjih škola povodom Dana državnosti BiH</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={poduzetnici1} alt="" />
+                    </div>
+                    <div>
+                        <img src={poduzetnici2} alt="" />
+                    </div>
+                  <div>
+                        <img src={poduzetnici3} alt="" />
+                    </div>
+                    <div>
+                        <img src={poduzetnici4} alt="" />
+                    </div>
+                    <div>
+                        <img src={poduzetnici5} alt="" />
+                    </div>
+                    <div>
+                        <img src={poduzetnici6} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Ministarstvo za odgoj i obrazovanje Kantona Sarajevo i JU Institut za razvoj preduniverzitetskog obrazovanja Kantona Sarajevo proglasili su najbolje literarne radove u kategoriji srednjih škola u Kantonu Sarajevo i naša škola je ponovo pokazala kakve talente odgaja i obrazuje osvojivši treće mjesto. 
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Čestitamo nagrađenoj učenici IV1 razreda Naidi Đipi, kao i njenoj mentorici profesorici Dženani Tanović-Hamzić.</p>
+                  <p className="mb-4 text-blueGray-500">Organizatori su poručili da izuzetno cijene  doprinos i kreativnost u izražavanju ljubavi prema domovini, a naša nagrađena učenica je prisustvovala dodjeli nagrada i priznanja na svečanoj Akademiji povodom Dana državnosti BiH u organizaciji institucija  Kantona Sarajevo i udruženja Bosne i Hercegovine promovišući najviše ljudske, civilizacijske i tradicionalne vrijednosti kroz ovogodišnju temu: "Domovina, to se srcem izgovara." 
+
+</p>
+                  
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+  </section> */}
+    {/*
+    TREBA DODATI SLIKE
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">NASTAVLJAMO SARADNJU SA  CENTRALNOM BANKOM BIH: POSJETA II5 I III2 RAZREDA</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={pazar3} alt="" />
+                    </div>
+                    <div>
+                        <img src={pazar4} alt="" />
+                    </div>
+                  <div>
+                        <img src={pazar1} alt="" />
+                    </div>
+                    <div>
+                        <img src={pazar2} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Učenici/ce II5  razreda su prisustvovali finansijskoj edukaciji  u centralnom uredu 28.11. 2023. godine, 
+a III2 razred 4.12. 2023. godine u glavnoj jedinici Centralne banke.
+  
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Predavači su upoznali učenike/ce sa ulogom i značajem Centralne banke Bosne i Hercegovine, obavezama CB koje proističu iz Valutnog odbora (Currency Board), platnim sistemom, aktuelnim monetarnim kretanjima u našoj zemlji, organizacionom strukturom CB, zakonskim okvirom, društveno odgovornim djelovanjem CB...</p>
+                  <p className="mb-4 text-blueGray-500">Centralna banka Bosne i Hercegovine organizovana je po modelu valutnog odbora.To znači da ne može koristiti devizni kurs kao sredstvo za ublažavanje ekonomskih šokova, ne može kreirati novac bez pokrića i kreditirati vladu, odnosno posuđivati novac bankama i ne može direktno stimulisati ekonomski rast. Valutni odbor je aranžman s fiksnim deviznim kursom koji je vezan za valutu „sidro“, zlato ili čak korpu valuta, gdje se sav novac u opticaju može slobodno konvertovati u rezervnu valutu.
+
+</p>
+                  <p className="mb-4 text-blueGray-500">Saopćene su nam informacije o registrima JRR ( Jedinstveni registar računa) i CRK (Centralni registar kredita poslovnih subjekata i fizičkih lica) , te uputstva za korištenje i pristup aplikacijama. 
+ 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Učenici/ce II5 razreda su imali priliku  da pogledaju  i muzejsku postavku CB vezano za novčanice, kovanice, jubilarni novac, od vremena bivše Jugoslavije do danas. Prikazan nam je film iz inostrane tvornice gdje se proizvode naše novčanice.   
+
+</p> 
+<p className="mb-4 text-blueGray-500">Bilo je riječi i o statističkoj funkciji CB, što je jedna od standardnih ključnih funkcija u modernim centralnim bankama, jer je ona  neophodna za vođenje monetarne politike i analiziranje ekonomskih i finansijskih kretanja. Dobili smo informacije o sadržajima i načinu pristupa statističkom web portalu CB, što će učenicima koristiti za buduću istraživačku i poslovnu praksu.   
+
+</p> 
+<p className="mb-4 text-blueGray-500">U tematskom dijelu međunarodne saradnje, učenicima/ama su prezentirane informacije o međunarodnim finansijskim institucijama u kojima je BiH članica, kao i najvažnije informacije o njenim odnosima s navedenim institucijama. CB ima  kontinuiranu saradnju s institucijama EU kroz sastanke i misije, stručnjaci CBBiH su aktivni i u forumima i radnim grupama Eurostata i Evropskog sistema centralnih banaka (ESCB), kao platformama za prenos znanja i najboljih praksi centralnog bankarstva.    
+
+</p> 
+<p className="mb-4 text-blueGray-500">Preporučujemo da o svemu više saznate na: <a href='https://www.cbbh.ba'>https://www.cbbh.ba</a>; edukacijski materijal.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Projekat: <b>UPOZNAJ PRIVREDU KANTONA SARAJEVO</b>. Indira Zeković, prof.
+
+</p> 
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section> */}
+              <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Obilježen Svjetski dan borbe protiv AIDS-a i u našoj školi</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={aids1} alt="" />
+                    </div>
+                    <div>
+                        <img src={aids2} alt="" />
+                    </div>
+                  <div>
+                        <img src={aids3} alt="" />
+                    </div>
+                    <div>
+                        <img src={aids4} alt="" />
+                    </div>
+                    <div>
+                        <img src={aids5} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Svjetski dan borbe protiv AIDS-a obilježava se 1. decembra svake godine. To je prilika da ljudi širom svijeta pruže podršku oboljelima i da se ujedine u borbi protiv HIV-a i AIDS-a.  
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Također, ovaj dan je prilika da se sjetimo svih onih koji su, nažalost, umrli od bolesti uzrokovanih AIDS-om. 
+
+</p>
+<p className="mb-4 text-blueGray-500">Procjenjuje se da trenutno trideset i osam miliona ljudi žive sa HIV virusom.  
+
+</p>
+<p className="mb-4 text-blueGray-500">Danas je postignut veliki napredak u liječenju HIV-a i razumijevanju puteva prijenosa, što nam omogućava bolju zaštitu od širenja virusa.  
+
+</p>
+<p className="mb-4 text-blueGray-500">Usprkos tome, mnogi i dalje ne poznaju načine zaštite, te koristimo ovu priliku da apelujemo na naše građane da se informišu o načinima prijenosa virusa i mogućnostima zaštite!
+
+</p>
+<p className="mb-4 text-blueGray-500">Svi mi možemo dati doprinos borbi protiv HIV-a, uz vrlo mali napor. Dovoljno je da zaštitimo sebe, te da poštujemo i podržavamo oboljele, a ne da ih diskriminišemo.
+</p>
+<p className="mb-4 text-blueGray-500">Učenici i učenice Srednje ekonomske škole proveli su niz aktivnosti povodom 1. decembra. 
+
+</p>
+<p className="mb-4 text-blueGray-500">Kao najvažniju aktivnost realizovali su edukativnu prezentaciju s ciljem podizanja svijesti i širenja znanja.
+
+
+</p>
+<p className="mb-4 text-blueGray-500">Također, napravili su crvene vrpce koje su nosili sve/i nastavnice/nastavnici i učenice/učenici kao znak solidarnosti i tolerancije s oboljelima koje društvo često diskrimiše. 
+
+</p>
+<p className="mb-4 text-blueGray-500">Nošenje crvene vrpce na Svjetski dan borbe protiv AIDS-a je jednostavan, ali snažan način protivljenja predrasudama koje ljudi imaju o ovoj bolesti, a često ih izazivaju nedostatak znanja i razumijevanja. 
+
+</p>
+<p className="mb-4 text-blueGray-500">Koordinatorice aktivnosti su profesorice Merima Likić i Edina Kopić.
+
+</p>
+                  
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+  </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Obnovljena saradnja sa Ekonomskom školom u Novom Pazaru</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={pazar3} alt="" />
+                    </div>
+                    <div>
+                        <img src={pazar4} alt="" />
+                    </div>
+                  <div>
+                        <img src={pazar1} alt="" />
+                    </div>
+                    <div>
+                        <img src={pazar2} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Nakon što je potpisala Protokol o međunarodnoj saradnji sa bratskom školom u Istanbulu, naša direktorica zaputila se prema Novom Pazaru.
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Boravak u Pazaru je još jedno predivno iskustvo i sretna sam da sam se ponovno vidjela sa direktorom Ivanom, profesoricama Irmom, Sabinom i profesorom Rifatom, istakla je direktorica Amira.</p>
+                  <p className="mb-4 text-blueGray-500">Naime, naša saradnja traje dugi niz godina i posljednja posjeta našoj školi realizovana je 2019. godine. Period Covid pandemije onemogućio je kontinuiranu razmjenu, tako da je direktorica Amira odlučila obnoviti istu.
+
+</p>
+                  <p className="mb-4 text-blueGray-500">Radost susreta i nezaboravan doček, onako kako to samo Pazarci znaju, uvećana je evociranjem uspomena iz 2019. godine i planiranju učeničke razmjene u toku školske 2023.-2024. godine. 
+ 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Dogovoreno je da se posjete realizuju u periodu od februara do maja 2024. godine.  
+
+</p> 
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">DOGOVORENE AKTIVNOSTI NA REALIZACIJI PROJEKTA <i>BRATSKE ŠKOLE</i> POD POKROVITELJSTVOM INSTITUTA YUNUS EMRE</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={yunus1} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus2} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus3} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus4} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus5} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus6} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus7} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus8} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus9} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus10} alt="" />
+                    </div>
+                    <div>
+                        <img src={yunus11} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  U periodu od 22. do 28. novembra 2023. godine, realizovana je posjeta školi Mustafa Kemal Anadolu Lisesi u Istanbulu. 
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Na sastanku, kojem su prisustvovale/i direktorica naše škole, Amira Kadrispahić, i direktor bratske škole, Juksel Kahraman, kao i profesori/ce obje škole, potpisan je međunarodni protokol o bratimljenju ovih dviju škola. Dogovorene su naredne zajedničke aktivnosti i uspostavljeno prijateljstvo. </p>
+                  <p className="mb-4 text-blueGray-500">Projekat predviđa edukativne i kulturne posjete učenika/ca u pratnji direktorice, direktora i profesora/ca, kao i razmjenu ideja i dobrih praksi u oblasti obrazovanja.
+
+</p>
+                  <p className="mb-4 text-blueGray-500">Dogovorene su dvije posjete u ovoj školskoj godini. Prva posjeta realizovat će se u našoj školi, u mjesecu aprilu, dok će se druga posjeta realizovati u mjesecu maju, u školi Mustafa Kemal Anadolu Lisesi u Istanbulu. 
+ 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Incijator ove edukativno-kulturološke saradnje je Institut Yunus Emre, svjetska neprofitna organizacija turske vlade, koja promoviše turski jezik i bogatu kulturnu baštinu Turske, ali i nastoji prenijeti iskustva i tradiciju drugih nacija na svoje prostore.  
+
+</p> 
+<p className="mb-4 text-blueGray-500">Zahvaljujemo pokrovitelju Projekta, Institutu Yunus Emre, za inciranje saradnje sa školom Mustafa Kemal Anadolu Lisesi iz Istanbula, jer držimo da su kulturološke, edukativne aktivnosti i interakcija najproduktivnije platforme za saradnju i učenje.   
+
+</p> 
+<p className="mb-4 text-blueGray-500">Planirane aktivnosti imaju za cilj, ne samo predstavljati se, već i upoznati druge.   
+
+</p> 
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Kongres <i>Djeca su stubovi svijeta</i></h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={aaa1} alt="" />
+                    </div>
+                    <div>
+                        <img src={aaa2} alt="" />
+                    </div>
+                    <div>
+                        <img src={aaa3} alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Ovogodišnji, šesti po redu, međunarodni kongres <i>Djeca  su stubovi svijeta</i>, održan je u srijedu,  01. novembra 2023. godine, u Parlamentarnoj skupštini Bosne i Hercegovine, pod pokroviteljstvom Ministarstva za obrazovanje, nauku i mlade Kantona Sarajevo. Istaknuta je važnost očuvanja ljudskosti, te da problem čovječanstva nije nedostatak stručnjaka iz pojedinih oblasti, već progresivno gubljenje čovjeka u ljudskom biću. Djeca su sinoć, u okviru Kongresa, posjetila i spomen-obilježje ubijenoj djeci opkoljenog Sarajeva 1992–1995., te poslala poruku donosiocima vlasti i međunarodnoj zajednici da je neophodno da se naučna dostignuća i sredstva ulažu u liječenje, odgoj i obrazovanje djece, a ne u vojne svrhe.
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Organizator Kongresa je Udruženje <i>Djeca su stubovi svijeta</i>.  Održan je pod sloganom:  <i>Etika u filozofiji življenja – borba za čovjeka u ljudskom biću</i>. Kongres je podsjetio na vrijednosti koje promoviše Udruženje. Prije svega, značaj evropskog puta BiH i borba protiv svih društvenih devijacija, a u prvom redu na planu suzbijanja  korupcije koja ugrožava same temelje društva i države.
+Kongresu su prisustvovale/i učenice i učenici iz II1 odjeljenja: Farah Brajanović, Lamija Korjenić, Nur Imamović, Sarah Osmanović i Eldar Poturović, u pratnji profesorice historije, Azemine Hujdur. </p>
+                  <p className="mb-4 text-blueGray-500">Predsjednica udruženja <i>Djeca
+su stubovi svijeta</i>, g-đa Fatima Hukić,  pozdravljajući učesnice i učesnike Kongresa, podsjetila je na vrijednosti i ciljeve koje ovo udruženje promoviše i naglasila je značaj kvalitetnog obrazovanja i etičkih načela u formiranju mladih ličnosti. Pozvala je mlade da se posvete kvalitetnom obrazovanju, radu i zalaganju, da se oslone na vlastite potencijale, te da istrajavaju na zacrtanim ciljevima i vrijednostima.
+  
+</p>
+                  <p className="mb-4 text-blueGray-500">U drugom dijelu Kongresa uslijedile su radionice vezano za najaktuelnije teme današnjice. Učenici/ce su prezentirale/i svoja promišljanja i stavove o predstavljenoj temi. Sa Kongresa  je odaslana pozitivna poruka djece iz Bosne i Hercegovine da je evropska budućnost BiH i regiona, njihova budućnost. Mladi su na Kongresu iznijeli svoje viđenje situacije u BiH trenutno, ali i ideje šta se i na koji način može i mora učiniti u narednih nekoliko godina, kako bi se zaustavili neki od negativnih trendova. Mladi su demonstrirali potencijal da donesu pozitivne promjene u društvu. 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Kroz posvećenost i iskazani interes za teme poput etike, borbe protiv korupcije i proces integracije u EU, mladi ljudi su oduševili prisutne svojim znanjem, hrabrošću i pogledom na svijet. 
+
+</p> 
+<p className="mb-4 text-blueGray-500">Imperativ je poboljšanje socijalnih prava mladih, s posebnim naglaskom na uključivanje mladih u sve oblike i procese odlučivanja na svim razinama!  
+
+</p> 
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">25. novembar</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={dand1} alt="" />
+                    </div>
+                    <div>
+                        <img src={dand2} alt="" />
+                    </div>
+                    <div>
+                        <img src={dand3} alt="" />
+                    </div>
+                    <div>
+                        <img src={dand4} alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  25. novembar je datum koji nas podsjeća na hrabrost, jedinstvo i trajnu težnju ka slobodi. Gradimo mostove ka buducnosti, gradeći društvo u kojem se poštuju različitosti i cijeni sloboda svakog pojedinca. 
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Neka ovaj dan bude prilika da se prisjetimo puta kojeg smo prešli i da pogledamo prema budućnosti s optimizmom. </p>
+                  <p className="mb-4 text-blueGray-500">Da i dalje postoje razlozi za optimizam i nada za bolje sutra, uvjerile/i su nas naše/i vrijedne/i učenice i učenici svojim izvedbama kojima su plijenile/i pažnju prisutnih gostiju. 
+</p>
+                  <p className="mb-4 text-blueGray-500">Zahvaljujemo svima koji su se pridružili školskoj priredbi, a posebnu zahvalnost iskazujemo predstavnicama i predstavnicima Instituta za razvoj preduniverzitetskog obrazovanja KS, te predstavnicama i predstavnicima Sektora za obrazovanje, kulturu i sport Općine Novo Sarajevo.
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Draga domovino sretan ti rođendan!
+
+</p> 
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Uspjesi naše Berine Hebib na takmičenjima ove plesne polusezone</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={ples1} alt="" />
+                    </div>
+                    <div>
+                        <img src={ples2} alt="" />
+                    </div>
+                    <div>
+                        <img src={ples3} alt="" />
+                    </div>
+                    <div>
+                        <img src={ples4} alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  SARAJEVO OPEN DANCE FESTIVAL 2023 održan je od 13. do 15. oktobra 2023. godine u sportskoj dvorani Hotela Hills, gde je organizovan niz uzbudljivih događaja. 
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Za ljubitelje sportskog plesa, organizovan je prestižni WDSF turnir za parove i solo plesačice, državno prvenstvo za parove i solo plesačice, bodovni turnir za parove i solo plesačice, školska liga koja je dodatno upotpunila ovu manifestaciju, te za buduće zvijezde plesne scene, kategorija “rising stars”. </p>
+                  <p className="mb-4 text-blueGray-500">Svi ovi događaji donijeli su vrhunsku zabavu i nezaboravne trenutke za plesače i publiku. Bila je ovo svojevrsna proslava umjetnosti plesa u srcu Sarajeva!
+</p>
+                  <p className="mb-4 text-blueGray-500">SARAJEVO OPEN DANCE FESTIVAL 2023 nije bio samo prilika za takmičenje, već i za povezivanje plesača i ljubitelja plesa iz cijelog svijeta. Ovaj festival bio je i most između različitih kultura i jedinstvena prilika za razmjenu iskustava.
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Naša Berina Hebib nastupila je u latinoameričkim plesovima. Na takmičenju SARAJEVO OPEN DANCE FESTIVAL 2023, održanom 13.10.2023. godine, na državnom prvenstvu BiH u latinoameričkim plesovima plasirala se u finale u kategoriji YOUTH UNDER 21.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Sljedećeg dana, na KV bodovnom turniru u kategoriji D3 YOUTH LA osvojila je prvo mjesto. 
+
+Uslijedio je internacionalni turnir WDSF NORTH MACEDONIA OPEN DANCE 2023, koji je održan 18. i 19. novembra 2023. godine u Skoplju. Na KV TURNIRU u kategoriji YOUTH D3 LA , Berina je osvojila prvo mjesto u konkurenciji sedam djevojaka iz BiH, Srbije i Bugarske.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Čestitamo našoj Berini Hebib za vrhunske rezultate kojim nas je učinila sretnim i ponosnim!
+
+</p> 
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+               <video src={plesvideo} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/>
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">NAŠA PODRŠKA OBILjEŽAVANjU SVJETSKOG DANA DIJABETESA</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={dzeki1} alt="" />
+                    </div>
+                    <div>
+                        <img src={dzeki2} alt="" />
+                    </div>
+                    <div>
+                        <img src={dzeki3} alt="" />
+                    </div>
+                    <div>
+                        <img src={dzeki4} alt="" />
+                    </div>
+                    <div>
+                        <img src={dzeki5} alt="" />
+                    </div>
+                    <div>
+                        <img src={dzeki6} alt="" />
+                    </div>
+                    <div>
+                        <img src={dzeki7} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Učenici i učenice IV1 razreda naše škole su, u okviru obilježavanja Svjetskog dana  dijabetesa, u utorak 14. 11. 2023. godine,  zajedno sa svojom razrednicom prof. Dženanom Tanović-Hamzić, posjetili  Centar za zdravo starenje Novo Sarajevo u kojem su obilježili ovaj značajan datum, u saradnji sa Udruženjem oboljelih od dijabetesa i Zavodom za javno zdravstvo Kantona Sarajevo.
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Dan dijabetesa je dan posvećen podizanju svijesti o ovoj  bolesti današnjice i pružanju podrške onima koji svakodnevno prolaze kroz izazove dijabetesa. Ovaj dan nije samo dan u kalendaru, već prilika da se istakne snaga i upornost ljudi koji se suočavaju s ovim stanjem.</p>
+                  <p className="mb-4 text-blueGray-500">Za nas je način rada i života, borba i ljubav koju šire i pružaju naše kolegice i kolege, također inspirativna i želimo posebnu zahvalnost iskazati našoj drugarici iz razreda Azri Selimbegović i našem drugu Tariku Belagošiju za sve čemu nas uče u ovoj borbi,  već skoro četiri godine.
+</p>
+                  <p className="mb-4 text-blueGray-500">Proveli smo i edukativno popodne učeći o pristupu zdravom načinu života, posebno fokusiranom na prevenciju dijabetesa.
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Ovaj događaj su uljepšale i naše učenice, prigodnim govorom i plesom te im ovim putem želimo izraziti zahvalnost. Također smo donijeli  simbolične poklone i pripremili međugeneracijski program te smo za naš doprinos ovom programu dobili  zahvalnice Udruženja.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Ovo iskustvo će nam sigurno pomoći u očuvanju zdravlja i svjesnosti važnosti pravilne brige o sebi i drugima. 
+</p> 
+
+</span>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Globalna sedmica preduzetništva</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={glob1} alt="" />
+                    </div>
+                    <div>
+                        <img src={glob2} alt="" />
+                    </div>
+                    <div>
+                        <img src={glob3} alt="" />
+                    </div>
+                    <div>
+                        <img src={glob4} alt="" />
+                    </div>
+                    <div>
+                        <img src={glob5} alt="" />
+                    </div>
+                    <div>
+                        <img src={glob6} alt="" />
+                    </div>
+                    <div>
+                        <img src={glob7} alt="" />
+                    </div>
+                    <div>
+                        <img src={glob8} alt="" />
+                    </div>
+                    <div>
+                        <img src={glob9} alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  U cilju promocije kulture preduzetništva kroz dijalog, razmjenu ideja i poslovnih informacija, te senzibiliziranja javnosti na temu preduzetničkih poduhvata, Općina Novo Sarajevo i ove godine se pridružila inicijativi obilježavanja Globalne sedmice preduzetništva.
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">U toku organizacije dvodnevnog događaja pod nazivom "Preduzetnički dani Općine Novo Sarajevo", okupljeni su preduzetnici i budući lideri lokalnog startup ekosistema, kako bi zajedno doprinijeli razvoju zajednice i širenju preduzetničkog duha i energije.</p>
+                  <p className="mb-4 text-blueGray-500">Projektom pod nazivom "Preduzetnički dani Općine Novo Sarajevo" koji je realizovan od 15. do 16. novembra 2023. godine, u Dječijoj kući, učesnicama  i učesnicima je omogućeno da čuju informacije o prilikama za finansiranje preduzetnika, važnosti komunikacije za poslovni uspjeh, ali i o tome kako izgraditi stabilan proizvod ili uslugu.
+</p>
+                  <p className="mb-4 text-blueGray-500">Bila je ovo sjajna prilika za učenice i učenike završnih razreda srednjih škola Općine Novo Sarajevo da pokažu svoj preduzetnički duh kroz kreiranje i prezentaciju biznis ideja. 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Našu školu su predstavljale učenice Emina Priganica, Mersiha Čaušević i Emina Ligata i učenici Amar Suljević i Ardan Bečić uz podršku pomoćnice direktorice Delile Ramić i profesorice Lamije Šabanović.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Čestitamo našim učenicama i učenicima za inovativnu ideju koju su prezentovale/i i osvojeno drugo mjesto!
+</p> 
+<p className="mb-4 text-blueGray-500">Izvještaj pripremila: Emana Šahbaz, učenica IV1 razreda.
+</p> 
+
+</span>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Finansijska edukacija u Centralnoj banci BiH za vršnjačke edukatore i nastavnike</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={haa1} alt="" />
+                    </div>
+                    <div>
+                        <img src={haa2} alt="" />
+                    </div>
+                    <div>
+                        <img src={haa3} alt="" />
+                    </div>
+
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  U okviru projekta saradnje i obuke nastavnog osoblja i učenica/učenika čiji je cilj da se srednjim školama omogući izvođenje finansijske edukacije kao fakultativne nastavne aktivnosti, u Centralnom uredu Centralne banke Bosne i Hercegovine (CBBiH) je u utorak, 14.11.2023. godine održana je edukacija učenika/ca IV4 razreda (Đipa Naida, Amila Aličković, Ajla Karup, Lejla Imširović, Haris Ibrišagić, Benjamin Lipovac, Velić Amina i Alagić Naida).
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Današnjom edukacijom u projekat su uključeni nastavnice/i i odabrane/i učenice/i u svojstvu vršnjačkih edukatora iz Srednje umjetničke škole, Sarajevo i Srednje ekonomske  škole Sarajevo. </p>
+                  <p className="mb-4 text-blueGray-500">Edukacija je bila usmjerena na upravljanje ličnim finansijama, upoznavanje s osnovnim pojmovima i karakteristikama najzastupljenijih finansijskih proizvoda i usluga na tržištu, te na informisanje o važnosti odgovornog pristupa finansijskim proizvodima i uslugama.
+</p>
+                  <p className="mb-4 text-blueGray-500">CBBiH je u posljednjih nekoliko godina pokrenula, samostalno i u saradnji sa partnerskim organizacijama, niz aktivnosti na podizanju nivoa finansijske edukacije i inkluzije stanovništva u Bosni i Hercegovini. 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Razlog zbog čega CBBiH insistira na stavljanju ove teme u fokus, jeste činjenica da CBBiH predsjedava Stalnim odborom za finansijsku stabilnost i koordinira djelatnosti entitetskih agencija za bankarstvo, te tako ima značajnu ulogu u održavanju finansijske stabilnosti u državi. 
+
+</p> 
+<p className="mb-4 text-blueGray-500">Sva navedena tijela, uz dodatak Agencije za osiguranje depozita Bosne i Hercegovine, predstavljaju mrežu finansijske stabilnosti. 
+</p> 
+<p className="mb-4 text-blueGray-500">U svrhu finansijske edukacije i inkluzije je i kreiranje Web stranice CBBiH kao platforme za učenje. Opširnije: <a href='https://www.cbbh.ba/'>https://www.cbbh.ba/</a>
+</p> 
+<p className="mb-4 text-blueGray-500">Njen osnovni cilj je unapređenje spoznaje o finansijama i finansijskim uslugama. Funkcionisanje finansijskih usluga, kao i njihova transparentnost, u velikoj mjeri zavise od razumijevanja te oblasti od strane zainteresovanih lica.
+</p> 
+<p className="mb-4 text-blueGray-500">Svim zainteresovanim licima potrebno je pružiti dovoljno informacija da bi uspjeli razumjeti osnovne finansijske pojmove i naučili da ih koriste pravilno. 
+</p> 
+<p className="mb-4 text-blueGray-500">Dobra informisanost o ovoj materiji preduslov je za podsticanje efektivne i široke, a ponajviše pravilne upotrebe dostupnih finansijskih usluga, za podsticanje štednje i efikasnijeg upravljanja novcem, za podsticanje odgovornog investiranja i sl. 
+</p> 
+<p className="mb-4 text-blueGray-500">Navedeno može doprinijeti unapređenju poslovnog okruženja, a daje i doprinos efikasnoj zaštiti potrošača, korisnika finansijskih usluga, prevencijom potencijalnih problema.
+</p> 
+<p className="mb-4 text-blueGray-500">Stoga, na ovoj web stranici se obrađuju, kreiraju i objavljuju materijali koji opisuju tematiku (osnovne informacije o novcu generalno, o domaćoj valuti, o ulozi CBBiH, o štednji i dr.) na stručan i edukativan način.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Materijali su kreirani za sve starosne skupine, odnosno za sve slojeve društva  i obrađeni na način koji omogućava pružanje informacija onima koji nisu eksperti u ovim oblastima, a u potrazi su za osnovnim teoretskim znanjem i informacijama. 
+</p> 
+
+
+</span>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Projekat "Upoznaj Bosnu i Hercegovinu" - posjeta herojskom gradu Goražde</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={goradzde1} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde2} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde3} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde4} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde5} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde6} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde7} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde8} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde9} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde10} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde11} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde12} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde13} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde14} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde15} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde16} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde17} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde18} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde19} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde20} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde21} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde22} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde23} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde24} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde25} alt="" />
+                    </div>
+                    <div>
+                        <img src={goradzde26} alt="" />
+                    </div>
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  U okviru projekta "Upoznaj Bosnu i Hercegovinu"  učenice i učenici su u pratnji direktorice Škole, Amire Kadrispahić i profesorica Suade Tadić, Suvade Trako i Amre Lagumdžija, posjetile/i su herojski grad Goražde.
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">U jutarnjim satima krenuli smo autobusom prema Goraždu u jednom ugodnom i lijepom druženju.
+Prvo smo posjetili Mješoviti srednjoškolski centar Enver Pozderović u kome je zastupljen i smjer ekonomski tehničar.
+Na vratima škole srdačno nas je dočekala direktorica Škole, Mula Imamović, kao i grupa učenica/učenika i profesorica.
+ </p> 
+                  <p className="mb-4 text-blueGray-500">U pratnji domaćina obišli smo Školu, prisustvovali časovima gdje smo se upoznali sa njihovim Nastavnim planom i programom kao i načinom organizovanja nastave.
+Nakon obilaska Škole, položili smo cvijeće ubijenoj djeci Goražda u periodu 1992 - 1995. godine, obišli <i>most ispod mosta</i>. Posjetile/i smo i Zavičajni muzej grada Goražda, gdje nas je kustos detaljno informisao o ratnim dešavanjima, te načinu prevazilaženja istih o čemu svjedoče sačuvani eksponati.
+ 
+</p>
+                  <p className="mb-4 text-blueGray-500">Posebno nas je zadivilo izlaganje učenica koje su nas, kao i uvažena Direktorica, provele kroz ratna dešavanja i način na koji su se ljudi herojski nosili sa svim ratnim nevoljama.
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Dobrodošlicu su nam ukazali Premijer Bosansko podrinjskog kantona Edin Ćulov, kao i gradonačelnik Goražda Ernest Imamović, gdje smo dogovorili daljnju saradnju, kako između dvije škole, tako i sa zajednicom grada Goražda.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Bilo je ovo jedno predivno putovanje i druženje u prelijepom herojskom gradu.
+Ispunjeni nezaboravnim utiscima, vratili smo se u Sarajevo u večernjim satima.
+</p> 
+
+</span>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
@@ -193,6 +1376,80 @@ sajmu knjiga na zagrebačkom velesajmu.
             </div>
             </div>
           </section>
+
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Studijska posjeta III1 razreda Centralnoj banci Bosne i Hercegovine</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={ha1} alt="" />
+                    </div>
+                    <div>
+                        <img src={ha2} alt="" />
+                    </div>
+                    <div>
+                        <img src={ha3} alt="" />
+                    </div>
+                    <div>
+                        <img src={ha4} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Učenici/ce III1 razreda, te učenici/e Đipa Naida, Aličković Amila, Zukanović Arman i Sumeja Džindo, prisustvovali su edukaciji na temu: Nadležnosti i funkcije Centralne banke, u četvrtak, 9.11. 2023. godine, u centralnom uredu Centralne banke BiH.
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Centralna banka se smatra bankarom države, odnosno, u punoj funkciji, banka je svih banaka.Osnovana  je 11. augusta 1997. godine Zakonom o CBBiH. Nadležnost je definisana Ustavom BiH. Centralna banka Bosne i Hercegovine  je jedina institucija Bosne i Hercegovine ovlaštena za vođenje monetarne politike u BiH. Osnovni cilj Centralne banke je stabilnost domaće valute.  Jedina je  institucija koja ima pravo da stavlja  i povlači iz opticaja novčanice i kovanice konvertibilne marke (KM). Dalje, nadgleda i prati stanje finansijske stabilnosti i pruža podršku ekonomskom razvoju države u okviru postojećeg makroekonomskog modela.
+ </p> 
+                  <p className="mb-4 text-blueGray-500">Prezentirane su nam <b><i>nadležnosti banke, organizacija banke, aranžman sa MMF-om (Currency board), informacije o RTGS i žirokliring sistemu, Jedinstvenom registru računa poslovnih subjekata (JRRPS) BiH, Centralnom registru kredita (CRK) pravnih i fizičkih lica u Bosni i Hercegovini.</i></b> 
+ 
+</p>
+                  <p className="mb-4 text-blueGray-500"><i>Zvanične statistike Centralne banke Bosne i Hercegovine</i> su integralni dio makroekonomskih statistika. Publikuju se  putem štampanih publikacija, web stranice CBBiH i međunarodne distribucije.
+Učenicima/ama su predstavljeni i <i>aspekti međunarodne saradnje banke</i>. CB ima aktivne bilateralne odnose s drugim centralnim bankama, finansijskim institucijama i organizacijama  (ECB, EUROSTAT, EBRD, EFSE, USAID, SECO, GiZ i dr.) 
+
+</p> 
+<p className="mb-4 text-blueGray-500">CBBiH obavlja <i>ulogu fiskalnog agenta prema MMF-u</i>. U  ime vladinih institucija u Bosni i Hercegovini vodi račune, povlači sredstva, izvršava finansijske obaveze, prijem i distribuciju indirektnih poreza, vrši poslove depozitara i relevantnu korespodenciju. 
+ </p> 
+                  <p className="mb-4 text-blueGray-500">Saznali smo i šta <i>CB kao poslodavac omogućava</i> službenicima Centralne banke Bosne i Hercegovine:  izazovan posao, te konstantno učenje i razvoj u organizacijskoj kulturi visoke učinkovitosti i timskog rada u jednoj od najrespektabilnijih institucija u Bosni Hercegovini.
+ 
+</p>
+<p className="mb-4 text-blueGray-500">Prezentirane su nam i <i>aktivnosti CB u svjetlu društveno odgovornog marketinga: finansijska inkluzija i finansijska pismenost (edukacije, predavanja, Svjetski dan štednje, publikacije.) Promoviranjem finansijskih znanja i vještina kod stanovništva i povećanjem nivoa finansijske pismenosti</i>, doprinosi se finansijskoj stabilnosti, ali i većoj finansijskoj inkluziji pojedinca. 
+<i>Centralna banka za obrazovanje</i>: pruža mogućnost studentima završnih godina prvog ciklusa studija na visokoškolskim ustanovama u Bosni i Hercegovini, prvenstveno ekonomskog smjera, da obave <i>ferijalnu praksu, te studijsku praksu u okviru postdiplomskog studija.</i>
+
+ </p> 
+                  <p className="mb-4 text-blueGray-500"><i>Zahvaljujemo uposlenicima CB za njihov doprinos unapređenju praktičnih kompetencija naših učenika/ca.
+Projekat: Upoznaj privredu Kantona Sarajevo</i>, Indira Zeković, prof.
+Opširnije na: <a href='https://www.cbbh.ba/'>https://www.cbbh.ba/</a>
+ 
+ 
+</p>
+
+</span>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+
 
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
@@ -276,12 +1533,6 @@ poslovne prakse, što će zasigurno doprinijeti njihovoj poslovnoj kreativnosti 
                   <div className="py-5 flex-auto">
                   <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
                       
-                    <div>
-                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Gimnastika%201.jpg?alt=media&token=3b595afe-98b0-48c9-be7f-5b0f60e38fb3" alt="" />
-                    </div>
-                    <div>
-                        <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Gimnastika%201.jpg?alt=media&token=3b595afe-98b0-48c9-be7f-5b0f60e38fb3" alt="" />
-                    </div>
                     <div>
                         <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Gimnastika%201.jpg?alt=media&token=3b595afe-98b0-48c9-be7f-5b0f60e38fb3" alt="" />
                     </div>
