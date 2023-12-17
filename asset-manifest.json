@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.c560281e.js",
+    "main.js": "/static/js/main.19ca7796.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/videoplesadd.mp4": "/static/media/videoplesadd.823cc3750495f0dbc98a.mp4",
@@ -19,8 +19,17 @@
     "static/media/aaa3.jpg": "/static/media/aaa3.6a7cdee5374039c31989.jpg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.216edb96b562c79adc09.svg",
+    "static/media/stem2.jpg": "/static/media/stem2.d31e17fd6f96ac17c0a6.jpg",
+    "static/media/stem9.jpg": "/static/media/stem9.d1f13954cdc50df7d62e.jpg",
+    "static/media/stem1.jpg": "/static/media/stem1.09d87320817af49bac6c.jpg",
+    "static/media/stem4.jpg": "/static/media/stem4.d53ede28f0271213986f.jpg",
     "static/media/izlet3.jpg": "/static/media/izlet3.38e19b0acc5a0fc48a77.jpg",
+    "static/media/stem6.jpg": "/static/media/stem6.e82efb2717cdaa9e18e0.jpg",
+    "static/media/stem3.jpg": "/static/media/stem3.20d6e39466b06e4f2f92.jpg",
+    "static/media/stem8.jpg": "/static/media/stem8.3ead909140ab66953804.jpg",
+    "static/media/stem7.jpg": "/static/media/stem7.82fb8242748c4e4e4db9.jpg",
     "static/media/aaa1.jpg": "/static/media/aaa1.a0a563e413408e11b9c6.jpg",
+    "static/media/stem5.jpg": "/static/media/stem5.e6ef4401c339c1b9b332.jpg",
     "static/media/brošura.webp": "/static/media/brošura.fdf1e52f0ad92b37ffa3.webp",
     "static/media/dipanaida2.jpg": "/static/media/dipanaida2.06bff2ac464a8f2aff25.jpg",
     "static/media/goradzde7.jpg": "/static/media/goradzde7.1dbec6b8354b7dcb0527.jpg",
@@ -60,7 +69,6 @@
     "static/media/centralna4.jpg": "/static/media/centralna4.421ca7693798a711ddae.jpg",
     "static/media/opasno1.jpg": "/static/media/opasno1.3e6b11f6e79ea26b2a09.jpg",
     "static/media/izlet5.jpg": "/static/media/izlet5.3302cfbd0d4979fd4b6c.jpg",
-    "static/media/stem3.jpg": "/static/media/stem3.20d6e39466b06e4f2f92.jpg",
     "static/media/sajamaaa1.jpg": "/static/media/sajamaaa1.efb814d88b439d762ed5.jpg",
     "static/media/muzej4.jpg": "/static/media/muzej4.2f54bea6dd137ad02f45.jpg",
     "static/media/sajamaaa6.jpg": "/static/media/sajamaaa6.80832eea19f60b03e5de.jpg",
@@ -108,7 +116,6 @@
     "static/media/dan6.jpg": "/static/media/dan6.f3949881a4a4216bb1e0.jpg",
     "static/media/sajamaaa2.jpg": "/static/media/sajamaaa2.f33a6a3b960225b80b34.jpg",
     "static/media/g1.jpg": "/static/media/g1.35ffbd047f8ebf2a78c7.jpg",
-    "static/media/stem1.jpg": "/static/media/stem1.09d87320817af49bac6c.jpg",
     "static/media/dan5.jpg": "/static/media/dan5.0b11aae943c1d3c20144.jpg",
     "static/media/goradzde23.jpg": "/static/media/goradzde23.b43a8806acc4bb135a38.jpg",
     "static/media/glob6.jpg": "/static/media/glob6.24d3aa1c8742b450dc7f.jpg",
@@ -128,7 +135,6 @@
     "static/media/haa2.jpg": "/static/media/haa2.3257bf57fe8d5a358676.jpg",
     "static/media/svila1.jpg": "/static/media/svila1.58c4e48e7e9c78cb1468.jpg",
     "static/media/goradzde16.jpg": "/static/media/goradzde16.c783e2458370d45ece02.jpg",
-    "static/media/stem2.jpg": "/static/media/stem2.d31e17fd6f96ac17c0a6.jpg",
     "static/media/g3.jpg": "/static/media/g3.566fc01080b2fbcb380d.jpg",
     "static/media/jabuka2.jpg": "/static/media/jabuka2.e21294fc7a4c7cac740a.jpg",
     "static/media/selo5.jpg": "/static/media/selo5.4c2fb462345f5e5a1f27.jpg",
@@ -219,10 +225,8 @@
     "static/media/dzeki2.jpg": "/static/media/dzeki2.c60b03db74b75a5efa12.jpg",
     "static/media/dzeki3.jpg": "/static/media/dzeki3.832d8431e79696d0c73c.jpg",
     "static/media/direktorica.webp": "/static/media/direktorica.6251c0392fe6a62e9c23.webp",
-    "static/media/stem5.jpg": "/static/media/stem5.e6ef4401c339c1b9b332.jpg",
     "static/media/dzeki4.jpg": "/static/media/dzeki4.81646f0ff1e83942e4ec.jpg",
     "static/media/spars3.jpg": "/static/media/spars3.7923db2cf57f3cc46f04.jpg",
-    "static/media/stem4.jpg": "/static/media/stem4.d53ede28f0271213986f.jpg",
     "static/media/zeleno1.webp": "/static/media/zeleno1.e239e8d85a60982c96c7.webp",
     "static/media/poduzetnici1.jpg": "/static/media/poduzetnici1.cc275be10c04114db757.jpg",
     "static/media/pismenost1.jpg": "/static/media/pismenost1.63e6d1d1446545e6a57e.jpg",
@@ -241,10 +245,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.c560281e.js.map": "/static/js/main.c560281e.js.map"
+    "main.19ca7796.js.map": "/static/js/main.19ca7796.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.c560281e.js"
+    "static/js/main.19ca7796.js"
   ]
 }
