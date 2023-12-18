@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.19ca7796.js",
+    "main.js": "/static/js/main.cf7a3c70.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/videoplesadd.mp4": "/static/media/videoplesadd.823cc3750495f0dbc98a.mp4",
@@ -35,7 +35,9 @@
     "static/media/goradzde7.jpg": "/static/media/goradzde7.1dbec6b8354b7dcb0527.jpg",
     "static/media/selo7.jpg": "/static/media/selo7.95883e5439c2d47375eb.jpg",
     "static/media/glob1.jpg": "/static/media/glob1.630a798706dd128017c0.jpg",
+    "static/media/erasmus8.jpg": "/static/media/erasmus8.0fd2eb42249b738fd293.jpg",
     "static/media/yunus9.jpg": "/static/media/yunus9.7ef8c9e7b849b1913050.jpg",
+    "static/media/skolap1.jpg": "/static/media/skolap1.c269e883de111f8b5a6f.jpg",
     "static/media/ha4.jpg": "/static/media/ha4.139a3233704454795fef.jpg",
     "static/media/goradzde17.jpg": "/static/media/goradzde17.a43a2dbef7b260854ba9.jpg",
     "static/media/goradzde8.jpg": "/static/media/goradzde8.a43a2dbef7b260854ba9.jpg",
@@ -76,6 +78,7 @@
     "static/media/izlet2.jpg": "/static/media/izlet2.569c0993137c6f0644a3.jpg",
     "static/media/vladimir1.jpg": "/static/media/vladimir1.bcdd20e3ffffbc01c240.jpg",
     "static/media/aids1.jpg": "/static/media/aids1.fbd63ef1a144f18b5bbc.jpg",
+    "static/media/erasmus0.jpg": "/static/media/erasmus0.8322e0a43e47f28b871d.jpg",
     "static/media/goradzde10.jpg": "/static/media/goradzde10.d891742d44876c7f32ea.jpg",
     "static/media/ples3.jpg": "/static/media/ples3.3d65f038ff8e0bc74643.jpg",
     "static/media/goradzde21.jpg": "/static/media/goradzde21.87206538fa83dec8e07c.jpg",
@@ -101,6 +104,7 @@
     "static/media/ejs1.jpg": "/static/media/ejs1.269563e80bb9da3c7020.jpg",
     "static/media/dan3.jpg": "/static/media/dan3.04c68f0d0be922c3c4fc.jpg",
     "static/media/goradzde19.jpg": "/static/media/goradzde19.ce1340ac60450c16b946.jpg",
+    "static/media/erasmus1.jpg": "/static/media/erasmus1.12f5c63d25b25123c5a4.jpg",
     "static/media/mete.jpg": "/static/media/mete.6bfe3c03e3a9e7d54532.jpg",
     "static/media/glob9.jpg": "/static/media/glob9.b26f3d33414895c6d645.jpg",
     "static/media/selo2.jpg": "/static/media/selo2.8569a15a31f4859422a4.jpg",
@@ -110,6 +114,7 @@
     "static/media/medijske2.jpg": "/static/media/medijske2.f7f3bfc52d778e64eb41.jpg",
     "static/media/poduzetnici6.jpg": "/static/media/poduzetnici6.51e50a2a4ed886ccd0ad.jpg",
     "static/media/jabuka5.jpg": "/static/media/jabuka5.69488ea8a8bc0b1de791.jpg",
+    "static/media/erasmu2.jpg": "/static/media/erasmu2.b351941637192080055e.jpg",
     "static/media/ha3.jpg": "/static/media/ha3.cf6bc1273ab1c0d2446b.jpg",
     "static/media/muzej3.jpg": "/static/media/muzej3.1974bab82f62efefdbd3.jpg",
     "static/media/streliste1.jpg": "/static/media/streliste1.b7d9d1d446608c7865f5.jpg",
@@ -134,14 +139,18 @@
     "static/media/stem23.jpg": "/static/media/stem23.311c18ede5826e183b94.jpg",
     "static/media/haa2.jpg": "/static/media/haa2.3257bf57fe8d5a358676.jpg",
     "static/media/svila1.jpg": "/static/media/svila1.58c4e48e7e9c78cb1468.jpg",
+    "static/media/skolap2.jpg": "/static/media/skolap2.cc6f81d5dca7bbaffac3.jpg",
     "static/media/goradzde16.jpg": "/static/media/goradzde16.c783e2458370d45ece02.jpg",
     "static/media/g3.jpg": "/static/media/g3.566fc01080b2fbcb380d.jpg",
     "static/media/jabuka2.jpg": "/static/media/jabuka2.e21294fc7a4c7cac740a.jpg",
     "static/media/selo5.jpg": "/static/media/selo5.4c2fb462345f5e5a1f27.jpg",
     "static/media/goradzde26.jpg": "/static/media/goradzde26.4038adc7277122e5139a.jpg",
+    "static/media/erasmus5.jpg": "/static/media/erasmus5.76de0249df1eb376f19b.jpg",
     "static/media/yunus6.jpg": "/static/media/yunus6.37222c802601eac63848.jpg",
     "static/media/haa1.jpg": "/static/media/haa1.caecf75bd0595164e8a1.jpg",
+    "static/media/erasmus6.jpg": "/static/media/erasmus6.6b364985546b4280cf75.jpg",
     "static/media/glob4.jpg": "/static/media/glob4.43170cd92565f47777a9.jpg",
+    "static/media/erasmu4.jpg": "/static/media/erasmu4.7b265ea9c1ffb0ecded7.jpg",
     "static/media/dandrzavnosti2.jpg": "/static/media/dandrzavnosti2.f3c8560d5b39f70679b4.jpg",
     "static/media/goradzde5.jpg": "/static/media/goradzde5.6bbbb3e1a73b6fbda297.jpg",
     "static/media/centralna3.jpg": "/static/media/centralna3.cbb9f104a207de83f24d.jpg",
@@ -163,6 +172,7 @@
     "static/media/goradzde1.jpg": "/static/media/goradzde1.79b35e6b1a0012d91360.jpg",
     "static/media/dipanaida1.jpg": "/static/media/dipanaida1.46b484c95ddbb1e01ba5.jpg",
     "static/media/argeta4.jpg": "/static/media/argeta4.085e20927c27f9e4e7cb.jpg",
+    "static/media/erasmu3.jpg": "/static/media/erasmu3.ff0d55e014d2b1610d2f.jpg",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.efbd5d20e407bbf85f2b.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
     "static/media/izlet1.jpg": "/static/media/izlet1.b28549258e8283b5c23a.jpg",
@@ -179,6 +189,7 @@
     "static/media/upis1.webp": "/static/media/upis1.e8790a22d2517ee35354.webp",
     "static/media/centralna6.jpg": "/static/media/centralna6.9f1f0cc0e06837eadb33.jpg",
     "static/media/argeta5.jpg": "/static/media/argeta5.aea6f070a488191da929.jpg",
+    "static/media/erasmus7.jpg": "/static/media/erasmus7.663668ecdd47d037fefe.jpg",
     "static/media/bib1.jpg": "/static/media/bib1.85b818e1ba72bbc67d9b.jpg",
     "static/media/asa1.jpg": "/static/media/asa1.70e344840d5e938e5165.jpg",
     "static/media/goradzde2.jpg": "/static/media/goradzde2.53f5a817c92c43062a0d.jpg",
@@ -245,10 +256,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.19ca7796.js.map": "/static/js/main.19ca7796.js.map"
+    "main.cf7a3c70.js.map": "/static/js/main.cf7a3c70.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.19ca7796.js"
+    "static/js/main.cf7a3c70.js"
   ]
 }
