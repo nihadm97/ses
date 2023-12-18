@@ -195,6 +195,41 @@ import dandrzavnosti1 from './images/dandrzavnosti1.jpg';
 import dandrzavnosti2 from './images/dandrzavnosti2.jpg';
 import videoplesdd from './images/videoplesadd.mp4';
 
+import dipanaida1 from './images/dipanaida1.jpg';
+import dipanaida2 from './images/dipanaida2.jpg';
+import dipanaida3 from './images/dipanaida3.jpg';
+import dipanaida4 from './images/dipanaida4.jpg';
+
+import centralna1 from './images/centralna1.jpg';
+import centralna2 from './images/centralna2.jpg';
+import centralna3 from './images/centralna3.jpg';
+import centralna4 from './images/centralna4.jpg';
+import centralna5 from './images/centralna5.jpg';
+import centralna6 from './images/centralna6.jpg';
+
+import vladimir1 from './images/vladimir1.jpg';
+import vladimir2 from './images/vladimir2.jpg';
+import vladimir3 from './images/vladimir3.jpg';
+
+import argeta1 from './images/argeta1.jpg';
+import argeta2 from './images/argeta2.jpg';
+import argeta3 from './images/argeta3.jpg';
+import argeta4 from './images/argeta4.jpg';
+import argeta5 from './images/argeta5.jpg';
+
+import stem23 from './images/stem23.jpg';
+import stem1 from './images/stem1.jpg';
+import stem2 from './images/stem2.jpg';
+import stem3 from './images/stem3.jpg';
+import stem4 from './images/stem4.jpg';
+import stem5 from './images/stem5.jpg';
+import stem6 from './images/stem6.jpg';
+import stem7 from './images/stem7.jpg';
+import stem8 from './images/stem8.jpg';
+import stem9 from './images/stem9.jpg';
+
+import skolap1 from './images/skolap1.jpg';
+import skolap2 from './images/skolap2.jpg';
 
 const Projekti = () => {
   useEffect(() => {
@@ -215,6 +250,292 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
+    
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Škola poduzetništva</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={skolap1} alt="" />
+                    </div>
+                    <div>
+                        <img src={skolap2} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Fondacija poduzetnika BiH u saradnji sa našom školom organizuje Školu poduzetništva, 27.12.2023. godine, sa početkom u 10.00 sati.
+
+
+</p> 
+                  
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">III HUB STEM TAKMIČENJE</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={stem1} alt="" />
+                    </div>
+                    <div>
+                        <img src={stem2} alt="" />
+                    </div>
+                    <div>
+                        <img src={stem3} alt="" />
+                    </div>
+                    <div>
+                        <img src={stem4} alt="" />
+                    </div>
+                    <div>
+                        <img src={stem5} alt="" />
+                    </div>
+                    <div>
+                        <img src={stem6} alt="" />
+                    </div>
+                    <div>
+                        <img src={stem7} alt="" />
+                    </div>
+                    <div>
+                        <img src={stem8} alt="" />
+                    </div>
+                    <div>
+                        <img src={stem9} alt="" />
+                    </div>
+                    <div>
+                        <img src={stem23} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  HOMEWORK HUB, DJEČIJA KUĆA na Grbavici, je  u subotu, 16.12.2023. godine, organizirala III HUB STEM takmičenje za učenike/ce osnovnih i srednjih škola. 
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Preko šezdeset STEM-ovaca/ki prijavilo se za učešće u takmičenju. No, bila je ovo i smotra prijateljstva! Učenici/ce prvog razreda naše škole, njih jedanaest, takmičili su se u konkurenciji sa drugim razredima, što rezultate naših učenika/ca čini vrjednijim. 
+</p>
+                  <p className="mb-4 text-blueGray-500">Mnogo uzbuđenja, računanja, nestrpljenja u očekivanju rezultata, impresivne zainteresovanosti i strasti za eksperimentima, obilježilo je današnje takmičenje.
+
+
+</p>
+                  <p className="mb-4 text-blueGray-500">Ohrabrujuće je i impresivno, da su mladi  pokazali stanovitu strast za naukom.
+
+ 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Sadržaji takmičenja uključili su devedeset pitanja iz raznih oblasti, informatike, matematike, hemije, fizike, te eskperimente iz fizike i hemije. 
+
+</p> 
+<p className="mb-4 text-blueGray-500">Najviše bodova na takmičenju osvojio je učenik Kerim Husejnović I1 razred, 7. mjesto, Emina Karić I2 razred, 8. mjesto, te sljedeći/e učenici/ce sa neznatno manje bodova: Lamija Poljo I2, Hana Šehić I3, Omar Mekić I1, Berina Hebib I3, Huzeifa Gegić I1, Nudžejma Zildžić I2, Arman Ramić I4, Amina Nur Duran I4 i Tajra Berović I5. 
+
+</p> 
+<p className="mb-4 text-blueGray-500">Zahvaljujemo našim učenicima/ama što su svojim prisustvom uveličali ovu smotru znanja, nauke i prijateljstva! 
+
+
+</p> 
+<p className="mb-4 text-blueGray-500">Čestitamo za postignute rezultate!
+</p> 
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase"><i>POSJETA KOMPANIJI ATLANTIC ARGETA DOO, SARAJEVO</i></h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={argeta1} alt="" />
+                    </div>
+                    <div>
+                        <img src={argeta2} alt="" />
+                    </div>
+                    <div>
+                        <img src={argeta3} alt="" />
+                    </div>
+                    <div>
+                        <img src={argeta4} alt="" />
+                    </div>
+                    <div>
+                        <img src={argeta5} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Učenici/ce III2 razreda i IV4 razreda, Mujkanović Amar, Ali Nesimović, Jamak Ema i Mulać Nejra, posjetili su kompaniju Argeta, Hadžići, u petak, 15.decembra 2023. godine.
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Atlantic Argeta d.o.o. Sarajevo posluje u sustavu Atlantic Grupe, kao jedna od proizvodnji delikatesnog namaza Argeta. Osnovana je u maju 2005. godine, kada je počela izgradnja fabrike za proizvodnju Argeta pašteta. Atlantic Argeta d.o.o. Sarajevo bavi se isključivo proizvodnjom delikatesnih namaza samo iz komada čistog mesa, jer drugih proizvoda od mesa u svom asortimanu nema, što ih izdvaja od ostalih fabrika kada je u pitanju mesna industrija.</p>
+                  <p className="mb-4 text-blueGray-500">Popularnost Argete dokazuje činjenica da se svake sekunde u svijetu otvore četiri Argeta paštete. Svake godine proizvedu  više od 130.000.000. Riječ je o <b>najmodernijoj i visokotehnološkoj proizvodnji</b>, jer pod <b>strogom kontrolom</b> od prvih sirovina do zatvaranja pakovanja stvaraju <b>vrhunske proizvode</b>.
+
+</p>
+                  <p className="mb-4 text-blueGray-500"><b>Njihova strategija podrazumijeva iznad svega stalno praćenje trendova te ulaganje u inovacije i proizvodnju novih proizvoda koji zadovoljavaju potrebe potrošača!</b>
+
+ 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Upoznali su nas kako je <b>Argeta pozicionirana na evropskom tržištu</b>. Argeta je sa svojim proizvodima prisutna  u 33 zemlje, na četiri kontinenta, a najjača je upravo u Europi. Što se tiče kvaliteta proizvoda, Atlantic Argeta d.o.o Sarajevo rangirana je kao prvoplasirana u projektu  “100 najvećih u BiH i regionu”. Kad je u pitanju njihova poslovna strategija i politika kvaliteta, u Atlantic Grupi stvaraju okuse koje potrošači vole, počivaju  na modernoj i vlastitoj tehnologiji proizvodnje, koja ne zahtjeva aditive da bi se postigla trajnost proizvoda, zatim na stalnoj modernizaciji proizvodnih linija i na vrhunskom R&D odjelu. <b>Osluškujući potrebe  potrošača i tržišne trendove, stalno su razvijali proizvod, lansirali nove okuse i proizvode, te nalazili inovativne načine komunikacije s kupcima, a to nastavljaju i dalje.</b>
+
+</p> 
+<p className="mb-4 text-blueGray-500">Dalje, ukazali su nam <b>na prednosti  Argete u odnosu na veliku konkurenciju u BiH:</b> Argeta i nakon godina uspješnog poslovanja, oduševljava svoje ljubitelje novim, modernijim dizajnom. Novi izgled Argetinih pakovanja obraća se ljubiteljima na drugačiji, uočljiviji način. Kao centralni element novog dizajna, ilustracija približava kupca karakteru i priči koja stoji iza svakog ukusa.  
+
+</p> 
+<p className="mb-4 text-blueGray-500">Jedna od najvažnijih stvari <b>za Argetu je da održe obećanje dato ljudima, okolišu i zajednici</b>. Trude se da unaprijede zajednicu preko brige za  zaposlenike i njihove porodice. Dodatno se brinu i za šire društvo i radnu okolinu preko sve boljih proizvoda i preko što manjeg uticaja na okolinu, koristeći zelenu energiju u svim njihovim  fabrikama. Argeta je s ponosom dugogodišnji sponzor Sarajevo Film Festivala, što je jedan od najznačajnijih kulturnih događaja u zemlji. 
+
+</p> 
+<p className="mb-4 text-blueGray-500">Zahvaljujemo uposlenicima Argete za vrhunski profesionalizam u organizaciji posjete i priliku da naši učenici/ce uživo čuju lekcije iz marketinga od vrhunskih znalaca.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Posjeta je realizirana u okviru projekta <b>UPOZNAJ PRIVREDU KANTONA SARAJEVO</b>, Indira Zeković, prof.
+
+</p> 
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">DAN NAUKE U FEDERACIJI BIH – VLADIMIR PRELOG</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={vladimir1} alt="" />
+                    </div>
+                    <div>
+                        <img src={vladimir2} alt="" />
+                    </div>
+                    <div>
+                        <img src={vladimir3} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  12. decembar obilježava se kao Dan nauke u Federaciji BiH, u znak sjećanja na dan kada je 1975. godine eminentnom bosanskohercegovačkom naučniku, Vladimiru Prelogu, uručena Nobelova nagrada za hemiju. 
+
+
+</p> 
+                  <p className="mb-4 text-blueGray-500">Nagradu je dobio za svoje radove iz oblasti stereoizomerije organskih molekula. Rođen je u Sarajevu, 23. jula 1906. godine, a umro u Zürichu, 7. januara 1998. godine. Školovao se u rodnom gradu, Zagrebu i Osijeku. Univerzitetsko obrazovanje, te doktorat iz oblasti hemije stekao je u Češkoj. </p>
+                  <p className="mb-4 text-blueGray-500">Područja njegovih istraživanja bila su, uglavnom, heterociklički spojevi, alkaloidi i antibiotici. Središnje zanimanje bila mu je stereohemija molekula, a zaokupljao ga je problem prostorne građe molekula. 
+
+
+</p>
+                  <p className="mb-4 text-blueGray-500">TU nauku uvodi naziv hemijska topologija za područje stereohemije, koja se bavi geometrijskim osobinama molekula. Pridonio je objašnjenju strukture stereoida, kinina, strihnina i drugih alkaloida, a sintetizirao je mnoge druge organske spojeve. 
+
+ 
+</p> 
+ 
+                  <p className="mb-4 text-blueGray-500">Učenice i učenici prvog razreda, sa profesoricom Edinom Kopić, danas su časove hemije posvetile/i sjećanju na našeg nobelovca Vladimira Preloga i njegov naučni i pedagoški rad. 
+
+</p> 
+<p className="mb-4 text-blueGray-500">Pored zanimljivih prezentacija, pogledale/i su kratki dokumentarni film o životu i djelu Nobelovca. Prezentaciju su u holu naše škole mogle/i pogledati sve/i učenice i učenici, kao i sve/i radnice i radnici naše škole.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Također, učenice/i koje/i pohađaju dodatnu nastavu iz Hemije uradile/i su edukativni pano o ovom velikanu, kao i modele strkturnih formula nekih organskih spojeva, objašnjavajući osobine molekula kojima se bavio Nobelovac.
+
+</p> 
+<p className="mb-4 text-blueGray-500">Za kraj aktivnosti, učenice/i su se prisjetile/i izreke Kralja hemije iz Sarajeva:
+
+</p> 
+<p className="mb-4 text-blueGray-500">„Nemojte se bojati raditi na nečemu velikom i zahtjevnom, jer ako se zaista trudite, uvijek će tu biti netko da vam otvori vrata“. Vladimir Prelog
+
+</p> 
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
@@ -261,8 +582,9 @@ const Projekti = () => {
                   <p className="mb-4 text-blueGray-500">Više detalja možete pronaći na facebook stranici Centra. 
 
 </p> 
+<p className="mb-4 text-blueGray-500">Pripremila: Azra Selimbegović IV1 
 
-
+</p> 
 </span>
                   </div>
                   <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
@@ -365,7 +687,7 @@ const Projekti = () => {
             </div>
             </div>
   </section>
-          {/*
+          
           <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
@@ -378,22 +700,16 @@ const Projekti = () => {
                   <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
                       
                   <div>
-                        <img src={poduzetnici1} alt="" />
+                        <img src={dipanaida1} alt="" />
                     </div>
                     <div>
-                        <img src={poduzetnici2} alt="" />
+                        <img src={dipanaida2} alt="" />
                     </div>
                   <div>
-                        <img src={poduzetnici3} alt="" />
+                        <img src={dipanaida3} alt="" />
                     </div>
                     <div>
-                        <img src={poduzetnici4} alt="" />
-                    </div>
-                    <div>
-                        <img src={poduzetnici5} alt="" />
-                    </div>
-                    <div>
-                        <img src={poduzetnici6} alt="" />
+                        <img src={dipanaida4} alt="" />
                     </div>
                     
                     
@@ -429,9 +745,7 @@ const Projekti = () => {
               </div>
             </div>
             </div>
-  </section> */}
-    {/*
-    TREBA DODATI SLIKE
+  </section> 
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
@@ -444,16 +758,22 @@ const Projekti = () => {
                   <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
                       
                   <div>
-                        <img src={pazar3} alt="" />
+                        <img src={centralna1} alt="" />
                     </div>
                     <div>
-                        <img src={pazar4} alt="" />
+                        <img src={centralna2} alt="" />
                     </div>
                   <div>
-                        <img src={pazar1} alt="" />
+                        <img src={centralna3} alt="" />
                     </div>
                     <div>
-                        <img src={pazar2} alt="" />
+                        <img src={centralna4} alt="" />
+                    </div>
+                    <div>
+                        <img src={centralna5} alt="" />
+                    </div>
+                    <div>
+                        <img src={centralna6} alt="" />
                     </div>
                     
                     
@@ -509,7 +829,7 @@ a III2 razred 4.12. 2023. godine u glavnoj jedinici Centralne banke.
               </div>
             </div>
             </div>
-          </section> */}
+          </section> 
               <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">

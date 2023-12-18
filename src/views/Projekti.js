@@ -18,6 +18,17 @@ import medijske1 from './images/medijske1.jpg';
 import medijske2 from './images/medijske2.jpg';
 import medijske3 from './images/medijske3.jpg';
 
+import erasmus0 from './images/erasmus0.jpg';
+import erasmus1 from './images/erasmus1.jpg';
+import erasmus2 from './images/erasmu2.jpg';
+import erasmus3 from './images/erasmu3.jpg';
+import erasmus4 from './images/erasmu4.jpg';
+import erasmus5 from './images/erasmus5.jpg';
+import erasmus6 from './images/erasmus6.jpg';
+import erasmus7 from './images/erasmus7.jpg';
+import erasmus8 from './images/erasmus8.jpg';
+
+
 
 const Projekti = () => {
   useEffect(() => {
@@ -38,6 +49,99 @@ const Projekti = () => {
   return (
     <>
     <ProjektiNavbar fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Erasmus + projekat OPEN FUTURE</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={erasmus0} alt="" />
+                    </div>
+                    <div>
+                        <img src={erasmus1} alt="" />
+                    </div>
+                    <div>
+                        <img src={erasmus2} alt="" />
+                    </div>
+                    <div>
+                        <img src={erasmus3} alt="" />
+                    </div>
+                    <div>
+                        <img src={erasmus4} alt="" />
+                    </div>
+                    <div>
+                        <img src={erasmus5} alt="" />
+                    </div>
+                    <div>
+                        <img src={erasmus6} alt="" />
+                    </div>
+                    <div>
+                        <img src={erasmus7} alt="" />
+                    </div>
+                    <div>
+                        <img src={erasmus8} alt="" />
+                    </div>
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  U nizu aktivnosti kojima naša škola obiluje i po kojima smo prepoznati, kako od strane domaćih, tako i evropskih organizacija, direktorica Amira Kadrispahić, potpisala je Memorandum o međunarodnoj saradnji sa učesnicama i učesnicima projekta Open Future u Novom Sadu.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Nosilac i koordinator Projekta je Naučni centar za kreativni razvoj Ideall - Novi Sad.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Učesnice i učesnici u Projektu, pored naše škole, su Ekonomska i upravna škola iz Osijeka i Srednja mješovita škola „Danilo Kiš“ iz Budve.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Finansijer Projekta, koji će trajati dvije godine u periodu <b>od 1.12.2023. do 30.11.2025. godine</b>,  jeste <b>Evropska Unija - program Erasmus +.</b></p>
+<p className="mb-4 text-blueGray-500">
+Projekat ima za cilj razvoj i jačanje nivoa ključnih preduzetničkih kompetencija profesorica/profesora i učenica/učenika stručnih škola primjenom sistematske metodologije, inovativnog pristupa i posebno razvijenih materijala za ove namjene, što će rezultirati poboljšanim nivoom potencijala zaposlenosti. 
+</p> 
+<p className="mb-4 text-blueGray-500">
+Osnovni cilj sticanja preduzetničkih kompetencija za svakog pojedinca je razvijanje sposobnosti za aktivno učešće u društvu, upravljanje sopstvenim životom i karijerom, te preduzimanje inicijativa za stvaranje novih vrijednosti. 
+</p> 
+<p className="mb-4 text-blueGray-500">
+Zadatak Projekta je obuka za petnaest ključnih preduzetničkih vještina prema usvojenom <b>EntreComp modelu</b>, koje su važne za sve vrste aktivnosti iz svakodnevnog života, a odnose se na lični razvoj, razmišljanje, vještine i sposobnosti u okviru tehnoloških, demografskih i društvenih izazova. Učenice i učenici će u toku planiranih projektnih aktivnosti, između ostalog, razvijati i  kritičko razmišljanje, kreativnost i komunikacijske vještine, koje će podsticati njihovo samopouzdanje, samopoštovanje i sinergiju između učenica/učenika i njihovih profesorica/profesora.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Program predviđa obuku profesorica/profesora, a zatim prijenos stečenih znanja i vještina učenicama/učenicima putem <b>PBL (Project Based Learning)</b> - učenja zasnovanog na projektima, gdje učenice i učenici aktivno učestvuju u pronalaženju načina za rješavanje problema.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Prvi susret u Novom Sadu i pripremne aktivnosti za realizaciju Projekta će nam ostati u dubokom sjećanju zahvaljujući izuzetnom profesionalcu, prof.dr. Zdravku Živković, kojem smo neizmjerno zahvalni što je našu školu birao za partnera u Projektu.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Direktorici su se na ovom putovanju pridružile i profesorice Edina Kopić i Lamija Šabanović, koje, također, učestvuju u realizaciji Projekta.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Sigurni smo da će i učenice/učenici škola učesnica, pored projektnih aktivnosti, steći nove životne prijatelje kao i mi, a što je i najviša blagodat ovakvih susreta.
+</p> 
+             
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
