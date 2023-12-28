@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.d55dffe5.js",
+    "main.js": "/static/js/main.efa5d45d.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/videoplesadd.mp4": "/static/media/videoplesadd.823cc3750495f0dbc98a.mp4",
@@ -36,6 +36,7 @@
     "static/media/selo7.jpg": "/static/media/selo7.95883e5439c2d47375eb.jpg",
     "static/media/glob1.jpg": "/static/media/glob1.630a798706dd128017c0.jpg",
     "static/media/erasmus8.jpg": "/static/media/erasmus8.0fd2eb42249b738fd293.jpg",
+    "static/media/burch4.jpg": "/static/media/burch4.c7a99bfa3415ccd0e37c.jpg",
     "static/media/yunus9.jpg": "/static/media/yunus9.7ef8c9e7b849b1913050.jpg",
     "static/media/skolap1.jpg": "/static/media/skolap1.c269e883de111f8b5a6f.jpg",
     "static/media/ha4.jpg": "/static/media/ha4.139a3233704454795fef.jpg",
@@ -57,6 +58,7 @@
     "static/media/sajamaaa3.jpg": "/static/media/sajamaaa3.e4152a7c11d353b9e5e5.jpg",
     "static/media/izlet7.jpg": "/static/media/izlet7.2ff7edad702b488b735b.jpg",
     "static/media/vrh1.jpg": "/static/media/vrh1.11dd3018ce8db31e0f07.jpg",
+    "static/media/burch2.jpg": "/static/media/burch2.56f6c041255dbdc4b928.jpg",
     "static/media/ples4.jpg": "/static/media/ples4.b18819072ec963f052b3.jpg",
     "static/media/pazar3.jpg": "/static/media/pazar3.2a952c54d08770602100.jpg",
     "static/media/asa2.jpg": "/static/media/asa2.aeb2d270e6c780fb6eca.jpg",
@@ -97,6 +99,7 @@
     "static/media/yunus7.jpg": "/static/media/yunus7.764ef55884e949c9e64c.jpg",
     "static/media/sajamaaa4.jpg": "/static/media/sajamaaa4.cb7adfdca9b0202302b4.jpg",
     "static/media/carina5.jpg": "/static/media/carina5.c6ead44bed085bcc31a9.jpg",
+    "static/media/burch5.jpg": "/static/media/burch5.0947ca28d56a609558bf.jpg",
     "static/media/ejs2.jpg": "/static/media/ejs2.5d06863b46e740397a79.jpg",
     "static/media/goradzde12.jpg": "/static/media/goradzde12.cf96da65f0b90ee09b46.jpg",
     "static/media/glob8.jpg": "/static/media/glob8.434011b285486c21236b.jpg",
@@ -110,10 +113,12 @@
     "static/media/glob9.jpg": "/static/media/glob9.b26f3d33414895c6d645.jpg",
     "static/media/selo2.jpg": "/static/media/selo2.8569a15a31f4859422a4.jpg",
     "static/media/selo3.jpg": "/static/media/selo3.95f31712b24d6ccde937.jpg",
+    "static/media/burch6.jpg": "/static/media/burch6.0b0afc7661f902f3d5b2.jpg",
     "static/media/dan9.jpg": "/static/media/dan9.bae871a8e3a78c9b5373.jpg",
     "static/media/radionica3.jpg": "/static/media/radionica3.143970598b29fd835d5c.jpg",
     "static/media/bib3.jpg": "/static/media/bib3.dd6be7c217e0f682b9fb.jpg",
     "static/media/medijske2.jpg": "/static/media/medijske2.f7f3bfc52d778e64eb41.jpg",
+    "static/media/burch1.jpg": "/static/media/burch1.838d111ac014409afb9c.jpg",
     "static/media/poduzetnici6.jpg": "/static/media/poduzetnici6.51e50a2a4ed886ccd0ad.jpg",
     "static/media/jabuka5.jpg": "/static/media/jabuka5.69488ea8a8bc0b1de791.jpg",
     "static/media/erasmu2.jpg": "/static/media/erasmu2.b351941637192080055e.jpg",
@@ -168,6 +173,7 @@
     "static/media/muzej1.jpg": "/static/media/muzej1.b41c5d7364d903495f38.jpg",
     "static/media/zec2.jpg": "/static/media/zec2.0effa6be838f590d364c.jpg",
     "static/media/radionica2.jpg": "/static/media/radionica2.7b180ac4c3db004a3ae1.jpg",
+    "static/media/burch3.jpg": "/static/media/burch3.c4308358093ab7881a3c.jpg",
     "static/media/goradzde18.jpg": "/static/media/goradzde18.3c5455c57a2008c94af3.jpg",
     "static/media/stednja5.jpg": "/static/media/stednja5.af51690928b7b8d2ad2a.jpg",
     "static/media/glob7.jpg": "/static/media/glob7.7178a0419e318533d88c.jpg",
@@ -202,6 +208,7 @@
     "static/media/erasmus7.jpg": "/static/media/erasmus7.663668ecdd47d037fefe.jpg",
     "static/media/bib1.jpg": "/static/media/bib1.85b818e1ba72bbc67d9b.jpg",
     "static/media/asa1.jpg": "/static/media/asa1.70e344840d5e938e5165.jpg",
+    "static/media/burch7.jpg": "/static/media/burch7.c669bd7c4ef02ecc0f8b.jpg",
     "static/media/goradzde2.jpg": "/static/media/goradzde2.53f5a817c92c43062a0d.jpg",
     "static/media/goradzde15.jpg": "/static/media/goradzde15.b584c0ad83b743276761.jpg",
     "static/media/slika2.jpg": "/static/media/slika2.2f73be52ace0cb829421.jpg",
@@ -268,10 +275,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.d55dffe5.js.map": "/static/js/main.d55dffe5.js.map"
+    "main.efa5d45d.js.map": "/static/js/main.efa5d45d.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.d55dffe5.js"
+    "static/js/main.efa5d45d.js"
   ]
 }
