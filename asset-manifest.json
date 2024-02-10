@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.d20452dd.js",
+    "main.js": "/static/js/main.893878b9.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/videoplesadd.mp4": "/static/media/videoplesadd.823cc3750495f0dbc98a.mp4",
@@ -288,6 +288,7 @@
     "static/media/izlet9.jpg": "/static/media/izlet9.95591418a6dfa993152b.jpg",
     "static/media/pazar1.jpg": "/static/media/pazar1.5f98673728ba4fc2f78b.jpg",
     "static/media/carina2.jpg": "/static/media/carina2.dd7d291a95b493a40257.jpg",
+    "static/media/erasmus.png": "/static/media/erasmus.eb7a9d6b7c427fad716f.png",
     "static/media/februar3.jpg": "/static/media/februar3.4abc1c1280673da54ada.jpg",
     "static/media/dzeki1.jpg": "/static/media/dzeki1.d0c5cd8cd144a1514880.jpg",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.c6ec080084769a6d8a34.woff",
@@ -325,10 +326,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.d20452dd.js.map": "/static/js/main.d20452dd.js.map"
+    "main.893878b9.js.map": "/static/js/main.893878b9.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.d20452dd.js"
+    "static/js/main.893878b9.js"
   ]
 }
