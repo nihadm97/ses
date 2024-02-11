@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.893878b9.js",
+    "main.js": "/static/js/main.8657a4f0.js",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/videoplesadd.mp4": "/static/media/videoplesadd.823cc3750495f0dbc98a.mp4",
@@ -308,6 +308,7 @@
     "static/media/direktorica.webp": "/static/media/direktorica.6251c0392fe6a62e9c23.webp",
     "static/media/dzeki4.jpg": "/static/media/dzeki4.81646f0ff1e83942e4ec.jpg",
     "static/media/spars3.jpg": "/static/media/spars3.7923db2cf57f3cc46f04.jpg",
+    "static/media/eu.png": "/static/media/eu.119a117c649f6dd005cc.png",
     "static/media/zeleno1.webp": "/static/media/zeleno1.e239e8d85a60982c96c7.webp",
     "static/media/poduzetnici1.jpg": "/static/media/poduzetnici1.cc275be10c04114db757.jpg",
     "static/media/pismenost1.jpg": "/static/media/pismenost1.63e6d1d1446545e6a57e.jpg",
@@ -326,10 +327,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.893878b9.js.map": "/static/js/main.893878b9.js.map"
+    "main.8657a4f0.js.map": "/static/js/main.8657a4f0.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.893878b9.js"
+    "static/js/main.8657a4f0.js"
   ]
 }
