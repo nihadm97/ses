@@ -2,7 +2,7 @@ import React from "react";
 import logo from './logo.webp';
 import { Link } from "react-router-dom";
 import etwi1 from './etwi1.webp';
-import etwi2 from './etwi2.webp';
+import erasmus from './erasmus.png';
 
 export default function Menu() {
   const [menuOpen, setMenuOpen] = React.useState(false);
@@ -94,13 +94,13 @@ export default function Menu() {
                   
                 </a>
                 <a
-                  className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold px-6"
-                  href="https://sites.google.com/ses.edu.ba/srednjaekonomskakola-etwinning/o-etwinningu"
+                  className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold"
+                  href="https://erasmus-plus.ec.europa.eu/"
                   target="_blank"
                   rel="noreferrer"
                   
                 >
-                  <img src={etwi2} width="30" height="30"></img>
+                  <img src={erasmus} width="40" height="40"></img>
                   
                 </a>
               </li>

@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import etwi1 from './etwi1.webp';
 import etwi2 from './etwi2.webp';
 
+import erasmus from './erasmus.png';
 
 
 
@@ -17,7 +18,7 @@ export default function Upis(props) {
           <nav className="fixed z-50 w-full flex flex-wrap items-center justify-between px-2 py-3 navbar-expand-lg shadow" style={{backgroundColor: "rgba(0, 0, 0, 0.5)"}}>
             <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
               <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
-              <h2 className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75" style={{color: '#92d050'}} >JU SREDNJA EKONOMSKA ŠKOLA, SARAJEVO</h2>
+              <h2 className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75" style={{color: '#92d050'}}>JU SREDNJA EKONOMSKA ŠKOLA, SARAJEVO</h2>
                 <button
                   className="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
                   type="button"
@@ -122,6 +123,17 @@ export default function Upis(props) {
                   
                 </a>
                 <a
+                  className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold"
+                  href="https://erasmus-plus.ec.europa.eu/"
+                  target="_blank"
+                  rel="noreferrer"
+                  
+                >
+                  <img src={erasmus} width="40" height="40"></img>
+                  
+                </a>
+                {/*
+                <a
                   className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold px-6"
                   href="https://sites.google.com/ses.edu.ba/srednjaekonomskakola-etwinning/o-etwinningu"
                   target="_blank"
@@ -131,6 +143,7 @@ export default function Upis(props) {
                   <img src={etwi2} width="30" height="30"></img>
                   
                 </a>
+              */}
               </li>
                 </ul>
               </div>

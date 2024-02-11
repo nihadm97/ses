@@ -107,6 +107,8 @@ export default function Upis() {
                 </div>
               </div>
               
+
+
               <div onClick={executeScroll} className="w-full md:w-4/12 px-4 text-center">
                 <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                   <div className="px-4 py-5 flex-auto">
@@ -139,6 +141,24 @@ export default function Upis() {
               </div>
             </div>
 
+            <div className="w-full md:w-7/12 px-12 md:px-4 ml-auto mr-auto mt-48 text-center md:text-left">
+              <h3 className="text-3xl mb-2 font-semibold leading-normal">
+              O školi...
+              </h3>
+              <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
+              Nakon 1945. godine, škola je nosila svoj prvobitni naziv Trgovačka akademija. Od 27. juna 1951. godine dobiva ime Srednja ekonomska škola u Sarajevu, a zatim 1960. godine Ekonomska škola "Hasan Brkić" u Sarajevu. U toku rata 1992-1995. godine ponovno dobiva naziv Srednja ekonomska škola u Sarajevu. 
+Ove promjene naziva nisu uticale niti mijenjale profil Škole.  
+Kao Trgovačka akademija u Sarajevu od 1919. godine radila je u zgradi na uglu Obale i Zmaj-Jovine ulice (danas Gimnazijska ulica). Vremenom je ta austrougarska zgrada postala neuslovna za potrebe savremene nastave i znatno povećanog broja učenika. Zbog toga je namjenski izgrađena zgrada u Ulici Vojvode Putnika (danas Ulica Zmaja od Bosne), koja je u to vrijeme bila prilagođena najsavremenijim uslovima odvijanja nastavnog procesa.</p>
+<p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
+Nedugo poslije preseljenja u novu zgradu, Ekonomska škola u Sarajevu je 1962. godine proslavila 50-godišnjicu svog postojanja. Nizom manifestacija obilježena je jubilarna godina ove cijenjene i uspješne škole. U novoadaptiranu i proširenu zgradu uselilo se na Dan škole - 1. oktobra 1977. godine. Istovremeno je bila proslavljena i 65-godišnjica postojanja Škole, što je uvećalo radost useljenja. U novoadaptiranoj zgradi nalazilo se 27 kabineta, 2 fiskulturne sale, biblioteka, čitaonica i ostale potrebne prostorije.  
+Time je Ekonomska škola dobila modernu i relativno prostranu školsku zgradu u kojoj se nastava odvijala sve do rata 1992. godine.
+              </p>
+              <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
+              Povodom obilježavanja 65-godišnjice postojanja Ekonomskoj školi "Hasan Brkić" u Sarajevu je dodijeljeno najviše priznanje za njen dugogodišnji, izuzetan i vrlo kvalitetan obrazovno-vaspitni rad. Ukazom Predsjednika SFRJ Josipa Broza Tita (od 25.9.1978. godine) Ekonomskoj školi "Hasan Brkić" Sarajevo dodijeljen je Orden rada sa Crvenom zastavom. 
+Ovo odlikovanje bilo je priznanje za sve generacije učenika, profesora i drugih radnika, koji su ostavili dio sebe u ovoj Školi i tako stvorili vaspitno-obrazovnu ustanovu koja služi kao svijetao primjer.
+              </p>
+            </div>
+            
             <div data-aos="fade-down" ref={myRef} className="flex flex-wrap items-center mt-32">
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
                 <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">

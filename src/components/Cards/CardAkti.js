@@ -238,7 +238,7 @@ rel="noreferrer"
         >
           Pravilnik o radu
         </a>
-      </div>
+          </div>
                 </td>
               </tr>
               <tr>
@@ -404,7 +404,7 @@ rel="noreferrer"
                   </span>
                 </th>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
-                  17
+                  18
                 </td>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   OSOBLJE I UČENIKE
@@ -599,6 +599,16 @@ rel="noreferrer"
           rel="noreferrer"
         >
           Pravilnik o izboru, kriterijima za izbor, nadležnostima i radu direktora
+        </a>
+        <a
+          href="https://drive.google.com/file/d/116gUYAFulRCRbplfeHU1LMS9eKf44Ou7/view?usp=sharing"
+          className={
+            "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
+          }
+          target="_blank"
+          rel="noreferrer"
+        >
+          Pravilnik o vlastitim javnim prihodima
         </a>
       </div>
                 </td>

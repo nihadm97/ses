@@ -18,6 +18,8 @@ import medijske1 from './images/medijske1.jpg';
 import medijske2 from './images/medijske2.jpg';
 import medijske3 from './images/medijske3.jpg';
 
+
+import eu from './eu.png';
 import erasmus0 from './images/erasmus0.jpg';
 import erasmus1 from './images/erasmus1.jpg';
 import erasmus2 from './images/erasmu2.jpg';
@@ -51,9 +53,10 @@ const Projekti = () => {
     <ProjektiNavbar fixed/>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
-            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
-              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Erasmus + projekat OPEN FUTURE</h6>
-            </span>
+          <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+    <h6 className="text-xl mb-1 font-semibold uppercase mr-2">Erasmus + projekat OPEN FUTURE  </h6>
+    <img src={eu} width="50" height="50" alt="" />
+</span>
             <div className="flex flex-wrap">
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
