@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.33fc1b21.css",
-    "main.js": "/static/js/main.db686921.js",
+    "main.js": "/static/js/main.ce60788c.js",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/videoplesadd.mp4": "/static/media/videoplesadd.823cc3750495f0dbc98a.mp4",
     "static/media/sajam.gif": "/static/media/sajam.be2722031087a6199fa7.gif",
@@ -67,6 +67,7 @@
     "static/media/bamba10.jpg": "/static/media/bamba10.65ccfc11a1a3ffd615b6.jpg",
     "static/media/bamba3.jpg": "/static/media/bamba3.65ccfc11a1a3ffd615b6.jpg",
     "static/media/vrh1.jpg": "/static/media/vrh1.11dd3018ce8db31e0f07.jpg",
+    "static/media/nasilje5.jpg": "/static/media/nasilje5.932f59ae47546befb392.jpg",
     "static/media/burch2.jpg": "/static/media/burch2.56f6c041255dbdc4b928.jpg",
     "static/media/ples4.jpg": "/static/media/ples4.b18819072ec963f052b3.jpg",
     "static/media/pazar3.jpg": "/static/media/pazar3.2a952c54d08770602100.jpg",
@@ -144,6 +145,8 @@
     "static/media/bamba8.jpg": "/static/media/bamba8.b30a4a93b4fe00879207.jpg",
     "static/media/jabuka5.jpg": "/static/media/jabuka5.69488ea8a8bc0b1de791.jpg",
     "static/media/erasmu2.jpg": "/static/media/erasmu2.b351941637192080055e.jpg",
+    "static/media/nasilje2.jpg": "/static/media/nasilje2.815c52e03232c3b66558.jpg",
+    "static/media/nasilje3.jpg": "/static/media/nasilje3.abe1df31ae7e56aeb8ba.jpg",
     "static/media/ha3.jpg": "/static/media/ha3.cf6bc1273ab1c0d2446b.jpg",
     "static/media/muzej3.jpg": "/static/media/muzej3.1974bab82f62efefdbd3.jpg",
     "static/media/streliste1.jpg": "/static/media/streliste1.b7d9d1d446608c7865f5.jpg",
@@ -155,6 +158,7 @@
     "static/media/noc3.jpg": "/static/media/noc3.b3025948bac69a8a0052.jpg",
     "static/media/dan5.jpg": "/static/media/dan5.0b11aae943c1d3c20144.jpg",
     "static/media/goradzde23.jpg": "/static/media/goradzde23.b43a8806acc4bb135a38.jpg",
+    "static/media/nasilje6.jpg": "/static/media/nasilje6.e2243ef08717f10898b0.jpg",
     "static/media/glob6.jpg": "/static/media/glob6.24d3aa1c8742b450dc7f.jpg",
     "static/media/noc11.jpg": "/static/media/noc11.ef721352c7ad6248e1a3.jpg",
     "static/media/opasno3.jpg": "/static/media/opasno3.a646cb93b86095a7ab28.jpg",
@@ -210,6 +214,7 @@
     "static/media/faris4.jpg": "/static/media/faris4.d2d17ef57d4d7f8e540d.jpg",
     "static/media/radionica2.jpg": "/static/media/radionica2.7b180ac4c3db004a3ae1.jpg",
     "static/media/burch3.jpg": "/static/media/burch3.c4308358093ab7881a3c.jpg",
+    "static/media/nasilje4.jpg": "/static/media/nasilje4.43627c100320d1b83cf5.jpg",
     "static/media/goradzde18.jpg": "/static/media/goradzde18.3c5455c57a2008c94af3.jpg",
     "static/media/stednja5.jpg": "/static/media/stednja5.af51690928b7b8d2ad2a.jpg",
     "static/media/glob7.jpg": "/static/media/glob7.7178a0419e318533d88c.jpg",
@@ -268,6 +273,7 @@
     "static/media/centralna5.jpg": "/static/media/centralna5.cf02be2b44da22e729f4.jpg",
     "static/media/stednja4.jpg": "/static/media/stednja4.77b109d574ce85db2f1d.jpg",
     "static/media/aids2.jpg": "/static/media/aids2.7264ba293385abe1ce2d.jpg",
+    "static/media/nasilje7.jpg": "/static/media/nasilje7.022c9a7d8bb57a26163a.jpg",
     "static/media/radionica1.jpg": "/static/media/radionica1.1ee8a6878029493187b5.jpg",
     "static/media/noc4.jpg": "/static/media/noc4.7151a51e6830ed2fa63f.jpg",
     "static/media/25ti4.jpg": "/static/media/25ti4.c1605a5ca5ff569ddd5a.jpg",
@@ -277,6 +283,7 @@
     "static/media/bamba7.jpg": "/static/media/bamba7.358e8fe6b93fecf360c2.jpg",
     "static/media/pazar2.jpg": "/static/media/pazar2.6a9afb770600d03e2aa8.jpg",
     "static/media/25ti2.jpg": "/static/media/25ti2.283448ce6b89c677e0a8.jpg",
+    "static/media/nasilje1.jpg": "/static/media/nasilje1.1f9000c2e1b3897463f6.jpg",
     "static/media/bamba2.jpg": "/static/media/bamba2.fa050f9112679bab9021.jpg",
     "static/media/ajla.jpg": "/static/media/ajla.a431e3532fe68de8f0ad.jpg",
     "static/media/bamba1.jpg": "/static/media/bamba1.925cb1520824ce4a18dd.jpg",
@@ -336,10 +343,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.33fc1b21.css.map": "/static/css/main.33fc1b21.css.map",
-    "main.db686921.js.map": "/static/js/main.db686921.js.map"
+    "main.ce60788c.js.map": "/static/js/main.ce60788c.js.map"
   },
   "entrypoints": [
     "static/css/main.33fc1b21.css",
-    "static/js/main.db686921.js"
+    "static/js/main.ce60788c.js"
   ]
 }
