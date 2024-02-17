@@ -308,6 +308,33 @@ import sender3 from './images/sender3.jpg';
 import sender4 from './images/sender4.jpg';
 import sender5 from './images/sender5.jpg';
 
+import ajla from './images/ajla.jpg';
+
+import muza1 from './images/muza1.jpg';
+import muza2 from './images/muza2.jpg';
+import muza3 from './images/muza3.jpg';
+import muza4 from './images/muza4.jpg';
+import muza5 from './images/muza5.jpg';
+import muza6 from './images/muza6.jpg';
+import muza7 from './images/muza7.jpg';
+import muza from './images/muza1.mp4';
+
+import nasilje1 from './images/nasilje1.jpg';
+import nasilje2 from './images/nasilje2.jpg';
+import nasilje3 from './images/nasilje3.jpg';
+import nasilje4 from './images/nasilje4.jpg';
+import nasilje5 from './images/nasilje5.jpg';
+import nasilje6 from './images/nasilje6.jpg';
+import nasilje7 from './images/nasilje7.jpg';
+
+import alija1 from './images/alija1.jpg';
+import alija2 from './images/alija2.jpg';
+import alija3 from './images/alija3.jpg';
+
+import kino1 from './images/kino1.jpg';
+import kino2 from './images/kino2.jpg';
+import kino3 from './images/kino3.jpg';
+
 const Projekti = () => {
   useEffect(() => {
     AOS.init({duration: 2000});
@@ -327,6 +354,340 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Inspektori MUP-a KS održali predavanje na temu <b><i>Prevencija  maloljetničkog prestupništva i nasilja</i></b></h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={nasilje1} alt="" />
+                    </div>
+                    <div>
+                        <img src={nasilje2} alt="" />
+                    </div>
+                    <div>
+                        <img src={nasilje3} alt="" />
+                    </div>
+                    <div>
+                        <img src={nasilje4} alt="" />
+                    </div>
+                    <div>
+                        <img src={nasilje5} alt="" />
+                    </div>
+                    <div>
+                        <img src={nasilje6} alt="" />
+                    </div>
+                    <div>
+                        <img src={nasilje7} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+<p className="mb-4 text-blueGray-500">
+15.02. 2024. godine, u multimedijalnoj sali naše škole, održano je edukativno predavanje na temu <i>Prevencija  maloljetničkog prestupništva i nasilja</i>. Predavači su bili Hasan Begić, inspektor MUP-a Kantona Sarajevo i koordinator za maloljetničko prestupništvo i nasilje i Vildana Šedo, inspektorica MUP-a KS.</p>
+<p className="mb-4 text-blueGray-500">
+Predavači su se posebno osvrnuli na ulogu policije u prevenciji maloljetničkog prestupništva i nasilja. Cilj je da mladi prepoznaju policiju kao resurs koji im stoji na raspolaganju za nošenje sa situacijama koje i sami procjenjuju opasnima.</p>
+<p className="mb-4 text-blueGray-500">
+Nastojali su unaprijediti stavove učenika/učenica o policiji, njihova znanja o njenoj ulozi i mogućnostima saradnje, povjerenje u pripadnike policije i spremnost na obraćanje policiji u situacijama ugrožene sigurnosti i percipirane opasnosti. S druge strane, današnja sesija će i policiji pomoći u osmišljavanju budućih programa za prevenciju maloljetničkog prestupništva. Policija u zajednici nova je filozofija policijskog djelovanja, a to podrazumijeva povjerenje građana u policiju i njihov osjećaj sigurnosti.</p>
+<p className="mb-4 text-blueGray-500">
+Jasno je da prevencija maloljetničkog prestupništva mora biti sistemski organizovana i planski koordinirana sinergija svih organa, ustanova i službi u čijoj je nadežnosti rad sa mladima, fokusiran na prevenciju i suzbijanje pojava prestupništva.</p>
+<p className="mb-4 text-blueGray-500">
+Niko se ne rađa kao kriminalac! </p>
+<p className="mb-4 text-blueGray-500">
+Učinimo svi zajedno da na vrijeme reagujemo na signale koje mlada osoba šalje porodici, školi, vršnjacima, tražeći pomoć i podršku!</p>
+<p className="mb-4 text-blueGray-500">
+I ova edukativna radionica o saradnji sa policijom i štetnosti kaznenih djela je doprinos da mladi izrastu  u odgovorne građane!</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">SEŠ na projekciji filma <i>Deblokada</i>, Jasmile Žbanić </h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={kino1} alt="" />
+                    </div>
+                    <div>
+                        <img src={kino2} alt="" />
+                    </div>
+                    <div>
+                        <img src={kino3} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+<p className="mb-4 text-blueGray-500">
+U povodu obilježavanja četrdesetogodišnjice održavanja  Zimskih olimpijskih igara u Sarajevu, učenici/ce trećih razreda, psihologinja Marina Rubić i Almina Hodžić, socijalna radnica naše škole, prisustvovali su projekciji filma Deblokada redateljice Jasmile Žbanić, u kinu Meeting point. Zanimljivo je da je stvaranje ovog filma bio unikatan proces jer su u stvaranju filma mogli učestvovati svi građani sa pričama, fotografijama...</p>
+<p className="mb-4 text-blueGray-500">
+Film je ovo o Emeriku Blumu, legendarnom direktoru Energoinvesta i gradonačelniku Sarajeva. Bio je vizionar i čovjek od akcije. Emerik Blum,  Sarajlija genijalnih poslovnih i razvojnih vizija, je u ratom razrušenoj Bosni i Hercegovini od malog biroa s nekoliko zaposlenih napravio veliku i uspješnu svjetsku kompaniju Energoinvest koja je vodila Bosnu i Hercegovinu i cijelu Jugoslaviju naprijed, u  danas nezamislive, uspjehe i prosperitet.  Kroz unikatni, samoupravni model poslovanja, različit od socijalizma Istočnog bloka i kapitalističkog Zapada, kompanija donosi ogroman profit i progres čitavoj Jugoslaviji. Njegov Energoinvest je imao milijarde dolara prometa. Poslovao je u više od 20 zemalja, od Meksika do Malezije. Direktor Blum i njegovi saradnici stvaraju čudo! Kako je to bilo moguće? On nikad nije pristajao na male uspjehe već insistiranjem na znanju kao temelju, stremio i dosezao samo velike ciljeve, a ljudima iz vlastite poslovne sredine omogućavao da se edukuju u zemlji i inozemstvu ako su oni to željeli i htjeli. Njegova logika je bila da među stotinu edukovanih, jedan će biti genijalac i 'povući naprijed ostalih devedeset', kazala je jedna od svjedokinja u filmu, sudionica Energoinvestovog gigantskog uspjeha.</p>
+<p className="mb-4 text-blueGray-500">
+I da li su građani Bosne i Hercegovine zaboravili ko su i šta su nekada bili uz ljude kao što je Emerik Blum?, pitanja su koja postavlja autor Jasmila Žbanić. </p>
+<p className="mb-4 text-blueGray-500">
+Na kraju projekcije uslijedila je diskusija i učenici/ce su mogli/e da postavljaju pitanja glavnim akterima filma, što im je bilo posebno zanimljivo. Posebno je važno da film vide mladi ljudi, da vide da je postojala neka drugačija, bolja, BiH. Film o Blumu nije tu samo da pokaže kakvo čudo je bilo moguće u Bosni prije četrdeset  godina, nego da se zapitamo – da li je to čudo moguće danas? </p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Promocija naše škole u <i>Osnovnoj školi  Alija Nametak</i></h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={alija1} alt="" />
+                    </div>
+                    <div>
+                        <img src={alija2} alt="" />
+                    </div>
+                    <div>
+                        <img src={alija3} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+<p className="mb-4 text-blueGray-500">
+Učenice IV1 razreda Šišić Emela, Kazazović Sajra i Mešak Medina, sa profesoricom Avdagić Lejlom, u utorak, 6. februara 2024. godine su posjetili <i>Osnovnu školu Alija Nametak</i>.</p>
+<p className="mb-4 text-blueGray-500">
+Sa mnogo entuzijazma i ljubavi prema svojoj školi, učenice su promovirale našu školu osnovcima.</p>
+<p className="mb-4 text-blueGray-500">
+Promociji naše Škole prisustvovali/e su učenici/ce završnog devetog razreda, tri odjeljenja. </p>
+<p className="mb-4 text-blueGray-500">
+U jednosatnoj promociji, prisutnim smo promovirali smjerove ekonomskog i bankarskog tehničara, sekcije, projekte, naše linkove sa institucijama, preduzećima, bankama, izlete, putovanja i ostale sadržaje našeg djelovanja kao škole u kreiranju obrazovanja i odgoja utemeljenog na potrebama naših učenika. Cilj nam je pružiti našim učenicima bogato obrazovno iskustvo kroz koje učenici mogu napredovati, razvijati se i realizirati svoj puni potencijal. Objasnili smo da je fokus našeg pristupa  na potrebama djeteta u cjelini, zdravlju, sigurnosti i psihičkom blagostanju djeteta, a ne samo na onom što se 'tiče škole'. Kratko, radimo da našim učenicima škola bude radost.</p>
+<p className="mb-4 text-blueGray-500">
+Niko se ne rađa kao kriminalac! </p>
+<p className="mb-4 text-blueGray-500">
+Prisutne smo pozvali da budu gosti edukativnog, promotivnog i prodajnog sajma <b>EKSPERT</b> koji priređujemo u našoj školi 7. i 8. marta. Sajam je  naš doprinos promociji uspješnih poslovnih priča i gradnja naših linkova sa privredom i institucijama. Naši učenici su glavni nosioci aktivnosti sajma i ovo je za njih prilika da povezuju teorijsko i praktično znanje.</p>
+<p className="mb-4 text-blueGray-500">
+Prisutni/e su pokazali/e stanovitu zainteresiranost da budu učenici/ce naše Škole i u nastavku promocije postavili brojna pitanja.</p>
+<p className="mb-4 text-blueGray-500">
+Na mladima svijet ostaje! </p>
+<p className="mb-4 text-blueGray-500">
+Učinimo sve da postanu kvalitetni ljudi!</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Ajla Karup, učenica IV4 razreda naše škole, osvojila prvo mjesto na HUB debati na njemačkom jeziku</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={ajla} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+<p className="mb-4 text-blueGray-500">
+Homework HUB i JU Međunarodni centar za djecu i omladinu Novo Sarajevo realizovali su prvu HUB debatu na njemačkom jeziku za srednjoškolce/ke Kantona Sarajevo.</p>
+<p className="mb-4 text-blueGray-500">
+Prijavljeni učenici/ce,  njih petnaest iz srednjih škola sa područja Kantona Sarajevo,  u subotu, 10. februara, prisustvovali su HUB debati  u HUB Dječjoj kući. Koordinatorica ove aktivnosti bila je HUB članica tima, Alma Muharemović.</p>
+<p className="mb-4 text-blueGray-500">
+Teme HUB debate na njemačkom jeziku:</p>
+<p className="mb-4 text-blueGray-500">
+1.	Je li uredu da učenici i učenice koriste vještačku inteligenciju prilikom učenja?</p>
+<p className="mb-4 text-blueGray-500">
+2.	Da li žene imaju mjesto u nauci?</p>
+<p className="mb-4 text-blueGray-500">
+3.	Da li je broj muškaraca u nauci veći od broja žena?</p>
+<p className="mb-4 text-blueGray-500">
+4.	Dobijaju li muškarci više nagrada za njihov rad u nauci nego žene?</p>
+<p className="mb-4 text-blueGray-500">
+5.	Jesu li socijalne mreže štetne za psihičko zdravlje?</p>
+<p className="mb-4 text-blueGray-500">
+Ambasada Njemačke u BiH  je omogućila prigodne poklone za pet najboljih učenika/ca.</p>
+<p className="mb-4 text-blueGray-500">
+Za sve učesnike, bez sumnje,  bilo je ovo jedno izuzetno iskustvo. Bila je ovo i prilika da vidimo kako razmišljaju pripadnici generacije Z, generacije bržih mreža i formata kao što su Instagram, TikTok, Youtube shorts-a gdje se video i prenos informacija sve više skraćuje. Oni se vode kao prva digitalna generacija jer su odrasli sa tabletima i telefonima u rukama i životi su im od najranije dobi vezani za računare i mobitele. Oni su generacija  Z ili Zoomersi! Nevjerovatan razvoj tehnologije otvorio im je prozor u cijeli svijet, u novo, u drugačije. Upoznavanje novih osoba, navika, običaja, nepoznatih im kultura, stavova i vrijednosti, drugačijih razmišljanja, putovanja i spoznaja – ovoj je generaciji informacija mnogo dostupnija, svijet im je na dlanu.</p>
+<p className="mb-4 text-blueGray-500">
+Evidentno, pokazali su impresivnu moć prosuđivanja i kritičkog razmišljanja, savjesnog ponašanja, zbog čega su većinski bezrezervni individualci koji argumentovano kritikuju sisteme, države, ...
+Spomenemo predstavnicu aktivista Gen Z, Gretu Thunberg koja je već sa 18 godina držala govore koji su promjenili globalnu osviještenost o klimatskim promjenama. Prisutni Zoomersi na HUB debati pokazali su da su spremni da zaista mijenjaju stvari, a ne da samo pričaju o promjenama. Vrlo su poduzetni i svjesni, ozbiljnije shvataju edukaciju i dokazali su nam da floskula na mladima svijet ostaje, nije isprazna.
+</p>
+<p className="mb-4 text-blueGray-500">
+Nagrađeni učesnici HUB debate:</p>
+<p className="mb-4 text-blueGray-500">
+<b><i>1.	Ajla Karup, Srednja ekonomska škola Sarajevo</i></b></p>
+<p className="mb-4 text-blueGray-500">
+2.	Semina Šatara, Prva gimnazija Sarajevo</p>
+<p className="mb-4 text-blueGray-500">
+3.	Emilin Macić, Treća gimnazija Sarajevo</p>
+<p className="mb-4 text-blueGray-500">
+4.	Muris Čerkes, Druga gimnazija Sarajevo</p>
+<p className="mb-4 text-blueGray-500">
+5.	Semin Jaquet, Prva gimnazija Sarajevo</p>
+<p className="mb-4 text-blueGray-500">
+Čestitamo našoj Ajli Karup, učenici IV4 razreda, koja nas redovno obraduje nagradama sa  takmičenja u znanju njemačkog jezika!</p>
+<p className="mb-4 text-blueGray-500">
+Sve čestitke i  za njenu izuzetnu profesoricu njemačkog jezika Aidu Babić!</p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Posjeta <i><b>Muzeju Sarajevskog atentata (Sarajevo 1878-1918)</b></i></h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={muza1} alt="" />
+                    </div>
+                    <div>
+                        <img src={muza2} alt="" />
+                    </div>
+                    <div>
+                        <img src={muza3} alt="" />
+                    </div>
+                    <div>
+                        <img src={muza4} alt="" />
+                    </div>
+                    <div>
+                        <img src={muza5} alt="" />
+                    </div>
+                    <div>
+                        <img src={muza6} alt="" />
+                    </div>
+                    <div>
+                        <img src={muza7} alt="" />
+                    </div>
+                    
+
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+<p className="mb-4 text-blueGray-500">
+Učenici/ce IV4  i IV3 razreda posjetili/le su Muzej Sarajevskog atentata, u  utorak 6.2. 2024. godine.</p>
+<p className="mb-4 text-blueGray-500">
+Stalna izložbena postavka <b><i>Sarajevo 1878-1918</i></b> čuva sjećanje na 40 godina austrougarske okupacije Bosne i Hercegovine i na događaj koji je bio povod za početak Prvog svjetskog rata, kada su ubijeni prijestolonasljednik Austrougarske monarhije Franc Ferdinand i njegova supruga Sofija. Depandans <b><i>Muzej Sarajevo 1878-1918</i></b> nalazi se u zgradi ispred koje je izvršen atentat i u njoj su na muzeološki način prezentirani historijski događaji. Postavka prikazuje izdavaštvo iz tog perioda, kulturu življenja, dokaze o osnivanju brojnih civilnih društva, likovnu umjetnost, arhitekturu, razvoj infrastrukture i administracije, te sve ono što je vezano za Sarajevski atentat, koji se dogodio 28. juna 1914. godine. Imali smo priliku pogledati originalno oružje korišteno tokom pružanja otpora okupaciji iz 1878. godine. Tu je i slika prvog gradonačelnika Sarajeva Mustaj-bega Fadilpašića,  jednog od organizatora otpora. Kada je u pitanju arhitektura iz tog perioda, Muzej posjeduje nekoliko fotografija reprezentativnih objekata izgrađenih tokom austrougarske okupacije poput Zemaljskog muzeja, Vijećnice ili prve hidrocentrale.</p>
+<p className="mb-4 text-blueGray-500">
+BiH je u sastavu Monarhije bila  zasebno područje, imala Bosanski sabor, odnosno parlament koji je bio smješten u Vijećnici. U Muzeju Sarajevo su dokazi o autonomnosti BiH u sastavu Monarhije poput grba i zastave, te putnih isprava iz tog perioda. Prezentirane su i uniforme bosanskih regimenata iz Prvog svjetskog rata. BiH je imala četiri regimente i najvažnija je bila Druga bošnjačka regimenta. Izložene su originalne svečane uniforme i pješadijsko oružje vojnika. U izložbenom prostoru postavljene  su lutke koje prikazuju Franca Ferdinanda i Sofiju u prirodnoj veličini.</p>
+<p className="mb-4 text-blueGray-500">
+Posjetitelji mogu vidjeti i tip pištolja kojim je izvršen atentat, kao i fotografije kretanja prijestolonasljednika u automobilu od Vijećnice do mjesta gdje je ubijen. Tu je i fotografija spomenika posvećenog Francu Ferdinandu i Sofiji napravljenog 1917. godine, koji je uklonjen dolaskom Kraljevine SHS. Posebnu priču imaju u kamenu izlivene Gavrilove stope.  Muzej je posljednjih godina osavremenjen modernom tehnologijom, gdje posjetitelji mogu pogledati brojne dokumente u elektronskoj formi.</p>
+<p className="mb-4 text-blueGray-500">
+U jednom dijelu muzeja prikazuju se scene iz igranog filma o Sarajevskom atentatu kako bi se na savremeniji način pokazao čin atentata, a tu je i originalni kratki snimak ulaska Franca i Sofije u Vijećnicu. </p>
+<p className="mb-4 text-blueGray-500">
+Preporučujemo da svakako posjetite muzejsku postavku <i><b>Sarajevo 1878-1918!</b></i></p>
+<p className="mb-4 text-blueGray-500">
+<i><b>Projekat Muzeji Sarajeva, Indira Zeković, prof.</b></i></p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>   
+                  <video src={muza} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/> 
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">

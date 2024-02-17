@@ -8,10 +8,6 @@ import 'aos/dist/aos.css';
 import UpisNavbar from "components/Navbars/UpisNavbar";
 import Footer from "components/Footers/Footer.js";
 import biblioteka from './images/biblioteka.webp';
-import historija1 from './images/historija1.webp';
-import historija2 from './images/historija2.webp';
-import historija3 from './images/historija3.webp';
-import historija4 from './images/historija4.webp';
 
 import { Carousel } from 'react-responsive-carousel';
 import erasmus0 from './images/erasmus0.jpg';
@@ -379,49 +375,6 @@ Sigurni smo da će i učenice/učenici škola učesnica, pored projektnih aktivn
           </div>
         </div>
 
-        <div data-aos="fade-up" className="container mx-auto overflow-hidden pb-20">
-          <div className="flex flex-wrap items-center pt-32">
-            <div className="w-full md:w-7/12 px-4 mr-auto ml-auto mt-32">
-              <div className="justify-center flex flex-wrap relative">
-                <div className="my-4 w-full lg:w-6/12 px-4">
-                      <img
-                        alt="..."
-                        src={historija1}
-                        width={"500"}
-                        height={"300"}
-                        className="max-w-full rounded-lg shadow-lg"
-                      />
-                  <br></br>
-                  <img
-                        alt="..."
-                        src={historija2}
-                        width={"500"}
-                        height={"300"}
-                        className="max-w-full rounded-lg shadow-lg"
-                      />
-                </div>
-                <div className="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
-                <img
-                        alt="..."
-                        src={historija3}
-                        width={"500"}
-                        height={"300"}
-                        className="max-w-full rounded-lg shadow-lg"
-                      />
-                  <br></br>
-                  <img
-                        alt="..."
-                        src={historija4}
-                        width={"500"}
-                        height={"300"}
-                        className="max-w-full rounded-lg shadow-lg"
-                      />
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
 
 
        
