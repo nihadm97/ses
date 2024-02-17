@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.33fc1b21.css",
-    "main.js": "/static/js/main.ce60788c.js",
+    "main.css": "/static/css/main.0b2b8272.css",
+    "main.js": "/static/js/main.3b82ad29.js",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/videoplesadd.mp4": "/static/media/videoplesadd.823cc3750495f0dbc98a.mp4",
-    "static/media/sajam.gif": "/static/media/sajam.be2722031087a6199fa7.gif",
     "static/media/video.mp4": "/static/media/video.fb8e17f79670656eb550.mp4",
     "static/media/VideoP.webp": "/static/media/VideoP.189c8000610b021a4a07.webp",
+    "static/media/sajam.gif": "/static/media/sajam.8238d5fe85b322c66778.gif",
     "static/media/VideoN1.webp": "/static/media/VideoN1.2a31a1110efe3086d9dd.webp",
     "static/media/video2.mp4": "/static/media/video2.52607ac37f98a4ca6ab6.mp4",
     "static/media/VideoN2.webp": "/static/media/VideoN2.bdc259207c0290a545c1.webp",
@@ -148,6 +148,7 @@
     "static/media/nasilje2.jpg": "/static/media/nasilje2.815c52e03232c3b66558.jpg",
     "static/media/nasilje3.jpg": "/static/media/nasilje3.abe1df31ae7e56aeb8ba.jpg",
     "static/media/ha3.jpg": "/static/media/ha3.cf6bc1273ab1c0d2446b.jpg",
+    "static/media/alija1.jpg": "/static/media/alija1.5b692203cfee0a9d4bcd.jpg",
     "static/media/muzej3.jpg": "/static/media/muzej3.1974bab82f62efefdbd3.jpg",
     "static/media/streliste1.jpg": "/static/media/streliste1.b7d9d1d446608c7865f5.jpg",
     "static/media/zec9.jpg": "/static/media/zec9.81b5c9ef79dfae870e1d.jpg",
@@ -161,6 +162,7 @@
     "static/media/nasilje6.jpg": "/static/media/nasilje6.e2243ef08717f10898b0.jpg",
     "static/media/glob6.jpg": "/static/media/glob6.24d3aa1c8742b450dc7f.jpg",
     "static/media/noc11.jpg": "/static/media/noc11.ef721352c7ad6248e1a3.jpg",
+    "static/media/alija2.jpg": "/static/media/alija2.fb8d1d74f24a4c7eb497.jpg",
     "static/media/opasno3.jpg": "/static/media/opasno3.a646cb93b86095a7ab28.jpg",
     "static/media/jabuka1.jpg": "/static/media/jabuka1.9f9d42ff7f9bc7efdf15.jpg",
     "static/media/jabuka3.jpg": "/static/media/jabuka3.e029d07e211c849e3208.jpg",
@@ -192,11 +194,13 @@
     "static/media/erasmus5.jpg": "/static/media/erasmus5.76de0249df1eb376f19b.jpg",
     "static/media/yunus6.jpg": "/static/media/yunus6.37222c802601eac63848.jpg",
     "static/media/noc12.jpg": "/static/media/noc12.661bab0b132941ad818c.jpg",
+    "static/media/kino3.jpg": "/static/media/kino3.d4f9f0c02d1afcba93c0.jpg",
     "static/media/haa1.jpg": "/static/media/haa1.caecf75bd0595164e8a1.jpg",
     "static/media/noc17.jpg": "/static/media/noc17.7bfd190f1b3b657149cd.jpg",
     "static/media/erasmus6.jpg": "/static/media/erasmus6.6b364985546b4280cf75.jpg",
     "static/media/glob4.jpg": "/static/media/glob4.43170cd92565f47777a9.jpg",
     "static/media/erasmu4.jpg": "/static/media/erasmu4.7b265ea9c1ffb0ecded7.jpg",
+    "static/media/alija3.jpg": "/static/media/alija3.8909a20587c2c9550098.jpg",
     "static/media/noc1.jpg": "/static/media/noc1.08986c19c6ec55d2dde2.jpg",
     "static/media/dandrzavnosti2.jpg": "/static/media/dandrzavnosti2.f3c8560d5b39f70679b4.jpg",
     "static/media/muza1.jpg": "/static/media/muza1.4ae82eccf4d80255fba9.jpg",
@@ -245,6 +249,7 @@
     "static/media/goradzde20.jpg": "/static/media/goradzde20.e57d78daa23645524671.jpg",
     "static/media/goradzde14.jpg": "/static/media/goradzde14.a19852de2c799a566456.jpg",
     "static/media/noc6.jpg": "/static/media/noc6.22bd67ff13a2282198c7.jpg",
+    "static/media/kino2.jpg": "/static/media/kino2.6680c5052b6da698c63c.jpg",
     "static/media/zec4.jpg": "/static/media/zec4.b36222d1b8e8c49eb52f.jpg",
     "static/media/carina3.jpg": "/static/media/carina3.f1600f93999543d2b4c7.jpg",
     "static/media/faris3.jpg": "/static/media/faris3.c6691149911af080e94a.jpg",
@@ -258,6 +263,7 @@
     "static/media/asa1.jpg": "/static/media/asa1.70e344840d5e938e5165.jpg",
     "static/media/faris1.jpg": "/static/media/faris1.2b2fec6e3f86e07f69b1.jpg",
     "static/media/burch7.jpg": "/static/media/burch7.c669bd7c4ef02ecc0f8b.jpg",
+    "static/media/kino1.jpg": "/static/media/kino1.e988c2fae41cf667159c.jpg",
     "static/media/muza3.jpg": "/static/media/muza3.283c1564f3106b1ae805.jpg",
     "static/media/goradzde2.jpg": "/static/media/goradzde2.53f5a817c92c43062a0d.jpg",
     "static/media/goradzde15.jpg": "/static/media/goradzde15.b584c0ad83b743276761.jpg",
@@ -342,11 +348,11 @@
     "static/media/etwi2.webp": "/static/media/etwi2.23a5a5fd6499c6cad4f2.webp",
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
-    "main.33fc1b21.css.map": "/static/css/main.33fc1b21.css.map",
-    "main.ce60788c.js.map": "/static/js/main.ce60788c.js.map"
+    "main.0b2b8272.css.map": "/static/css/main.0b2b8272.css.map",
+    "main.3b82ad29.js.map": "/static/js/main.3b82ad29.js.map"
   },
   "entrypoints": [
-    "static/css/main.33fc1b21.css",
-    "static/js/main.ce60788c.js"
+    "static/css/main.0b2b8272.css",
+    "static/js/main.3b82ad29.js"
   ]
 }
