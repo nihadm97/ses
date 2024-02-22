@@ -89,7 +89,7 @@ export default function Navbar(props) {
                   <li className="nav-item">
                     <a
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                      href="https://drive.google.com/file/d/1HK6M-ugClCdvYWSRIW2ea8s2izf1qhED/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1etxeRzWCHREmPxt4-jZXvJwPDd0bhiOA/view?usp=sharing"
                       target="_blank"
                       rel="noreferrer"
                     >

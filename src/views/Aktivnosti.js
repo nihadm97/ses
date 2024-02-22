@@ -335,6 +335,24 @@ import kino1 from './images/kino1.jpg';
 import kino2 from './images/kino2.jpg';
 import kino3 from './images/kino3.jpg';
 
+import alma1 from './images/alma1.jpg';
+import alma2 from './images/alma2.jpg';
+import alma3 from './images/alma3.jpg';
+import alma4 from './images/alma4.jpg';
+import alma5 from './images/alma5.jpg';
+
+import olimpijada from './images/40g.mp4';
+
+import banka1 from './images/banka1.jpg';
+import banka2 from './images/banka2.jpg';
+import banka3 from './images/banka3.jpg';
+import banka4 from './images/banka4.jpg';
+import banka5 from './images/banka5.jpg';
+
+import dzekii1 from './images/dzekii1.jpg';
+import dzekii2 from './images/dzekii2.jpg';
+import dzekii3 from './images/dzekii3.jpg';
+
 const Projekti = () => {
   useEffect(() => {
     AOS.init({duration: 2000});
@@ -354,6 +372,224 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">BILI  SMO U SARAJEVSKOM RATNOM TEATRU - SARTR</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={dzekii1} alt="" />
+                    </div>
+                    <div>
+                        <img src={dzekii2} alt="" />
+                    </div>
+                    <div>
+                        <img src={dzekii3} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+<p className="mb-4 text-blueGray-500">
+Učenice i učenici četvrtih razreda su završetak prvog polugodišta obilježili odlaskom u pozorište SARTR, Sarajevski ratni teatar. Za većinu je ovo pozorište bilo nepoznanica, kao i njihov način rada te umjetnički repertoar. Gledali smo avangardnu predstavu "Totovi" autora Ištvana Erkenja, u režiji Andraša Urbana. Predstava donosi mađarsku komediju sa grotesknim i satiričnim elementima, dosta humora i odličnu glumu sarajevskih glumaca.</p>
+<p className="mb-4 text-blueGray-500">
+Kako je ovo godina u kojoj u postmodernoj  književnosti govorimo o apsurdu i savremenoj umjetnosti bilo je ovo jedno zanimljivo i poučno iskustvo. Tekst je aktuelan i u današnjem vremenu koje pred nas postavlja razne izazove. U organizaciji i pratnji bile su profesorice Dženana Tanović-Hamzić, Azemina Hujdur i Lejla Hujdur.</p>
+
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Finansijska edukacija u Agenciji za bankarstvo Federacije BiH (FBA)</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={banka1} alt="" />
+                    </div>
+                    <div>
+                        <img src={banka2} alt="" />
+                    </div>
+                    <div>
+                        <img src={banka3} alt="" />
+                    </div>
+                    <div>
+                        <img src={banka4} alt="" />
+                    </div>
+                    <div>
+                        <img src={banka5} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+<p className="mb-4 text-blueGray-500">
+Učenici/ce IV4 i IV3 razreda prisustvovali/e su stručnom predavanju u Agenciji za bankarstvo, u srijedu, 14.februara 2024. godine.  FBA je osnovana krajem1996. godine, kao  samostalna, nezavisna i neprofitna institucija <b>za nadzor i licenciranje banaka</b>. Od osnivanja FBA je dala puni <b>doprinos reformi bankarskog sistema</b>.  Ključna uloga FBA je  <b>održavanje i očuvanje stabilnosti bankarskog sistema</b>. Admil Nukić, pomoćnik direktora za superviziju banaka nas je upoznao sa brojnim aspektima djelovanja ove institucije. </p>
+<p className="mb-4 text-blueGray-500">
+Fokus djelovanja FBA je  stvaranje jakog i stabilnog bankarskog, mikrokreditnog i lizing sistema, tržišno orijentisanog i oslonjenog na međunarodne standarde poslovanja i supervizije (nadzora) banaka, mikrokreditnih organizacija i lizing društava. Sljedeći dio predavanja odnosio se na organizacione aspekte ove institucije.</p>
+<p className="mb-4 text-blueGray-500">
+U daljem toku sesije prezentirani su nam zadaci FBA definirani Zakonom o Agenciji za bankarstvo. FBA izdaje dozvole za osnivanje i rad banaka, nadzire poslovanje banaka, ukida dozvole za rad banaka, donosi podzakonske akte kojima se reguliše rad banaka, pokreće, upravlja  i nadzire postupke privremene uprave, likvidacije, stečaja, saniranja banaka, tijesno sarađuje sa Centralnom bankom, ...</p>
+<p className="mb-4 text-blueGray-500">
+Banke,  mikrokreditne organizacije i lizing društva obavezni su omogućiti Agenciji pristup cjelokupnoj dokumentaciji radi obavljanja poslova iz nadležnosti FBA.Izvještaj o radu i poslovanju FBA podnosi Parlamentu Federacije BiH putem Vlade Federacije BiH. Agencija za bankarstvo FBiH  je dio evropske mreže regulatora i supervizora, u punom kapacitetu. </p>
+<p className="mb-4 text-blueGray-500">
+Zahvaljujući stalnom jačanju supervizorskih kapaciteta, FBA može dati podršku drugim regulatornim supervizorskim tijelima u regionu i šire. U prilici su da umjesto traženja podrške i pomoći, FBA daje podršku drugim supervizorima i regulatorima u specifičnim oblastima regulative i supervizije. </p>
+<p className="mb-4 text-blueGray-500">
+Učenike/ce je posebno zanimao širok spektar profesionalnih supervizorskih  iskustava koja su nastala u periodu od proteklih tri godine, od nastavka covid-krize do iznimno efikasnog  prilagođavanja prilikama makroekonomskih poremećaja u prošloj godini. Restrukturiranjem podružnica Sberbanke zaštićeni su interesi Federacije BiH i svih klijenata u bankarskom sistemu Federacije BiH i otklonjeni svi rizici i prijetnje po finansijski sistem.</p>
+<p className="mb-4 text-blueGray-500">
+Zahvaljujemo se uposlenicima FBA za izniman doprinos unapređenju finansijskih kompetencija naših učenika.</p>
+<p className="mb-4 text-blueGray-500">
+Projekat UPOZNAJ PRIVREDU KANTONA SARAJEVO, Indira Zeković, prof.</p>
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Obilježavanje  četrdesetogodišnjice  XIV  ZOI u Sarajevu 1984. godine</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <video src={olimpijada} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+<p className="mb-4 text-blueGray-500">
+XIV  Zimske olimpijske igre u Sarajevu, održane su od 8. do 19. februara 1984. godine . Bio je ovo vhunski sportski događaj u nekadašnjoj Jugoslaviji. MOK na zasjedanju u Atini, 18. maja 1978. godine,  donosi konačnu odluku o izboru Sarajeva kao domaćina XIV Zimskih olimpijskih igara. Grad je postao ogromno gradilište, nicali su prekrasni objekti: Zetra, staza za bob i sankanje, skakaonice, dvorane, „bijele pruge“, žičare, hoteli, Olimpijsko selo i novinarsko naselje sa 2.640 stanova, saobraćajnice u pravcu planina i 28 zimsko-sportskih centara, koji su potvrdili da je Olimpijada, uz sve humanističke i sportske domete, za BiH  bila i iznimno veliki razvojni iskorak. Svi sportski objekti završeni su i opremljeni do jeseni 1982.</p>
+<p className="mb-4 text-blueGray-500">
+Zimske olimpijske igre iz 1984. godine u Sarajevu bile su festival radosti i jedinstva u gradu. Sarajevo je tih dvanaest dana bilo, sasvim u skladu sa olimpizmom, mjesto sportskog nadmetanja, međunarodnih susreta i veselja. Cijeli jedan grad je stajao zajedno, čistio snijeg i radosno, srcem i dušom, dočekivao goste iz cijelog svijeta. Same igre nikada nisu zaboravljene. Ondašnja maskota Vučko ostala je neraskidivo povezana s vizuelnim identitetom grada, a u njemu i dan danas postoji Olimpijska ulica.  Možda je najsnažniju ocjenu Zimskih olimpijskih igara  iz 1984. godine  izrekao Samaranov nasljednik na čelu MOK-a,  Žak Roga (Jacques Rogge):</p>
+<p className="mb-4 text-blueGray-500">
+<i>Olimpijske igre u Sarajevu 1984.  bile su igre nadahnuća i, iznad svega, imale su svoje ljudsko lice, ono najviše što ljudski rod može doseći kada djeluje u harmoniji na zajedničkom mirnodopskom rezultatu... Sarajevo će uvijek imati specijalno mjesto u srcu olimpijskog pokreta.</i></p>
+<p className="mb-4 text-blueGray-500">
+Sarajevo je donijelo mir među zemljama i narodima,  dobrobit mladima koji su nosili plamen sportskih i humanih vrijednosti inspirisanih olimpizmom.  U njima je učestvovalo 49 zemalja sa 1437 sportista u 39 disciplina, te 1254 trenera i rukovodilaca. Pratilo ih je 7.825 akreditovanih novinara i tehničkog osoblja iz 760 novinskih redakcija i 67 TV kuća. Evidentirano je 696.000 gledalaca i 10.450 volontera, koji su dali sve što su mogli da Sarajevo izgleda bajkovito i da ZOI. budu do tada najbolje organizovane u historiji zimskih olimpijada.</p>
+<p className="mb-4 text-blueGray-500">
+<b>U četvrtak,  08. februara, profesorice  Alma Živojević i Ankica Zulčić sa učenicima/cama I5 razreda, te marketinškom sekcijom, su priredili/le prigodne video sadržaje Zimske olimpijade iz 1984. godine, te koreografiju uz muziku otvaranja igara i donijeli/le nam atmosferu i radost te nezaboravne sarajevske zime. </b></p>
+<p className="mb-4 text-blueGray-500">
+<b>Zahvaljujemo se profesoricama i učenicima/cama koji su nam oživjeli sjećanja i ponos na ovaj nezaboravan olimpijski podvig našeg grada. Nježna „Pahuljica“ Miroslava Antonića i odvažni „Vučko“ Jože Trobeca, znak i maskota Igara, svjedočiće o tome vijekovima.</b></p>
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Posjeta Olimpijskom muzeju Sarajeva</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                    <div>
+                        <img src={alma1} alt="" />
+                    </div>
+                    <div>
+                        <img src={alma2} alt="" />
+                    </div>
+                    <div>
+                        <img src={alma3} alt="" />
+                    </div>
+                    <div>
+                        <img src={alma4} alt="" />
+                    </div>
+                    <div>
+                        <img src={alma5} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+<p className="mb-4 text-blueGray-500">
+U srijedu, 14. februara 2024. godine,  profesorica Alma Karamujić, zajedno sa I2 razredom, posjetila je Olimpijski Muzej u Sarajevu.</p>
+<p className="mb-4 text-blueGray-500">
+Zgrada muzeja je podignuta na samom rubu padine sa prekrasnim pogledom na grad. Građena je po ugledu na dvorove i palate aristrokratije. Ovaj zamak u malom, fascinantan zbog bogatih ukrasa alpsko-folklornih stilskih elemenata i njemačke gotike, djelo izuzetnog arhitekte Karla Paržika, početkom rata u Sarajevu je granatiran i uništen. Obnova je potrajala do  2020. godine, kad je postao sjedište i Olimpijske akademije BiH,  prema uzoru na nacionalne olimpijske komitete u svijetu koji posjeduju takvu instituciju.</p>
+<p className="mb-4 text-blueGray-500">
+Olimpijski  muzej, kroz sport i umjetnost, promovira duh olimpizma, olimpijske vrijednosti, kreativnost, mladost i ostale pozitivne tekovine XIV Zimskih olimpijskih igara. Kroz segment sporta u Muzeju je osvijetljena priprema, organizacija i realizacija XIV ZOI u Sarajevu, a kroz segment umjetnosti Mapa svjetske grafike  Art and Sport sa djelima umjetnika kao što su Andy Warhol, Henry Moor, Michelangelo Pistoleto, kao i kolekcija savremenih umjetnika BiH, među kojima su djela Mersada Berbera, Boška Kućanskog,  Afana Ramića, Maria Mikulića, Mehmeda Zaimovića, itd. Olimpijski muzej u Sarajevu posjeduje opremu za video projekcije, te su učenicima  prezentirani filmovi sa otvaranja, trajanja i zatvaranja XIV ZOI. U okviru djelatnosti Olimpijskog muzeja prezentiraju se periodično razni programi, izložbe, predavanja i konferencije na temu sporta i umjetnosti. </p>
+<p className="mb-4 text-blueGray-500">
+Bile su ovo inspirativne lekcije našim učenicima iz naše slavne olimpijske prošlosti!</p>
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">

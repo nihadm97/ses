@@ -14,6 +14,7 @@ import Upis from "views/Upis";
 import Kontakt from "views/Kontakt";
 import Uposlenici from "views/Uposlenici";
 import ScrollToTop from "components/scrollToTop";
+import Erasmus from "views/Erasmus";
 
 ReactDOM.render(
   <HashRouter>
@@ -27,6 +28,7 @@ ReactDOM.render(
       <Route path="/upis" exact component={Upis} />
       <Route path="/kontakt" exact component={Kontakt} />
       <Route path="/uposlenici" exact component={Uposlenici} />
+      <Route path="/erasmus" exact component={Erasmus} />
       <Route path='/uredi' component={() => { 
       window.location.href = 'https://console.firebase.google.com/u/1/project/obavijesti-b3310/overview'; 
       return null;
