@@ -114,7 +114,7 @@ export default function Upis(props) {
                 </a>
                 <a
                   className="hover:text-blueGray-500 text-blueGray-700 flex items-center text-xs uppercase font-bold"
-                  href="https://school-education.ec.europa.eu/en/etwinning"
+                  href="https://school-education.ec.europa.eu/en/networking/schools-organisations/srednja-ekonomska-skola-sarajevo"
                   target="_blank"
                   rel="noreferrer"
                   

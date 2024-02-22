@@ -30,7 +30,8 @@ import erasmus6 from './images/erasmus6.jpg';
 import erasmus7 from './images/erasmus7.jpg';
 import erasmus8 from './images/erasmus8.jpg';
 
-
+import mu1 from './images/mu1.jpg';
+import mu2 from './images/mu2.jpg';
 
 const Projekti = () => {
   useEffect(() => {
@@ -51,6 +52,59 @@ const Projekti = () => {
   return (
     <>
     <ProjektiNavbar fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+          <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+    <h6 className="text-xl mb-1 font-semibold uppercase mr-2">Priznanje "eTwinning School Label 2023/24" za Srednju ekonomsku školu, Sarajevo </h6>
+</span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                      
+                  <div>
+                        <img src={mu1} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu2} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Dana 20. februara 2024. godine, Srednja ekonomska škola, Sarajevo je ponosno, po treći put, primila prestižno priznanje "eTwinning School Label 2023/24" koje nam je uručila APOSO,  Državna organizacija za podršku eTwinningu u BiH. 
+</p> 
+<p className="mb-4 text-blueGray-500">
+Oznaka eTwinning škola nije samo simbol, već i pokazatelj pozitivnog uticaja na unapređenje kvalitete rada i reputaciju svake od nagrađenih škola. Ova prestižna oznaka također predstavlja priznanje za izuzetno angažovanje u promovisanju vrijednosti eTwinninga, poticanju međunarodne saradnje te doprinosu razvoju školske zajednice.
+</p> 
+<p className="mb-4 text-blueGray-500">
+eTwinning projekti su ključni za pružanje autentičnih i motivirajućih iskustava, kako za učenike, tako i za nastavnike. Kroz ove projekte, razvijaju se ključne kompetencije neophodne za cjeloživotno učenje i uspješno funkcionisanje u savremenom društvu. Digitalne vještine, interkulturalna osviještenost, saradničke vještine, komunikacijske vještine, kritičko razmišljanje, rješavanje problema i jezičke kompetencije postaju sastavni dio ličnog i akademskog razvoja učenika.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Čestitamo  svim učenicima-eTwinnerima i eTwinning timu profesora Srednje ekonomske škole, Sarajevo na izuzetnom angažmanu i doprinosu razvoju obrazovanja! Njihova predanost unapređenju obrazovnog iskustva ostavlja trajni pečat na lokalnoj i međunarodnoj sceni obrazovanja, te doprinosi prepoznatljivosti naše škole u evropskoj obrazovnoj zajednici.</p>
+
+             
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
           <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
