@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.46ed31a5.css",
-    "main.js": "/static/js/main.52e04db3.js",
+    "main.js": "/static/js/main.cf6a4dcd.js",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
     "static/media/sajam.gif": "/static/media/sajam.efec816b10553e07813c.gif",
     "static/media/videoplesadd.mp4": "/static/media/videoplesadd.823cc3750495f0dbc98a.mp4",
@@ -99,6 +99,7 @@
     "static/media/faris7.jpg": "/static/media/faris7.969f9ee666bd51e8b53a.jpg",
     "static/media/sender1.jpg": "/static/media/sender1.3f8a81f34c7d0f13899b.jpg",
     "static/media/danas2.jpg": "/static/media/danas2.db4a92958c26c2e9e512.jpg",
+    "static/media/danas0.jpg": "/static/media/danas0.49a61b4292de69de5757.jpg",
     "static/media/sajamaaa6.jpg": "/static/media/sajamaaa6.80832eea19f60b03e5de.jpg",
     "static/media/poduzetnici3.jpg": "/static/media/poduzetnici3.e33ac545cca4867177ce.jpg",
     "static/media/izlet2.jpg": "/static/media/izlet2.569c0993137c6f0644a3.jpg",
@@ -374,10 +375,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.46ed31a5.css.map": "/static/css/main.46ed31a5.css.map",
-    "main.52e04db3.js.map": "/static/js/main.52e04db3.js.map"
+    "main.cf6a4dcd.js.map": "/static/js/main.cf6a4dcd.js.map"
   },
   "entrypoints": [
     "static/css/main.46ed31a5.css",
-    "static/js/main.52e04db3.js"
+    "static/js/main.cf6a4dcd.js"
   ]
 }
