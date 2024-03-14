@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7062f0ff.css",
+    "main.css": "/static/css/main.3b6306e8.css",
     "main.js": "/static/js/main.6f8c2d82.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
@@ -28,8 +28,8 @@
     "static/media/azemina5.jpg": "/static/media/azemina5.259ea929d479130d6534.jpg",
     "static/media/posjeta.jpg": "/static/media/posjeta.aa8d427e70842e635630.jpg",
     "static/media/aaa2.jpg": "/static/media/aaa2.77ce097a06ed63dd70cf.jpg",
-    "static/media/sajamm.webp": "/static/media/sajamm.6f8db44b5f429fe1742d.webp",
     "static/media/Opis1.png": "/static/media/Opis1.24e10b208f0e6054ea1c.png",
+    "static/media/sajamm.webp": "/static/media/sajamm.1758075cc6ebd2723496.webp",
     "static/media/aaa3.jpg": "/static/media/aaa3.6a7cdee5374039c31989.jpg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/Opis4.png": "/static/media/Opis4.631c7037d4bf3ebcc7dd.png",
@@ -449,11 +449,11 @@
     "static/media/etwi2.webp": "/static/media/etwi2.23a5a5fd6499c6cad4f2.webp",
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
-    "main.7062f0ff.css.map": "/static/css/main.7062f0ff.css.map",
+    "main.3b6306e8.css.map": "/static/css/main.3b6306e8.css.map",
     "main.6f8c2d82.js.map": "/static/js/main.6f8c2d82.js.map"
   },
   "entrypoints": [
-    "static/css/main.7062f0ff.css",
+    "static/css/main.3b6306e8.css",
     "static/js/main.6f8c2d82.js"
   ]
 }
