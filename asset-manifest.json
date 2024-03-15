@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3b6306e8.css",
-    "main.js": "/static/js/main.6f8c2d82.js",
+    "main.js": "/static/js/main.cabe07d4.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
@@ -44,11 +44,14 @@
     "static/media/stem4.jpg": "/static/media/stem4.d53ede28f0271213986f.jpg",
     "static/media/indira3.jpg": "/static/media/indira3.c6cad76163945864d2a2.jpg",
     "static/media/Opis3.png": "/static/media/Opis3.b8b7060cc7a9402b1e10.png",
+    "static/media/edin1.jpg": "/static/media/edin1.dc1318225650b218d9ab.jpg",
     "static/media/indira2.jpg": "/static/media/indira2.3d705e5f84f43606a201.jpg",
+    "static/media/edin3.jpg": "/static/media/edin3.ae31ea7a1e9a5497de90.jpg",
     "static/media/star2.jpg": "/static/media/star2.f5056d985f103e1ad157.jpg",
     "static/media/izlet3.jpg": "/static/media/izlet3.38e19b0acc5a0fc48a77.jpg",
     "static/media/stem6.jpg": "/static/media/stem6.e82efb2717cdaa9e18e0.jpg",
     "static/media/stem3.jpg": "/static/media/stem3.20d6e39466b06e4f2f92.jpg",
+    "static/media/edin2.jpg": "/static/media/edin2.0799ac881406e55eaacf.jpg",
     "static/media/stem8.jpg": "/static/media/stem8.3ead909140ab66953804.jpg",
     "static/media/sport1.jpg": "/static/media/sport1.e9d30d90e54466ef803a.jpg",
     "static/media/sport4.jpg": "/static/media/sport4.e9d30d90e54466ef803a.jpg",
@@ -450,10 +453,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.3b6306e8.css.map": "/static/css/main.3b6306e8.css.map",
-    "main.6f8c2d82.js.map": "/static/js/main.6f8c2d82.js.map"
+    "main.cabe07d4.js.map": "/static/js/main.cabe07d4.js.map"
   },
   "entrypoints": [
     "static/css/main.3b6306e8.css",
-    "static/js/main.6f8c2d82.js"
+    "static/js/main.cabe07d4.js"
   ]
 }
