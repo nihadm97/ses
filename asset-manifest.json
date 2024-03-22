@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3b6306e8.css",
-    "main.js": "/static/js/main.22348af6.js",
+    "main.js": "/static/js/main.76c88c05.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
@@ -38,6 +38,7 @@
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/star1.jpg": "/static/media/star1.40cd6dfec8c0b1ce96c5.jpg",
     "static/media/star3.jpg": "/static/media/star3.576a444f04d3036d9413.jpg",
+    "static/media/mmp1.jpg": "/static/media/mmp1.6dbbca150f70493c39a8.jpg",
     "static/media/stem2.jpg": "/static/media/stem2.d31e17fd6f96ac17c0a6.jpg",
     "static/media/mu1.jpg": "/static/media/mu1.0b5e26e4f3530c8ddea1.jpg",
     "static/media/stem9.jpg": "/static/media/stem9.d1f13954cdc50df7d62e.jpg",
@@ -135,6 +136,7 @@
     "static/media/sajamaaa6.jpg": "/static/media/sajamaaa6.80832eea19f60b03e5de.jpg",
     "static/media/finansije2.jpg": "/static/media/finansije2.6a1664339e91ede5e655.jpg",
     "static/media/poduzetnici3.jpg": "/static/media/poduzetnici3.e33ac545cca4867177ce.jpg",
+    "static/media/mmp3.jpg": "/static/media/mmp3.8641bee3d5f29169ee04.jpg",
     "static/media/izlet2.jpg": "/static/media/izlet2.569c0993137c6f0644a3.jpg",
     "static/media/noc10.jpg": "/static/media/noc10.36875ed74d9e34a9e3c7.jpg",
     "static/media/finansije5.jpg": "/static/media/finansije5.61e71f37f20a3141e8a4.jpg",
@@ -252,6 +254,7 @@
     "static/media/haa2.jpg": "/static/media/haa2.3257bf57fe8d5a358676.jpg",
     "static/media/gimn2.jpg": "/static/media/gimn2.31f296cb05258529282b.jpg",
     "static/media/svila1.jpg": "/static/media/svila1.58c4e48e7e9c78cb1468.jpg",
+    "static/media/mmp2.jpg": "/static/media/mmp2.5bd057a7181740a2a338.jpg",
     "static/media/finansije4.jpg": "/static/media/finansije4.38706a61792fafda90e1.jpg",
     "static/media/bamba4.jpg": "/static/media/bamba4.96ce458a893318e9b7a8.jpg",
     "static/media/alma3.jpg": "/static/media/alma3.e3cf4f47ef92cb2373db.jpg",
@@ -348,6 +351,7 @@
     "static/media/yunus10.jpg": "/static/media/yunus10.3f3bd90f9f5b556694e9.jpg",
     "static/media/noc14.jpg": "/static/media/noc14.49fe1cc7f5cdb2f4a572.jpg",
     "static/media/gimn5.jpg": "/static/media/gimn5.a75edb2133354533f2c8.jpg",
+    "static/media/mmp4.jpg": "/static/media/mmp4.1e74054e3a6b71ab03b5.jpg",
     "static/media/priredba1.jpg": "/static/media/priredba1.65e7d255dc5d4a445f8a.jpg",
     "static/media/banka1.jpg": "/static/media/banka1.52bf0376d5ad2a25df88.jpg",
     "static/media/upis1.webp": "/static/media/upis1.e8790a22d2517ee35354.webp",
@@ -390,10 +394,12 @@
     "static/media/radi1.jpg": "/static/media/radi1.7aca44ba370e96b03f60.jpg",
     "static/media/knjig2.jpg": "/static/media/knjig2.cfd562302c2b4220b6ff.jpg",
     "static/media/radionica1.jpg": "/static/media/radionica1.1ee8a6878029493187b5.jpg",
+    "static/media/mmp6.jpg": "/static/media/mmp6.5830e8f8cc464edd4c88.jpg",
     "static/media/noc4.jpg": "/static/media/noc4.7151a51e6830ed2fa63f.jpg",
     "static/media/25ti4.jpg": "/static/media/25ti4.c1605a5ca5ff569ddd5a.jpg",
     "static/media/haa3.jpg": "/static/media/haa3.ee4ccfeb1e7deda7642b.jpg",
     "static/media/bamba6.jpg": "/static/media/bamba6.e4126cbc376cf0abd961.jpg",
+    "static/media/mmp5.jpg": "/static/media/mmp5.931ba95b514c22ade4a5.jpg",
     "static/media/25ti3.jpg": "/static/media/25ti3.14479a25313a60a3744b.jpg",
     "static/media/bamba7.jpg": "/static/media/bamba7.358e8fe6b93fecf360c2.jpg",
     "static/media/naida6.jpg": "/static/media/naida6.118b1043b3eae8dd2d97.jpg",
@@ -468,10 +474,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.3b6306e8.css.map": "/static/css/main.3b6306e8.css.map",
-    "main.22348af6.js.map": "/static/js/main.22348af6.js.map"
+    "main.76c88c05.js.map": "/static/js/main.76c88c05.js.map"
   },
   "entrypoints": [
     "static/css/main.3b6306e8.css",
-    "static/js/main.22348af6.js"
+    "static/js/main.76c88c05.js"
   ]
 }
