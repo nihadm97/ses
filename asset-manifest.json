@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3b6306e8.css",
-    "main.js": "/static/js/main.a4522424.js",
+    "main.js": "/static/js/main.714f24c4.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
@@ -37,7 +37,10 @@
     "static/media/Opis2.png": "/static/media/Opis2.07a400108fb2f447bf86.png",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/star1.jpg": "/static/media/star1.40cd6dfec8c0b1ce96c5.jpg",
+    "static/media/grada3.jpg": "/static/media/grada3.a30eaa13cd610f6e0785.jpg",
     "static/media/star3.jpg": "/static/media/star3.576a444f04d3036d9413.jpg",
+    "static/media/grada1.jpg": "/static/media/grada1.ea58da1a3e7241f34424.jpg",
+    "static/media/grada4.jpg": "/static/media/grada4.99e6fbef3535f07b48a7.jpg",
     "static/media/mmp1.jpg": "/static/media/mmp1.6dbbca150f70493c39a8.jpg",
     "static/media/stem2.jpg": "/static/media/stem2.d31e17fd6f96ac17c0a6.jpg",
     "static/media/mu1.jpg": "/static/media/mu1.0b5e26e4f3530c8ddea1.jpg",
@@ -46,6 +49,7 @@
     "static/media/stem4.jpg": "/static/media/stem4.d53ede28f0271213986f.jpg",
     "static/media/indira3.jpg": "/static/media/indira3.c6cad76163945864d2a2.jpg",
     "static/media/Opis3.png": "/static/media/Opis3.b8b7060cc7a9402b1e10.png",
+    "static/media/grada5.jpg": "/static/media/grada5.d2546e0cc3fadf9048bb.jpg",
     "static/media/edin1.jpg": "/static/media/edin1.dc1318225650b218d9ab.jpg",
     "static/media/indira2.jpg": "/static/media/indira2.3d705e5f84f43606a201.jpg",
     "static/media/edin3.jpg": "/static/media/edin3.ae31ea7a1e9a5497de90.jpg",
@@ -101,6 +105,7 @@
     "static/media/medijske1.jpg": "/static/media/medijske1.9b1455750a11ddc93c73.jpg",
     "static/media/muza5.jpg": "/static/media/muza5.aa84f6fc185c26973fcf.jpg",
     "static/media/selo1.jpg": "/static/media/selo1.1249c58a5f2f26388795.jpg",
+    "static/media/almina6.jpg": "/static/media/almina6.e87c3dacd346006b5c23.jpg",
     "static/media/poduzetnici2.jpg": "/static/media/poduzetnici2.03c104abcc93a3da2aa1.jpg",
     "static/media/sajamaaa3.jpg": "/static/media/sajamaaa3.e4152a7c11d353b9e5e5.jpg",
     "static/media/izlet7.jpg": "/static/media/izlet7.2ff7edad702b488b735b.jpg",
@@ -137,11 +142,13 @@
     "static/media/danas0.jpg": "/static/media/danas0.49a61b4292de69de5757.jpg",
     "static/media/beograd.jpg": "/static/media/beograd.54ad07f735308d4ab3cb.jpg",
     "static/media/sajamaaa6.jpg": "/static/media/sajamaaa6.80832eea19f60b03e5de.jpg",
+    "static/media/almina7.jpg": "/static/media/almina7.17cb846b699e22383615.jpg",
     "static/media/finansije2.jpg": "/static/media/finansije2.6a1664339e91ede5e655.jpg",
     "static/media/poduzetnici3.jpg": "/static/media/poduzetnici3.e33ac545cca4867177ce.jpg",
     "static/media/mmp3.jpg": "/static/media/mmp3.8641bee3d5f29169ee04.jpg",
     "static/media/izlet2.jpg": "/static/media/izlet2.569c0993137c6f0644a3.jpg",
     "static/media/noc10.jpg": "/static/media/noc10.36875ed74d9e34a9e3c7.jpg",
+    "static/media/almina5.jpg": "/static/media/almina5.3df4daf829d8acc1a6f1.jpg",
     "static/media/finansije5.jpg": "/static/media/finansije5.61e71f37f20a3141e8a4.jpg",
     "static/media/vladimir1.jpg": "/static/media/vladimir1.bcdd20e3ffffbc01c240.jpg",
     "static/media/aids1.jpg": "/static/media/aids1.fbd63ef1a144f18b5bbc.jpg",
@@ -202,6 +209,7 @@
     "static/media/poduzetnici6.jpg": "/static/media/poduzetnici6.51e50a2a4ed886ccd0ad.jpg",
     "static/media/bamba8.jpg": "/static/media/bamba8.b30a4a93b4fe00879207.jpg",
     "static/media/naida2.jpg": "/static/media/naida2.99845c0774e214bcb7a9.jpg",
+    "static/media/almina3.jpg": "/static/media/almina3.d9880d1c5d9a1de50837.jpg",
     "static/media/jabuka5.jpg": "/static/media/jabuka5.69488ea8a8bc0b1de791.jpg",
     "static/media/erasmu2.jpg": "/static/media/erasmu2.b351941637192080055e.jpg",
     "static/media/nasilje2.jpg": "/static/media/nasilje2.815c52e03232c3b66558.jpg",
@@ -210,6 +218,7 @@
     "static/media/nasilje3.jpg": "/static/media/nasilje3.abe1df31ae7e56aeb8ba.jpg",
     "static/media/ha3.jpg": "/static/media/ha3.cf6bc1273ab1c0d2446b.jpg",
     "static/media/banka2.jpg": "/static/media/banka2.9776aedd60a9cd19a221.jpg",
+    "static/media/almina1.jpg": "/static/media/almina1.976bdac9df397ed0cfb0.jpg",
     "static/media/alija1.jpg": "/static/media/alija1.5b692203cfee0a9d4bcd.jpg",
     "static/media/muzej3.jpg": "/static/media/muzej3.1974bab82f62efefdbd3.jpg",
     "static/media/streliste1.jpg": "/static/media/streliste1.b7d9d1d446608c7865f5.jpg",
@@ -239,6 +248,7 @@
     "static/media/priredba2.jpg": "/static/media/priredba2.e9d98ae81ba8cedf1cec.jpg",
     "static/media/asa3.jpg": "/static/media/asa3.4dc2bfa18668051025e1.jpg",
     "static/media/sender5.jpg": "/static/media/sender5.ce8bb57840680e4439d1.jpg",
+    "static/media/almina2.jpg": "/static/media/almina2.7883956daf8c47e885af.jpg",
     "static/media/vladimir2.jpg": "/static/media/vladimir2.8ef31bc78979b6272cf4.jpg",
     "static/media/marina2.jpg": "/static/media/marina2.25c9332d423f7ade49b6.jpg",
     "static/media/argeta2.jpg": "/static/media/argeta2.4f0e1de00d4dfa9cd390.jpg",
@@ -252,6 +262,7 @@
     "static/media/finansije1.jpg": "/static/media/finansije1.2270eb3a0aa2d16810ee.jpg",
     "static/media/gimn3.jpg": "/static/media/gimn3.bd9cf7b996169cdb3a60.jpg",
     "static/media/centralna2.jpg": "/static/media/centralna2.993d7f2b7c7ba048ab5c.jpg",
+    "static/media/grada2.jpg": "/static/media/grada2.6d3b7d8fdd90d458835a.jpg",
     "static/media/naida5.jpg": "/static/media/naida5.4fef51f762eb00b4adec.jpg",
     "static/media/ples2.jpg": "/static/media/ples2.50f8a3277c9339f5e6cb.jpg",
     "static/media/februar8.jpg": "/static/media/februar8.90dac8238027e7eee0cf.jpg",
@@ -283,6 +294,7 @@
     "static/media/erasmus6.jpg": "/static/media/erasmus6.6b364985546b4280cf75.jpg",
     "static/media/radi2.jpg": "/static/media/radi2.f689ab6fa4d851b07ce2.jpg",
     "static/media/radi5.jpg": "/static/media/radi5.f689ab6fa4d851b07ce2.jpg",
+    "static/media/almina4.jpg": "/static/media/almina4.170f2f6ee36c43ce5373.jpg",
     "static/media/cika2.jpg": "/static/media/cika2.50ccdfb8a3768a26c94a.jpg",
     "static/media/glob4.jpg": "/static/media/glob4.43170cd92565f47777a9.jpg",
     "static/media/erasmu4.jpg": "/static/media/erasmu4.7b265ea9c1ffb0ecded7.jpg",
@@ -483,10 +495,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.3b6306e8.css.map": "/static/css/main.3b6306e8.css.map",
-    "main.a4522424.js.map": "/static/js/main.a4522424.js.map"
+    "main.714f24c4.js.map": "/static/js/main.714f24c4.js.map"
   },
   "entrypoints": [
     "static/css/main.3b6306e8.css",
-    "static/js/main.a4522424.js"
+    "static/js/main.714f24c4.js"
   ]
 }
