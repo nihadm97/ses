@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3b6306e8.css",
-    "main.js": "/static/js/main.714f24c4.js",
+    "main.js": "/static/js/main.d7e703ce.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
@@ -422,6 +422,7 @@
     "static/media/25ti3.jpg": "/static/media/25ti3.14479a25313a60a3744b.jpg",
     "static/media/bamba7.jpg": "/static/media/bamba7.358e8fe6b93fecf360c2.jpg",
     "static/media/naida6.jpg": "/static/media/naida6.118b1043b3eae8dd2d97.jpg",
+    "static/media/hb.jpg": "/static/media/hb.68f7f8a91dfbd3dd31dd.jpg",
     "static/media/pazar2.jpg": "/static/media/pazar2.6a9afb770600d03e2aa8.jpg",
     "static/media/celjo6.jpg": "/static/media/celjo6.19a798af6a1e83b904bb.jpg",
     "static/media/25ti2.jpg": "/static/media/25ti2.283448ce6b89c677e0a8.jpg",
@@ -495,10 +496,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.3b6306e8.css.map": "/static/css/main.3b6306e8.css.map",
-    "main.714f24c4.js.map": "/static/js/main.714f24c4.js.map"
+    "main.d7e703ce.js.map": "/static/js/main.d7e703ce.js.map"
   },
   "entrypoints": [
     "static/css/main.3b6306e8.css",
-    "static/js/main.714f24c4.js"
+    "static/js/main.d7e703ce.js"
   ]
 }
