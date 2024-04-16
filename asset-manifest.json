@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3b6306e8.css",
-    "main.js": "/static/js/main.d7e703ce.js",
+    "main.js": "/static/js/main.fe327170.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
@@ -60,6 +60,7 @@
     "static/media/stem6.jpg": "/static/media/stem6.e82efb2717cdaa9e18e0.jpg",
     "static/media/stem3.jpg": "/static/media/stem3.20d6e39466b06e4f2f92.jpg",
     "static/media/radi6.jpg": "/static/media/radi6.cc1f2ff52c53a49c50b0.jpg",
+    "static/media/Opisi.png": "/static/media/Opisi.aa3057bf6dd7bac37bcd.png",
     "static/media/edin2.jpg": "/static/media/edin2.0799ac881406e55eaacf.jpg",
     "static/media/radi8.jpg": "/static/media/radi8.19cab30159dd0daf47a0.jpg",
     "static/media/radi7.jpg": "/static/media/radi7.4ef4976572dff4330c02.jpg",
@@ -71,6 +72,7 @@
     "static/media/stem5.jpg": "/static/media/stem5.e6ef4401c339c1b9b332.jpg",
     "static/media/brošura.webp": "/static/media/brošura.fdf1e52f0ad92b37ffa3.webp",
     "static/media/dipanaida2.jpg": "/static/media/dipanaida2.06bff2ac464a8f2aff25.jpg",
+    "static/media/Vodic.png": "/static/media/Vodic.d088d7bea8c7c439025e.png",
     "static/media/goradzde7.jpg": "/static/media/goradzde7.1dbec6b8354b7dcb0527.jpg",
     "static/media/muza7.jpg": "/static/media/muza7.8e80dc529d5274ca8955.jpg",
     "static/media/selo7.jpg": "/static/media/selo7.95883e5439c2d47375eb.jpg",
@@ -496,10 +498,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.3b6306e8.css.map": "/static/css/main.3b6306e8.css.map",
-    "main.d7e703ce.js.map": "/static/js/main.d7e703ce.js.map"
+    "main.fe327170.js.map": "/static/js/main.fe327170.js.map"
   },
   "entrypoints": [
     "static/css/main.3b6306e8.css",
-    "static/js/main.d7e703ce.js"
+    "static/js/main.fe327170.js"
   ]
 }
