@@ -3057,11 +3057,11 @@ select {
 }
 @media screen and (min-width: 640px) {
   #pocetna {
-    background-image: url(sajam.gif);
+    background-image: url(sajamv.gif);
   }
 }
 @media screen and (max-width: 640px) {
   #pocetna {
-    background-image: url(VideoP.webp);
+    background-image: url(sajamm.webp);
   }
 }

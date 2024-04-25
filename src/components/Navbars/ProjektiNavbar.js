@@ -60,7 +60,7 @@ export default function Menu() {
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
                       to="/erasmus"
                     >
-                      ERASMUS
+                      OPEN FUTURE - ERASMUS +
                     </Link>
                   </li>
                   <li className="nav-item">
