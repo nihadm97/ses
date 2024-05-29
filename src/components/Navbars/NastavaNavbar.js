@@ -2,7 +2,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 // components
-import logo from './logo.webp';
+import logo from './logo.png';
 import etwi1 from './etwi1.webp';
 import erasmus from './erasmus.png';
 

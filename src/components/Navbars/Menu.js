@@ -1,5 +1,5 @@
 import React from "react";
-import logo from './logo.webp';
+import logo from './logo.png';
 import { Link } from "react-router-dom";
 import etwi1 from './etwi1.webp';
 import erasmus from './erasmus.png';
