@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3b6306e8.css",
-    "main.js": "/static/js/main.86d76cd9.js",
+    "main.js": "/static/js/main.9d5d06b9.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/videojabuka1.mp4": "/static/media/videojabuka1.accb69d1c191444fad18.mp4",
@@ -70,6 +70,7 @@
     "static/media/stem4.jpg": "/static/media/stem4.d53ede28f0271213986f.jpg",
     "static/media/indira3.jpg": "/static/media/indira3.c6cad76163945864d2a2.jpg",
     "static/media/Opis3.png": "/static/media/Opis3.b8b7060cc7a9402b1e10.png",
+    "static/media/harun.jpg": "/static/media/harun.0ef59635a0cbbb9b7d68.jpg",
     "static/media/satler4.jpg": "/static/media/satler4.c04a8556035677e10135.jpg",
     "static/media/grada5.jpg": "/static/media/grada5.d2546e0cc3fadf9048bb.jpg",
     "static/media/edin1.jpg": "/static/media/edin1.dc1318225650b218d9ab.jpg",
@@ -101,6 +102,7 @@
     "static/media/aaa1.jpg": "/static/media/aaa1.a0a563e413408e11b9c6.jpg",
     "static/media/satler7.jpg": "/static/media/satler7.ca242ee0547cb48aaf48.jpg",
     "static/media/svi.jpg": "/static/media/svi.be9788ca7c302c7e0fd6.jpg",
+    "static/media/ankica i tim.png": "/static/media/ankica i tim.1793d19a7e27ff46ae3a.png",
     "static/media/stem5.jpg": "/static/media/stem5.e6ef4401c339c1b9b332.jpg",
     "static/media/brošura.webp": "/static/media/brošura.fdf1e52f0ad92b37ffa3.webp",
     "static/media/satler5.jpg": "/static/media/satler5.602a38203299c0be8e7d.jpg",
@@ -108,6 +110,7 @@
     "static/media/Vodic.png": "/static/media/Vodic.d088d7bea8c7c439025e.png",
     "static/media/intervju.jpg": "/static/media/intervju.95b4b7a3dfa3c7403245.jpg",
     "static/media/iii6 graf.jpg": "/static/media/iii6 graf.2c093c6a45fa1d93e494.jpg",
+    "static/media/harun i senida.jpg": "/static/media/harun i senida.1589a962ab11e1a83577.jpg",
     "static/media/amira.jpg": "/static/media/amira.a726bed101544c8845d3.jpg",
     "static/media/gosti.jpg": "/static/media/gosti.19aca6ab7dba4d8df903.jpg",
     "static/media/lejla.jpg": "/static/media/lejla.4a92206acdb81c41074d.jpg",
@@ -590,6 +593,7 @@
     "static/media/hiv.jpg": "/static/media/hiv.a161d3ce659f470e2640.jpg",
     "static/media/februar2.jpg": "/static/media/februar2.bde77a88e6e75fd87f9b.jpg",
     "static/media/gimn4.jpg": "/static/media/gimn4.f974650305e00f62dced.jpg",
+    "static/media/diploma odbojka.jpg": "/static/media/diploma odbojka.0604102523a3b6101a21.jpg",
     "static/media/carina1.jpg": "/static/media/carina1.f127dd327b43c9246e14.jpg",
     "static/media/tehn5.jpg": "/static/media/tehn5.af8e230d76c330d06190.jpg",
     "static/media/svila2.jpg": "/static/media/svila2.71e32f23ad38edded307.jpg",
@@ -601,6 +605,7 @@
     "static/media/pazar1.jpg": "/static/media/pazar1.5f98673728ba4fc2f78b.jpg",
     "static/media/carina2.jpg": "/static/media/carina2.dd7d291a95b493a40257.jpg",
     "static/media/tehn2.jpg": "/static/media/tehn2.99842f9d394fa5453de1.jpg",
+    "static/media/vjećnica.jpeg": "/static/media/vjećnica.3e845a4b4be3640d9d45.jpeg",
     "static/media/erasmus.png": "/static/media/erasmus.eb7a9d6b7c427fad716f.png",
     "static/media/februar3.jpg": "/static/media/februar3.4abc1c1280673da54ada.jpg",
     "static/media/dzeki1.jpg": "/static/media/dzeki1.d0c5cd8cd144a1514880.jpg",
@@ -660,10 +665,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.3b6306e8.css.map": "/static/css/main.3b6306e8.css.map",
-    "main.86d76cd9.js.map": "/static/js/main.86d76cd9.js.map"
+    "main.9d5d06b9.js.map": "/static/js/main.9d5d06b9.js.map"
   },
   "entrypoints": [
     "static/css/main.3b6306e8.css",
-    "static/js/main.86d76cd9.js"
+    "static/js/main.9d5d06b9.js"
   ]
 }
