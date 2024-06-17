@@ -654,6 +654,66 @@ import nab4 from './images/nab4.jpg';
 import nab5 from './images/nab5.jpg';
 import nab6 from './images/nab6.jpg';
 
+import atl1 from './images/atl1.jpg';
+import atl2 from './images/atl2.jpg';
+import atl3 from './images/atl3.jpg';
+import atl4 from './images/atl4.jpg';
+import atl5 from './images/atl5.jpg';
+import atl6 from './images/atl6.jpg';
+import atl7 from './images/atl7.jpg';
+import atl8 from './images/atl8.jpg';
+
+import kik1 from './images/kik1.webp';
+import kik2 from './images/kik2.jpg';
+import kik3 from './images/kik3.webp';
+import kik5 from './images/kik5.webp';
+
+import mu1k from './images/mu1k.jpg';
+import mu2k from './images/mu2k.jpg';
+import mu3k from './images/mu3k.jpeg';
+import mu4k from './images/mu4k.jpg';
+import mu5k from './images/mu5k.jpg';
+import mu6k from './images/mu6k.jpg';
+import mu7k from './images/mu7k.jpg';
+import mu8k from './images/mu8k.jpeg';
+import mu9k from './images/mu9k.jpeg';
+import mu10k from './images/mu10k.jpeg';
+import mu11k from './images/mu11k.jpg';
+
+import celjo1o from './images/3 prof.jpg';
+import celjo2o from './images/svi.jpg';
+import celjo3o from './images/kolektivna svi.jpg';
+import celjo4o from './images/intervju.jpg';
+import celjo5o from './images/iii6 graf.jpg';
+import celjo6o from './images/igrokaz.jpg';
+import celjo7o from './images/gosti.jpg';
+import celjo8o from './images/amira.jpg';
+import celjo9o from './images/učenici self.jpg';
+
+import zadnje1 from './images/ankica i tim.png';
+import zadnje2 from './images/diploma odbojka.jpg';
+import zadnje3 from './images/harun i senida.jpg';
+import zadnje4 from './images/harun.jpg';
+import zadnje5 from './images/vjećnica.jpeg';
+
+import nadir1 from './images/viber_image_2024-06-12_10-30-42-139.jpg';
+import nadir2 from './images/viber_image_2024-06-12_10-30-20-885.jpg';
+import nadir3 from './images/zadnjee1.JPG';
+import nadir4 from './images/zadnjee2.JPG';
+import nadir5 from './images/zadnjee3.jpg';
+import nadir6 from './images/zadnjee4.jpg';
+
+import robotika1 from './images/DSC0334.JPG';
+import robotika2 from './images/DSC0333.JPG';
+import robotika3 from './images/DSC0314.JPG';
+import robotika4 from './images/DSC0320.JPG';
+import robotika5 from './images/DSC0321.JPG';
+import robotika6 from './images/DSC0332.JPG';
+import robotika7 from './images/DSC0336.JPG';
+import robotika8 from './images/DSC0342.JPG';
+import robotika9 from './images/DSC0343.JPG';
+import robotika10 from './images/DSC0328.JPG';
+
 const Projekti = () => {
   useEffect(() => {
     AOS.init({duration: 2000});
@@ -673,7 +733,664 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
-    
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">OKONČANE AKTIVNOSTI SEKCIJE ROBOTIKE ZA OVU GODINU
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={robotika1} alt="" />
+                    </div>
+                    <div>
+                        <img src={robotika2} alt="" />
+                    </div>
+                    <div>
+                        <img src={robotika3} alt="" />
+                    </div>
+                    <div>
+                        <img src={robotika4} alt="" />
+                    </div>
+                    <div>
+                        <img src={robotika5} alt="" />
+                    </div>
+                    <div>
+                        <img src={robotika6} alt="" />
+                    </div>
+                    <div>
+                        <img src={robotika10} alt="" />
+                    </div>
+                    <div>
+                        <img src={robotika8} alt="" />
+                    </div>
+                    <div>
+                        <img src={robotika9} alt="" />
+                    </div>
+                    <div>
+                        <img src={robotika7} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Sekcija je imala za cilj širenje svijesti, znanja, entuzijazma među mladima o značaju STEM pristupa (science, technology, engineering i mathematics) i robotike u današnjem društvu. Učenici su savladali osnovne koncepte u robotici samostalnim sklapanjem raznih modela (lampe, autići, ventilator, usisivač, veš mašina, dron itd). Napredniji polaznici sekcije su samostalno radili na projektima u vezi sa Arduino programiranjem ili lemljenjem. Zahvaljujući saradnji sa UN HOUSE u Sarajevu, koja je i pokrenula projekat IT girls, naši učenici su prisustvovali radionici u UN HOUSE u Sarajevu. </p>
+<p className="mb-4 text-blueGray-500">
+Platforma Arduino je osmišljena da na jednostavan način omogući kreiranje i testiranje prototipova uređaja koji imaju interakciju s okolinom koristeći senzore i aktuatore. Arduino programiranje u osnovi je framework koji je izgrađen na programskom jeziku C++.  Arduino otvara široko polje kreativnosti, tim prije, što je uz pomoć ovog hardvera i softvera moguće razviti i ozbiljnije inovacijske projekte računarom upravljanih uređaja ili instrumenata.</p>
+<p className="mb-4 text-blueGray-500">
+Kroz kampanju IT Girls dolaze u vaše škole, obezbijeđeni su Arduino setovi za deset škola kako bi se djevojčice potaknule da se bave naukom, tehnologijom, inžinjerstvom i matematikom. IT Girls je incijativa zaposlenica i zaposlenika Ujedinjenih nacija Bosne i Hercegovine sa ciljem da podstakne djevojčice i djevojke da već od rane dobi počnu razmišljati u smjeru informacionih i komunikacionih tehnologija (IKT), te da se više uključe u svijet programiranja i programskih jezika kako bi razvile interesovanje za ovaj sektor i povećale mogućnosti u odabiru budućih karijera i obrazovnih pravaca. IT Girls inicijativa za cilj ima uključenje što više djevojčica, djevojaka i žena u IKT tehnologije BiH, na čemu aktivno radi širom zemlje od 2015. godine. No, vrata su otvorena i za boys, ne samo za girls. Cilj  inicijative IT Girls je da djevojčice i dječaci imaju jednaku priliku da se bave informacionom tehnologijom i prave svoje informatičke i robotičke projekte. Više od 400 učenika u osnovnim i srednjim školama u BiH trenutno učestvuje u IT Girls klubovima kao vannastavnim aktivnostima. IT industrija u BiH je jedan od najbrže rastućih sektora koji ostvaruje prihode više od 500 miliona maraka godišnje uz kontinuirani rast svake godine. UN ovom inicijativom podržava mlade da postanu dio IT sektora koji je jako važan za ekonomiju BiH. U ovom trenutku postoji potencijal za zapošljavanje dodatnih 6.000 ljudi u industriji koja je ekološki prihvatljiva i sa izvrsnim radnim uslovima. Ovim radom nastojalo se zbližiti Arduino C++ programiranje s Arduino platformom i njihovim primjenama u elektronici u svakodnevnom životu. Pomoću raznih senzora i aktuatora realizirala se zamisao stvaranja mehatroničkog sistema od početka do kraja, od pisanja vlastitog koda u Arduino C++ jeziku pa sve do kombinovanja elemenata u jednu cjelinu. Cijeli rad se sastojao od malih cjelina koja su bitne u razumijevanju projektovanja sistema, od samog programiranja C++ jezikom, preko razvoja mehatronike i interneta stvari, pa sve do samog Arduina. Primjenom Arduina u mehatronici mogu se postići velike stvari u cilju automatizacije, robotike i nadzora raznih parametara. Pametna kuća kao samo jedan on aktuelnih primjera automatizacije, spoj je svakodnevnice i moderne tehnologije. Može se očekivati da će napredak u tehnologiji omogućiti lakše programiranje, implementiranje i bržu realizaciju projekata u mehatronici i da će sama Arduino platforma postati naprednija i snažnija.</p>
+<p className="mb-4 text-blueGray-500">
+Učenicima koji su redovno pohađali  sekciju robotike uručeni su prigodni certifikati sa preciziranim vještinama koje su stekli. Zahvaljujemo profesoru Nihadu Mehmedoviću za izniman entuzijazam u prenošenju znanja i ljubavi za robotiku na naše učenike/ce, te profesorici Aidi Šahović za pokretanje saradnje na projektu IT girls. Nastavljamo sa ativnostima sljedeće školske godine.</p>
+<p className="mb-4 text-blueGray-500">
+Voditelj sekcije robotike Nihad Mehmedović, prof.</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">INSTITUCIONALNA MREŽA FINANSIJSKE STABILNOSTI BIH
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={nadir5} alt="" />
+                    </div>
+                    <div>
+                        <img src={nadir2} alt="" />
+                    </div>
+                    <div>
+                        <img src={nadir3} alt="" />
+                    </div>
+                    <div>
+                        <img src={nadir4} alt="" />
+                    </div>
+                    <div>
+                        <img src={nadir1} alt="" />
+                    </div>
+                    <div>
+                        <img src={nadir6} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  U ponedjeljak, 3. juna, u amfiteatru Centralne banke Bosne i Hercegovine, predavači iz Centralne banke BiH, Ajla Gežo, samostalna stručna saradnica za modeliranje testova na stres, Goran Bilandžija, samostalni stručni sradnik za regulativu iz Agencije za bankarstvo BiH (FBA) i Jasmina Hadžić savjetnica za investiranje iz Agencije za osiguranje depozita BiH (AOD), održali su predavanja za preko sto učenika I1, I2, I6, II4, II5, III1, III2 razreda i profesorice Almu Karamujić, Čaušević Ševalu i Indiru Zeković, na temu <b>Institucionalna mreža finansijske stabilnosti Bosne i Hercegovine. </b></p>
+<p className="mb-4 text-blueGray-500">
+<b>Agencija za bankarstvo Federacije BiH (FBA)</b> dala je puni doprinos reformi bankarskog sistema. Kao samostalna, nezavisna i neprofitna institucija <b>obavlja nadzor i licenciranje banaka. FBA je od početka usmjerena na stvaranje jakog i stabilnog bankarskog, mikrokreditnog i lizing sistema, tržišno orijentisanog i oslonjenog na međunarodne standarde poslovanja i supervizije banaka, mikrokreditnih organizacija i lizing društava.</b> </p>
+<p className="mb-4 text-blueGray-500">
+Konkretno, djelovanje Agencije za bankarstvo Federacije BiH podrazumijeva izdavanje dozvola za osnivanje i rad  banaka, mikrokreditnih organizacija i lizing društava, izdavanje dozvola za promjene organizacionog ustroja banaka, mikrokreditnih organizacija i lizing društava, nadzor poslovanja banaka, mikrokreditnih organizacija i lizing društava, pokretanje, upravljanje i nadzor postupaka privremene uprave, likvidacije i stečaja, odnosno saniranja banaka, ukidanje dozvola za rad bankama, mikrokreditnim organizacijama i lizing društvima, pomaže antiterorističke mjere koje se odnose na banke, mikrokreditne organizacije i lizing društva na zahtjev ovlaštenog organa, na osnovu odgovarajućeg zakona ili u skladu sa specijalnim rezolucijama Vijeća sigurnosti Ujedinjenih nacija ... </p>
+<p className="mb-4 text-blueGray-500">
+Banke,  mikrokreditne organizacije i lizing društva obavezni su omogućiti Agenciji pristup cjelokupnoj dokumentaciji radi obavljanja poslova iz nadležnosti FBA.</p>
+<p className="mb-4 text-blueGray-500">
+Cilj Zakona o osiguranju depozita je da osigura zaštitu depozita fizičkih  i pravnih osoba u bankama koje su dobile dozvolu za rad od Agencije za bankarstvo Federacije Bosne i Hercegovine ili Agencije za bankarstvo Republike Srpske, te time doprinese očuvanju sveukupne finansijske stabilnosti. <b>Agencija za osiguranje depozita je samostalna, neprofitna, pravna osoba sa ovlašćenjima u  skladu sa Zakonom. Sprječava rizik da naglo i nekontrolirano podizanje depozita građana iz banaka poprimi šire razmjere i ugrozi finansijsku stabilnost. Agencija za osiguranje depozita investira sredstava koja čine Fond za osiguranje depozita, isplaćuje osigurane depozite u slučaju prestanka rada banke, sudjeluje u procesu restrukturiranja banaka...</b></p>
+<p className="mb-4 text-blueGray-500">
+<b>Centralna banka Bosne  vrši ocjenu rizika koji proizilaze iz makroekonomskog okruženja i trendova u finansijskom sistemu i procjenu otpornosti finansijskog sistema na identifikovane rizike, s posebnim akcentom na otpornost bankarskog sektora. Centralna banka Bosne i Hercegovine izvještava širu javnost o postojećim rizicima po finansijsku stabilnost, kao i rizicima  koji bi mogli ugroziti finansijski sistem u narednim periodima.</b> </p>
+<p className="mb-4 text-blueGray-500">
+Evidentno, bankarski sektor je efikasno amortizirao  veoma snažne makroekonomske šokove. Predavači su nam prezentirali i  konkretne izazove po finansijsku stabilnost BiH koji su prevaziđeni zahvaljujući konkretnim aktivnostima i poduzetim mjerama od strane  Agencije za bankarstvo, Agencije za osiguranje depozita i Centralne banke BiH. Primjerice, uspješnom provedbom restrukturiranja  Sberbank d.d. Banja Luka i Sberbank BH d. d. Sarajevo je spriječena propast ovih banaka koja je mogla imati šire negativne posljedice po finansijsku stabilnost. Uslijed inflatornih pritisaka i rasta makroekonomskih rizika praćenih rastom kamatnih stopa na međunarodnom tržištu agencije za bankarstvo svojevremeno su donijele su Odluke o privremenim mjerama za ublažavanje rizika od rasta kamatnih stopa u BiH, čiji je osnovni cilj pravovremeno upravljanje kreditnim rizikom, zaštita korisnika finansijskih usluga i očuvanje stabilnosti bankarskog sektora. </p>
+<p className="mb-4 text-blueGray-500">
+Tematika  je pobudila veliku pažnju i interesovanje učenika/ca, posebno o tome kako nadležne institucije amortiziraju  rizike  po finansijsku stabilnost, uzimajući u obzir posljedice koje je ostavila pandemija COVID-19, te aktuelnu inflaciju i geopolitičke izazove u svijetu. </p>
+<p className="mb-4 text-blueGray-500">
+Predavanje u CBBiH je iznimno važan doprinos nastavnom procesu i finansijskoj edukaciji profesora i učenika u pogledu funkcioniranja i sigurnosti finansijskog sistema zemlje.</p>
+<p className="mb-4 text-blueGray-500">
+<b>Projekat Upoznaj privredu Kantona Sarajevo, Indira Zeković, prof.</b></p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Dodjela diploma i zahvalnica Srednjoj ekonomskoj školi, Sarajevo
+ na manifestaciji "Naše nebo izvrsnosti”
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={zadnje1} alt="" />
+                    </div>
+                    <div>
+                        <img src={zadnje2} alt="" />
+                    </div>
+                    <div>
+                        <img src={zadnje3} alt="" />
+                    </div>
+                    <div>
+                        <img src={zadnje4} alt="" />
+                    </div>
+                    <div>
+                        <img src={zadnje5} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Ministarstvo za odgoj i obrazovanje Kantona Sarajevo, uz podršku Instituta za razvoj preduniverzitetskog obrazovanja Kantona Sarajevo, organizovalo je 07.06.2024.svečanu dodjelu zahvalnica nastavnicima i diploma učenicima koji su osvojili prva tri mjesta na kantonalnim takmičenjima u školskoj 2023 /2024.godini. </p>
+<p className="mb-4 text-blueGray-500">
+Ova prestižna manifestacija na otvorenom, pod nazivom "Naše nebo izvrsnosti", okupila je mnogobrojne učenike, nastavnike i goste u cilju promovisanja i nagrađivanja izvrsnosti u obrazovanju. Prisutnima su se obratile direktorica Instituta za razvoj preduniverzitetskog obrazovanja Kantona Sarajevo, Senada Salihović kao i ministrica za odgoj i obrazovanje Naida Hota-Muminović, koja je u svom govoru istakla da priča o izvrsnosti je priča o posvećenom pedagoškom radu, o dobrom roditeljstvu i o marljivom učenju učenika. Manifestaciji su prisustvovali: rektor Univerziteta u Sarajevu prof.dr. Rifat Škrijelj, dopredsjedavajuća Skupštine Kantona Sarajevo Danijela Kristić, predstavnici Vijeća roditelja Kantona Sarajevo i predstavnici općinskih službi za obrazovanje kao i mnogobrojni građani Sarajeva.</p>
+<p className="mb-4 text-blueGray-500">
+Posebnu čast na ovoj manifestaciji imala je Srednja ekonomska škola, Sarajevo, koja je dobila zahvalnicu za gostoprimstvo i uspješnu organizaciju takmičenja za sve kategorije engleskog jezika.</p>
+<p className="mb-4 text-blueGray-500">
+Jedan od istaknutih trenutaka ceremonije  za našu školu je dodjela diplome i nagrade Begić Harunu za osvojeno prvo mjesto na takmičenju iz engleskog jezika za učenike trećih razreda stručnih škola. Njegova profesorica, Senida Čeljo, također je dobila zahvalnicu  za izuzetan doprinos u pripremi učenika.</p>
+<p className="mb-4 text-blueGray-500">
+Pored individualnih uspjeha, manifestacija je prepoznala i timske napore. Naša profesorica Ankica Zulčić primila je zahvalnicu za izvrsnu pripremu ženskog odbojkaškog tima koji je osvojio treće mjesto na kantonalnom takmičenju.Također, ovom uspješnom timu uručena je diploma.</p>
+<p className="mb-4 text-blueGray-500">
+Srednja ekonomska škola, Sarajevo  je još jednom pokazala da njeni učenici postižu izvanredne uspjehe i da su sposobni takmičiti se i osvajati prestižne nagrade.
+</p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">UGLEDNO - OGLEDNI ČAS ‘’PUT DO FINANSIJSKE PISMENOSTI’’
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={celjo1o} alt="" />
+                    </div>
+                    <div>
+                        <img src={celjo2o} alt="" />
+                    </div>
+                    <div>
+                        <img src={celjo3o} alt="" />
+                    </div>
+                    <div>
+                        <img src={celjo4o} alt="" />
+                    </div>
+                    <div>
+                        <img src={celjo5o} alt="" />
+                    </div>
+                    <div>
+                        <img src={celjo6o} alt="" />
+                    </div>
+                    <div>
+                        <img src={celjo7o} alt="" />
+                    </div>
+                    <div>
+                        <img src={celjo8o} alt="" />
+                    </div>
+                    <div>
+                        <img src={celjo9o} alt="" />
+                    </div>
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  U Srednjoj ekonomskoj školi, Sarajevo, 21.05.2024. održan je ugledno-ogledni čas “Put do finansijske pismenosti”. U okviru edukacije za održavanje nastave zasnovane na ishodima učenja, koju organizuje i podržava Institut za razvoj preduniverzitetskog obrazovanja KS, kroz interdisciplinarni pristup povezale su se četiri profesorice: Senida Čeljo, Maja Omerhodžić, Sanda Dupovac i Merhunisa Hasanspahić. Učestvovala su tri razreda iz dvije srednje škole kroz tri predmeta: Engleski jezik, Bankarsko poslovanje i Programiranje (IT). </p>
+<p className="mb-4 text-blueGray-500">
+Na izgled nespojivo, učenici smjerova ekonomski tehničar i bankarski tehničar iz Srednje ekonomske škole, Sarajevo, te učenici smjera programiranje iz Prve gimnazije Sarajevo, dokazali su da zajednička tema “Put do finansijske pismenosti” može biti obrađena kroz različite prizme te da može voditi do istog cilja. Čas je započeo igrokazom u kojem su učenici bankarskog smjera ukazali na finansijsku nepismenost stanovništva koja može donijeti mnogo problema. Slijedile su analize anketa koje su učenici uradili s ciljem da se vidi koliko je stanovništvo BiH, a naročito mladi, finansijski pismeno. Nakon toga, učenici su nastavili sa prezentacijom o finansijskoj pismenosti i šta ona podrazumijeva.</p>
+<p className="mb-4 text-blueGray-500">
+Učenici Prve gimnazije su napravili platformu Finansijska pismenost na kojoj su svih 70 učenika, koliko je učestvovalo u interdisciplinarnom času, podijeljeni u grupe, uredili platformu sa različitim sadržajima koji će pomoći korisnicima u razumijevanju i upravljanju ličnim finansijama. Ovo uključuje znanje i vještine vezane za budžetiranje, štednju, investiranje, upravljanje dugovima, razumijevanje finansijskih proizvoda i usluga, kao i donošenje informisanih finansijskih odluka. S tim u vezi, učenici su koristeći umjetnu inteligenciju snimili 10 video tutorijala, kreirali edukativne stripove, intervjuisali predstavnike banaka kao i direktora Federalnog zavoda za statistiku, Kremić Emira. Platforma je obogaćena korisnim alatima kao što su englesko-bosanski rječnik poslovnih riječi i izraza te kalkulatori za štednju, kamate i kursna lista.
+</p>
+<p className="mb-4 text-blueGray-500">
+Cilj časa bio je pokazati da su pojedinci koji su finansijski pismeni bolje opremljeni za snalaženje u složenom svijetu finansija, donošenje ispravnih finansijskih odluka i efikasno planiranje svoje buduće finansijske dobrobiti. Učenici su kroz ovakav interdisciplinarni pristup razvijali i druge kompetencije kao što su jezička, digitalna, analitička i istraživačka kompetencija. Takođe su razvijali timske vještine i kreativnost, kao i sposobnost kritičkog razmišljanja i rješavanja problema. Ovakav način rada omogućio im je da unaprijede svoju saradnju, komunikaciju i primjenu teorijskog znanja u praktičnim situacijama, što je ključno za njihov budući profesionalni i lični razvoj.
+</p>
+<p className="mb-4 text-blueGray-500">
+Ovom izuzetno zanimljivom času prisustvovale su direktorica Srednje ekonomske škole Sarajevo, Amira Kadrispahić, direktorica Prve gimnazije, Velida Tinjak, predstavnica Instituta za razvoj preduniverzitetskog obrazovanja KS, Hatidža Šaljić, direktor prodaje Sparkasse banke, Amel Agić, kao i drugi predstavnici banke, pomoćnica direktora Federalnog zavoda za statistiku, Dijana Bajić Simanić, te mnogobrojni profesori i profesorice iz različitih srednjih škola KS.
+</p>
+<p className="mb-4 text-blueGray-500">
+<a href='https://sway.cloud.microsoft/T35Mu8sUfO8JXAES?ref=Link'>Link platforme</a>
+</p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Posjeta muzeju
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={mu1k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu2k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu3k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu4k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu5k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu6k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu7k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu8k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu9k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu10k} alt="" />
+                    </div>
+                    <div>
+                        <img src={mu11k} alt="" />
+                    </div>
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  U utorak 4. juna 2024. godine,  učenice i učenici  II3 odjeljenja, u pratnji  profesorice Historije Azemine Hujdur posjetile/i su Muzej zločina protiv čovječnosti i genocida 1992-1995.</p>
+<p className="mb-4 text-blueGray-500">
+U muzeju se nalaze brojni dokazi kao što su lični predmeti, priče preživjelih o dešavanjima u Bosni i Hercegovini u period agresije 1992.-1995. godine.</p>
+<p className="mb-4 text-blueGray-500">
+Muzej ima i više projekcija dokumentarnih filmova, te video izjave i svjedočenja žrtava  koji govore o zločinu i genocidu 1992.-1995.
+</p>
+<p className="mb-4 text-blueGray-500">
+Sve što se može vidjeti i čuti u muzeju, na  vjerodostojan i slikovit način prikazuje razmjere počinjenih zločina, govore o zločinima protiv čovječnosti, logorima, zločinima počinjenim nad djecom, masovnim grobnicama, genocidu u Srebrenici, teškim sudbinama pojedinaca.
+</p>
+<p className="mb-4 text-blueGray-500">
+Jedan od ciljeva muzeja je sjećanje na počinjene zločine, spomen žrtvama kao i edukacija o svemu što se dešavalo u periodu između 1992. i 1995. godine. 
+</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Učenik Srednje ekonomske škole osvojio bronzanu medalju na SP ADCC-u u Poljskoj
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={kik1} alt="" />
+                    </div>
+                    <div>
+                        <img src={kik2} alt="" />
+                    </div>
+                    <div>
+                        <img src={kik3} alt="" />
+                    </div>
+                    <div>
+                        <img src={kik5} alt="" />
+                    </div>
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Na Svjetskom prvenstvu ADCC u grapplingu održanom u Poljskoj - Varšavi 25. i 26 maja, učešće je uzeo Malik Bektaš član i takmičar Hrvačkog kluba Željezničar na kojem je ostvario izuzetno vrijedan uspjeh osvojivši treće mjesto i bronzanu medalju.</p>
+<p className="mb-4 text-blueGray-500">
+Ovo je treća medalja u zadnja dva mjeseca sa velikih međunarodnih prvenstava za takmičare Hrvačkog kluba Željezničar koja dolazi poslije zlatne medalje iz Rijada Saud. Arabije i bronzane medalje Crnkić Kerima sa AJP Continental EUROPE iz Istanbula.</p>
+<p className="mb-4 text-blueGray-500">
+Ono što je bitno za navesti jeste da su svi uspjesi ostvareni u seniorskoj takmičarskoj konkrenciji.
+</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">ATLETSKI KUP ZA UČENIKE OSNOVNIH I SREDNJIH ŠKOLA  KANTONA SARAJEVO
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={atl1} alt="" />
+                    </div>
+                    <div>
+                        <img src={atl2} alt="" />
+                    </div>
+                    <div>
+                        <img src={atl3} alt="" />
+                    </div>
+                    <div>
+                        <img src={atl4} alt="" />
+                    </div>
+                    <div>
+                        <img src={atl5} alt="" />
+                    </div>
+                    <div>
+                        <img src={atl6} alt="" />
+                    </div>
+                    <div>
+                        <img src={atl7} alt="" />
+                    </div>
+                    <div>
+                        <img src={atl8} alt="" />
+                    </div>
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Atletika je bazični sport koji je uvijek bio i koji će uvijek biti jedan od najkorisnijih sportova za razvoj osnovnih kretnji kod djece i omladine. Zbog svoje sveobuhvatnosti naziva se kraljicom sportova. Atletskim vježbama stiče se fizička snaga, izdržljivost, brzina i okretnost a učvršćuju se svojstva volje kao što su hrabrost, odlučnost i upornost. Discipline atletike odlikuju se motoričkim kretanjima koja se uspješno mogu primjenjivati tokom obrazovnog procesa, ili kroz druge oblike vježbanja, pomoću kojih se značajno utiče na podizanje opće psihofizičke sposobnosti pojedinca. Atletika je polazište i temelj za sve ostale sportove. </p>
+<p className="mb-4 text-blueGray-500">
+Atletski kup za srednje i osnovne škole Kantona Sarajevo, jedno je od najmasovnijih školskih sportskih takmičenja u Sarajevu. U srijedu, 29. maja 2024. godine, održan je Atletski kup za osnovne i srednje škole Kantona Sarajevo u organizaciji Atletskog saveza Kantona Sarajevo i pokrovitelja takmičenja Ministarstva kulture i sporta Kantona Sarajevo i Instituta za razvoj preduniverzitetskog obrazovanja Kantona Sarajevo. Ekipu naše škole na  Atletskom  kupu 2024. godine predvodili  su profesorica Ankica Zulčić i profesor Adnan Čolić, te uzeli učešće učenici/ce:</p>
+<p className="mb-4 text-blueGray-500">
+Zerina Zec i Hanadi Oručević,  I1 razred,
+</p>
+<p className="mb-4 text-blueGray-500">
+Hamza Čubrilo i Nudžejma Zildžić, I2 razred,
+</p>
+<p className="mb-4 text-blueGray-500">
+Enis Karović i Abdulah Gušter,  I3 razred ,
+</p>
+<p className="mb-4 text-blueGray-500">
+Arman Ramić, Tarik Kovač i Ahmet Sojkić, I4 razred,
+</p>
+<p className="mb-4 text-blueGray-500">
+Emira Pinjo i Eman Mešanović, I5 razred,
+</p>
+<p className="mb-4 text-blueGray-500">
+Neim Međedović, II2 razred ,
+</p>
+<p className="mb-4 text-blueGray-500">
+Abdulah Fejzagić II4  razred,
+</p>
+<p className="mb-4 text-blueGray-500">
+Merjem Lindov, II5 razred ,
+</p>
+<p className="mb-4 text-blueGray-500">
+Azra Drina, Sandira Bunjo i Belma Hasić, II6 razred.
+</p>
+<p className="mb-4 text-blueGray-500">
+Na općinskoj razini Atletskog kupa, u konkurenciji škola iz Općine Novo Sarajevo, naša ekipa se plasirala na sjajno, drugo mjesto. U utorak, 04. juna.2024. godine, održano je finale Atletskog kupa, kantonalni nivo, pod nazivom Atletski Kup za učenike osnovnih i srednjih škola Kantona Sarajevo. Takmičenje se održalo na poligonu Atletskog Kluba Sarajevo, u Sarajevu. Naši učenici su ostvarili sjajne rezultate, a u pojedinačnoj konkurenciji učenica Hanadi Oručević,  I1 razred, se plasirala na  odlično, treće mjesto u disciplini 600 m.
+</p>
+<p className="mb-4 text-blueGray-500">
+Učenici/ce su pokazali/e odličnu formu, utreniranost i izvedbu tehničkih elemenata. Ponosni smo na učeničku disciplinu, odgovornost, entuzijazam na terenu i dostojanstveno predstavljanje naše škole! Čestitamo našim učenicima/ama i profesorima/cama za vrhunski doprinos uspjehu ovog praznika sporta, radosti, ljepote i mladosti!
+</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Dan bijelih traka
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={"https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Dan%20bijelih%20traka.jpg?alt=media&token=5cb0413e-e54c-44fd-9ccd-2ff859ff0216"} alt="" />
+                    </div>
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  “Prijedorska bijela traka crnja je od svakoga mraka!”</p>
+<p className="mb-4 text-blueGray-500">
+Abdulah Sidran</p>
+<p className="mb-4 text-blueGray-500">
+Dan bijelih traka je dan sjećanja na događaje koji su se počeli dešavati od 31. maja 1992. godine
+na području općine Prijedor. Na taj dan izdana je naredba od strane Kriznog štaba nasilno
+instalirane vlasti tadašnje općine Prijedor kojom se nesrpskom stanovništvu, dakle Bošnjacima i
+Hrvatima, naređuje isticanje bijelog platna na svojim domovima, te su na javnim mjestima na
+nadlaktici morali nositi bijele trake. Ta fašistička kampanja, po okrutnosti ravna kampanji protiv
+Jevreja tokom Drugog svjetskog rata, bila je uvod u etničko čišćenje nesrpskog stanovništva,
+konkretno Bošnjaka, na području Bosne i Hercegovine.
+</p>
+<p className="mb-4 text-blueGray-500">
+U period agresije od 1992. do 1995. godine na području Prijedora ubijeno je 3.176 ljudi. Kroz
+koncentracione logore (Omarska, Trnopolje i Keraterm) prošle su desetine hiljada ljudi, nad
+kojima su izvršene masovne egzekucije, zločini silovanja, različite vrste tortura, kao i zločini
+protiv čovječnosti.
+</p>
+<p className="mb-4 text-blueGray-500">
+U ovom periodu u Prijedoru je ubijeno 102 djece koji su bili mlađi od 18 godina.
+</p>
+<p className="mb-4 text-blueGray-500">
+Ove godine se navršavaju 32 godine od tog događaja a neki od zločinaca jos nisu stali pred lice
+pravde.
+</p>
+<p className="mb-4 text-blueGray-500">
+Drage kolegice i kolege, priključite se obilježavanju Dana bijelih traka i dajte svoj doprinos
+očuvanju sjećanja na žrtve Prijedora nošenjem bijelih traka na nadlaktici ruku, prilikom izlaska
+iz vaših domova.
+</p>
+<p className="mb-4 text-blueGray-500">
+Historija se ne smije zaboraviti, inače će se ponoviti.
+</p>
+<p className="mb-4 text-blueGray-500">
+Učenici i učenice škole, kao i uposlenici i uposlenice su se pridružili obilježavanju noseći i sami bijele trake oko ruke i tako dali doprinos očuvanju sjećanja na žrtve Prijedora.
+</p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
@@ -687,7 +1404,7 @@ const Projekti = () => {
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={vece1} alt="" />
@@ -798,7 +1515,7 @@ Sretno!
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={nab1} alt="" />
@@ -878,7 +1595,7 @@ Projekt Upoznaj privredu Kantona Sarajevo, Indira Zeković, prof.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={kasse1} alt="" />
@@ -945,7 +1662,7 @@ Projekt Upoznaj privredu Kantona Sarajevo, Indira Zeković, prof.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={njem1} alt="" />
@@ -1020,7 +1737,7 @@ Direktorica ističe da smo jako zahvalni što je naša škola prepoznata i odabr
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={matu1} alt="" />
@@ -1099,7 +1816,7 @@ Sretno!</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
 
                   <div>
@@ -1213,7 +1930,7 @@ Sretno!</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={hocu1} alt="" />
@@ -1287,7 +2004,7 @@ Sajam je prvenstveno bio namjenjen učenicima i učenicama srednjih škola Kanto
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   
                   <div>
@@ -1349,7 +2066,7 @@ Bio je ovo snažan  doprinos popularizaciji sporta među mladima. Sport je alter
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={lep1} alt="" />
@@ -1405,7 +2122,7 @@ Predstava donosi probleme otuđenosti u porodici i nedostatak komunikacije što 
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={tehn1} alt="" />
@@ -1535,7 +2252,7 @@ Zahvaljujemo učesnicima i čestitamo osvajačima medalja.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={geoc1} alt="" />
@@ -1619,7 +2336,7 @@ Radujemo se narednom susretu!</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={tomislav} alt="" />
@@ -1685,7 +2402,7 @@ Neka nas Tomislavova životna priča motivira da istražujemo svoje granice i os
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={hiv} alt="" />
@@ -1747,7 +2464,7 @@ Poboljšanje prehrambenih navika, izbjegavanje pušenja i odgovorno spolno pona�
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={roditelji3} alt="" />
@@ -1820,7 +2537,7 @@ Zahvaljujemo roditeljima za učešće u Školi roditeljstva!</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={aod1} alt="" />
@@ -1847,7 +2564,7 @@ Zahvaljujemo roditeljima za učešće u Školi roditeljstva!</p>
 </p>
 
 <p className="mb-4 text-blueGray-500">
-Nakon posjeta Centralnoj banci i Agenciji za bankarstvo,  logičan slijed finansijske edukacije je Agencija za osiguranje depozita. Finansijska edukacija i jačanje finansijske inkluzije i stabilnosti svakog pojedinca i zajednice je važan segment opšteg obrazovanja,  jer samo finansijski educirana osoba može donositi ispravne finansijske odluke i  tako doprinositi finansijskoj stabilnosti zajednice. 
+Nakon posjeta Centralnoj banci i Agenciji za bankarstvo,  logičan slijed finansijske edukacije je <b>Agencija za osiguranje depozita</b>. Finansijska edukacija i jačanje finansijske inkluzije i stabilnosti svakog pojedinca i zajednice je važan segment opšteg obrazovanja,  jer samo finansijski educirana osoba može donositi ispravne finansijske odluke i  tako doprinositi finansijskoj stabilnosti zajednice. 
 </p>
 
 
@@ -1903,7 +2620,7 @@ Projekat Upoznaj privredu Kantona Sarajevo, Indira Zeković, prof.</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={izborna1} alt="" />
@@ -2003,7 +2720,7 @@ Učenici/ce su probali/e virtual reality preko kojeg se rasklapa motor mašine, 
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={satler1} alt="" />
@@ -2128,7 +2845,7 @@ Također, EU pruža značajnu podršku i kroz svoj Erasmus+ program koji podrža
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={knjiges1} alt="" />
@@ -2257,7 +2974,7 @@ Na platou Skenderije posjetitelji mogu vidjeti Instalaciju - Obelisk  Memoria Bo
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={hemija1} alt="" />
@@ -2369,7 +3086,7 @@ Izučavanje hemije kod učenica/ka razvija hemijsku pismenost i bazična znanja 
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={dom1} alt="" />
@@ -2472,7 +3189,7 @@ jezika
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={hb} alt="" />
@@ -2557,7 +3274,7 @@ takmičenju engleskog jezika, osvojivši četvrto mjesto u kategoriji IV razreda
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={grada1} alt="" />
@@ -2683,7 +3400,7 @@ SCENSKI POKRET: Zerina Zec i Berina Hebib.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={almina1} alt="" />
@@ -2804,7 +3521,7 @@ Neka nam svima, herojska borba i odbrana našeg grada, neizrecivo čudo bosansko
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={celjo} alt="" />
@@ -2890,7 +3607,7 @@ Sa ponosom ističemo da je Srednja ekonomska škola, Sarajevo u eTwinning zajedn
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={mmp1} alt="" />
@@ -2969,7 +3686,7 @@ U cilju prikupljanja informacija o fakultetima i donošenju što kvalitetnije od
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={radi1} alt="" />
@@ -3055,7 +3772,7 @@ U cilju prikupljanja informacija o fakultetima i donošenju što kvalitetnije od
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={cika1} alt="" />
@@ -3143,7 +3860,7 @@ Iskrene čestitke za pobjedničku ekipu! Njihova pobjeda potvrđuje vrijednost i
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={edin1} alt="" />
@@ -3214,7 +3931,7 @@ Prva pomoć podrazumijeva mjere i postupke kojima se pomaže ozlijeđenoj ili ob
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={volim1} alt="" />
@@ -3279,7 +3996,7 @@ Ovaj događaj je održan 4. i 5. marta u Dječijoj kući na Grbavici, a učenice
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={marina1} alt="" />
@@ -3337,7 +4054,7 @@ Program prevencije kockanja je podržan od strane Ministarstva za odgoj i obrazo
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={gimn1} alt="" />
@@ -3405,7 +4122,7 @@ Iskrene čestitke učenicama i učenicima za postignute rezultate!</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={malik1} alt="" />
@@ -3467,7 +4184,7 @@ Na putu do zlatne medalje Bektaš je pobjeđivao domaće borce Suhaiba Madanija,
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={naida} alt="" />
@@ -3540,7 +4257,7 @@ Kao maturantica ove škole, zahvalna sam na svemu što mi je ova škola pružila
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={beograd} alt="" />
@@ -3596,7 +4313,7 @@ Iako je susret bio dogovoren kao revijalni, a ne takmičarski, ne možemo, a da 
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={azemina1} alt="" />
@@ -3671,7 +4388,7 @@ iz naše učionice i historijske artefakte.</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={posjeta} alt="" />
@@ -3746,7 +4463,7 @@ poštovanje prema kulturno-historijskom naslijeđu Bosne i Hercegovine.</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={sport1} alt="" />
@@ -3820,7 +4537,7 @@ Sport može odigrati ključnu ulogu u osnaživanju mladih da postanu aktivni akt
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={star1} alt="" />
@@ -3884,7 +4601,7 @@ Ključne stavke potrebne za uspjeh su vjera u samog sebe, znanje, vizija i uporn
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={finansije1} alt="" />
@@ -3952,7 +4669,7 @@ Projekat Upoznaj privredu Kantona Sarajevo, Indira Zeković, prof.</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={indira1} alt="" />
@@ -4016,7 +4733,7 @@ Projekat Upoznaj privredu Kantona Sarajeva, Indira Zeković, prof.</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={priredba1} alt="" />
@@ -4133,7 +4850,7 @@ Bosno i Hercegovino, jedina nam domovino, sretan ti Dan nezavisnosti!</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={knjig1} alt="" />
@@ -4181,7 +4898,7 @@ U srijedu, 28.02.2024. godine, su učenici četvrtog razreda naše škole, koji 
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
 
                   <div>
                         <img src={danas0} alt="" />
@@ -4256,7 +4973,7 @@ Recite i vi – STOP NASILJU i učinimo svijet boljim mjestom, jer nasilje  nika
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={dzekii1} alt="" />
@@ -4306,7 +5023,7 @@ Kako je ovo godina u kojoj u postmodernoj  književnosti govorimo o apsurdu i sa
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={banka1} alt="" />
@@ -4415,7 +5132,7 @@ Sarajevo je donijelo mir među zemljama i narodima,  dobrobit mladima koji su no
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={alma1} alt="" />
@@ -4474,7 +5191,7 @@ Bile su ovo inspirativne lekcije našim učenicima iz naše slavne olimpijske pr
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={nasilje1} alt="" />
@@ -4544,7 +5261,7 @@ I ova edukativna radionica o saradnji sa policijom i štetnosti kaznenih djela j
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={kino1} alt="" />
@@ -4596,7 +5313,7 @@ Na kraju projekcije uslijedila je diskusija i učenici/ce su mogli/e da postavlj
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={alija1} alt="" />
@@ -4659,7 +5376,7 @@ Učinimo sve da postanu kvalitetni ljudi!</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={ajla} alt="" />
@@ -4737,7 +5454,7 @@ Sve čestitke i  za njenu izuzetnu profesoricu njemačkog jezika Aidu Babić!</p
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={muza1} alt="" />
@@ -4808,7 +5525,7 @@ Preporučujemo da svakako posjetite muzejsku postavku <i><b>Sarajevo 1878-1918!<
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={sender1} alt="" />
@@ -4861,7 +5578,7 @@ Tom prilikom, pored toga što su upoznali taj kraj, a neki od njih i po prvi put
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={februar1} alt="" />
@@ -4932,7 +5649,7 @@ Posjeta je realizirana u okviru projekta <i>UPOZNAJ PRIVREDU KANTONA SARAJEVO</i
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={faris1} alt="" />
@@ -5019,7 +5736,7 @@ Mi kao zajednica moramo da se probudimo i da radimo na tome da se naš sistem ur
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={noc7} alt="" />
@@ -5094,7 +5811,7 @@ Autor predstave je prof. Ermina Muratović. Posebna sreća je bila vidjeti u tok
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={noc1} alt="" />
@@ -5151,7 +5868,7 @@ Novogodišnja čarolija "Ledengrada" prosula je sjaj pahulja na sinoćnju podjel
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={bamba0} alt="" />
@@ -5253,7 +5970,7 @@ Projekat <i>UPOZNAJ PRIVREDU KANTONA SARAJEVO</i>, Indira zeković, prof.</p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={burchd1} alt="" />
@@ -5328,7 +6045,7 @@ Opširnije: <a href='https://www.ibu.edu.ba'>https://www.ibu.edu.ba</a></p>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={zec1} alt="" />
@@ -5403,7 +6120,7 @@ Izložba Safeta Zeca <i>Molitva</i> bit će dostupna za građane od 18. decembra
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={radionica1} alt="" />
@@ -5458,7 +6175,7 @@ Zahvaljujemo se JU Odgojni centar KS i predavaču Adnanu Džeparu, stručnom sav
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={skolap1} alt="" />
@@ -5503,7 +6220,7 @@ Zahvaljujemo se JU Odgojni centar KS i predavaču Adnanu Džeparu, stručnom sav
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={stem1} alt="" />
@@ -5594,7 +6311,7 @@ Zahvaljujemo se JU Odgojni centar KS i predavaču Adnanu Džeparu, stručnom sav
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={argeta1} alt="" />
@@ -5671,7 +6388,7 @@ Zahvaljujemo se JU Odgojni centar KS i predavaču Adnanu Džeparu, stručnom sav
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={vladimir1} alt="" />
@@ -5743,7 +6460,7 @@ Zahvaljujemo se JU Odgojni centar KS i predavaču Adnanu Džeparu, stručnom sav
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={dandrzavnosti1} alt="" />
@@ -5803,7 +6520,7 @@ Zahvaljujemo se JU Odgojni centar KS i predavaču Adnanu Džeparu, stručnom sav
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={poduzetnici1} alt="" />
@@ -5895,7 +6612,7 @@ Zahvaljujemo se JU Odgojni centar KS i predavaču Adnanu Džeparu, stručnom sav
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={dipanaida1} alt="" />
@@ -5953,7 +6670,7 @@ Zahvaljujemo se JU Odgojni centar KS i predavaču Adnanu Džeparu, stručnom sav
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={centralna1} alt="" />
@@ -6037,7 +6754,7 @@ a III2 razred 4.12. 2023. godine u glavnoj jedinici Centralne banke.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={aids1} alt="" />
@@ -6124,7 +6841,7 @@ a III2 razred 4.12. 2023. godine u glavnoj jedinici Centralne banke.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={pazar3} alt="" />
@@ -6189,7 +6906,7 @@ a III2 razred 4.12. 2023. godine u glavnoj jedinici Centralne banke.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={yunus1} alt="" />
@@ -6280,7 +6997,7 @@ a III2 razred 4.12. 2023. godine u glavnoj jedinici Centralne banke.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={aaa1} alt="" />
@@ -6345,7 +7062,7 @@ su stubovi svijeta</i>, g-đa Fatima Hukić,  pozdravljajući učesnice i učesn
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={dand1} alt="" />
@@ -6406,7 +7123,7 @@ su stubovi svijeta</i>, g-đa Fatima Hukić,  pozdravljajući učesnice i učesn
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={ples1} alt="" />
@@ -6474,7 +7191,7 @@ Uslijedio je internacionalni turnir WDSF NORTH MACEDONIA OPEN DANCE 2023, koji j
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={dzeki1} alt="" />
@@ -6543,7 +7260,7 @@ Uslijedio je internacionalni turnir WDSF NORTH MACEDONIA OPEN DANCE 2023, koji j
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={glob1} alt="" />
@@ -6620,7 +7337,7 @@ Uslijedio je internacionalni turnir WDSF NORTH MACEDONIA OPEN DANCE 2023, koji j
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={haa1} alt="" />
@@ -6691,7 +7408,7 @@ Uslijedio je internacionalni turnir WDSF NORTH MACEDONIA OPEN DANCE 2023, koji j
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
                         <img src={goradzde1} alt="" />
@@ -6822,7 +7539,7 @@ Ispunjeni nezaboravnim utiscima, vratili smo se u Sarajevo u večernjim satima.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={selo1} alt="" />
@@ -6904,7 +7621,7 @@ sajmu knjiga na zagrebačkom velesajmu.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={ha1} alt="" />
@@ -6978,7 +7695,7 @@ Opširnije na: <a href='https://www.cbbh.ba/'>https://www.cbbh.ba/</a>
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={sajamaaa1} alt="" />
@@ -7049,7 +7766,7 @@ poslovne prakse, što će zasigurno doprinijeti njihovoj poslovnoj kreativnosti 
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src="https://firebasestorage.googleapis.com/v0/b/obavijesti-b3310.appspot.com/o/Gimnastika%201.jpg?alt=media&token=3b595afe-98b0-48c9-be7f-5b0f60e38fb3" alt="" />
@@ -7102,7 +7819,7 @@ poslovne prakse, što će zasigurno doprinijeti njihovoj poslovnoj kreativnosti 
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={mete} alt="" />
@@ -7147,7 +7864,7 @@ poslovne prakse, što će zasigurno doprinijeti njihovoj poslovnoj kreativnosti 
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={stednja1} alt="" />
@@ -7204,7 +7921,7 @@ poslovne prakse, što će zasigurno doprinijeti njihovoj poslovnoj kreativnosti 
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={pismenost1} alt="" />
@@ -7320,7 +8037,7 @@ umrežavanje.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={bib1} alt="" />
@@ -7372,7 +8089,7 @@ Cilj Nacionalnog dana svjesnosti o bibliotekama je podsjetiti građanke i građa
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={ejs1} alt="" />
@@ -7419,7 +8136,7 @@ Cilj Nacionalnog dana svjesnosti o bibliotekama je podsjetiti građanke i građa
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={opasno1} alt="" />
@@ -7463,7 +8180,7 @@ Cilj Nacionalnog dana svjesnosti o bibliotekama je podsjetiti građanke i građa
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={svila1} alt="" />
@@ -7510,7 +8227,7 @@ Cilj Nacionalnog dana svjesnosti o bibliotekama je podsjetiti građanke i građa
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={jabuka1} alt="" />
@@ -7567,7 +8284,7 @@ Cilj Nacionalnog dana svjesnosti o bibliotekama je podsjetiti građanke i građa
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={carina1} alt="" />
@@ -7629,7 +8346,7 @@ edukativne radionice koja dodatno doprinosi edukaciji našim vrijednim učenicam
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={g1} alt="" />
@@ -7681,7 +8398,7 @@ završen zajedničkim tradicionalnim ručkom - vojničkim grahom.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={izlet1} alt="" />
@@ -7753,7 +8470,7 @@ završen zajedničkim tradicionalnim ručkom - vojničkim grahom.
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={muzej1} alt="" />
@@ -7807,7 +8524,7 @@ Kustos muzeja g-din Nermin Pustahija, prezentirao je učenicama i učenicima, iz
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={streliste0} alt="" />
@@ -7850,7 +8567,7 @@ Kustos muzeja g-din Nermin Pustahija, prezentirao je učenicama i učenicima, iz
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={vrh1} alt="" />
@@ -7889,7 +8606,7 @@ Kustos muzeja g-din Nermin Pustahija, prezentirao je učenicama i učenicima, iz
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={spars2} alt="" />
@@ -7934,7 +8651,7 @@ Kustos muzeja g-din Nermin Pustahija, prezentirao je učenicama i učenicima, iz
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={dan1} alt="" />
@@ -7999,7 +8716,7 @@ Kustos muzeja g-din Nermin Pustahija, prezentirao je učenicama i učenicima, iz
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                     <div>
                         <img src={slika1} alt="" />
@@ -8058,7 +8775,7 @@ Kustos muzeja g-din Nermin Pustahija, prezentirao je učenicama i učenicima, iz
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       {obj.slike.map(slika  => 
                     <div>
                         <img src={slika} alt="" />

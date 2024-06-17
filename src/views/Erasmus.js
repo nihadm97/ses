@@ -230,7 +230,7 @@ const Erasmus = () => {
               <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
                 <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
                   <div className="py-5 flex-auto">
-                  <Carousel autoPlay interval="10000" transitionTime="10000" infiniteLoop>
+                  <Carousel interval="1000" transitionTime="10000" infiniteLoop>
                       
                   <div>
                         <img src={erasmus0} alt="" />
