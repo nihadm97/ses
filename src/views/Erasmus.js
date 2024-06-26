@@ -29,6 +29,7 @@ import vodic from './images/Vodic.png';
 import alat from './images/Alat_za_Procjenu_Naslovna_strana_BH.png';
 
 import newsletter1 from './images/Newsletter1.png';
+import newsletter2 from './images/letter2.jpg';
 
 const Erasmus = () => {
   useEffect(() => {
@@ -38,6 +39,35 @@ const Erasmus = () => {
   return (
     <>
     <ProjektiNavbar fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full justify-center items-center">
+          <div className="container mx-auto px-4 justify-center items-center">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Newsletter #2
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap justify-center items-center">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center  md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+
+                      
+                  <img src={newsletter2} alt="" />
+                        
+
+                    </div>
+                    <a href='https://drive.google.com/file/d/1kfZdNoTXxz7DDypsmUw-ErVMyQkH8bpf/view?usp=sharing' target="_blank" className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+                  style= {{backgroundColor: '#92d050'}} >Preuzmi materijal</a>
+
+                  </div>
+                </div>
+              
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full justify-center items-center">
           <div className="container mx-auto px-4 justify-center items-center">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">

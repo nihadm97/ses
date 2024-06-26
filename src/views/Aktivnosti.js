@@ -714,6 +714,55 @@ import robotika8 from './images/DSC0342.JPG';
 import robotika9 from './images/DSC0343.JPG';
 import robotika10 from './images/DSC0328.JPG';
 
+import zadnjeee1 from './images/FB_IMG_1718697540068.jpg';
+import zadnjeee2 from './images/FB_IMG_1718697775538.jpg';
+
+
+import plovdiv1 from './images/plovdiv1.jpg';
+import plovdiv2 from './images/plovdiv2.jpg';
+import plovdiv3 from './images/plovdiv3.jpg';
+import plovdiv4 from './images/plovdiv4.jpg';
+import plovdiv5 from './images/plovdiv5.jpg';
+import plovdiv6 from './images/plovdiv6.jpg';
+
+import ista1 from './images/ista1.jpg';
+import ista2 from './images/ista2.jpg';
+import ista3 from './images/ista3.jpg';
+import ista4 from './images/ista4.jpg';
+import ista5 from './images/ista5.jpg';
+import ista6 from './images/ista6.jpg';
+import ista7 from './images/ista7.jpg';
+import ista8 from './images/ista8.jpg';
+import ista9 from './images/ista9.jpg';
+
+import bihac1 from './images/bihac1.jpg';
+import bihac2 from './images/bihac2.jpg';
+import bihac3 from './images/bihac3.jpg';
+import bihac4 from './images/bihac4.jpg';
+import bihac5 from './images/bihac5.jpg';
+import bihac6 from './images/bihac6.jpg';
+import bihac7 from './images/bihac7.jpg';
+
+import dodjela1 from './images/dodjela24.jpg';
+import dodjela2 from './images/dodjela241.jpg';
+import dodjela3 from './images/dodjela242.jpg';
+import dodjela4 from './images/dodjela243.jpg';
+import dodjela5 from './images/dodjela244.jpg';
+import dodjela6 from './images/dodjela245.jpg';
+import dodjela7 from './images/dodjela246.jpg';
+import dodjela8 from './images/dodjela247.jpg';
+import dodjela9 from './images/dodjela248.jpg';
+import dodjela10 from './images/dodjela249.jpg';
+import dodjela11 from './images/dodjela250.jpg';
+import dodjela12 from './images/dodjela251.jpg';
+import dodjela13 from './images/dodjela252.jpg';
+import dodjela14 from './images/dodjela253.jpg';
+import dodjela15 from './images/dodjela254.jpg';
+import dodjela16 from './images/dodjela255.jpg';
+
+import dodjela24 from './images/dodjela24.mp4';
+
+
 const Projekti = () => {
   useEffect(() => {
     AOS.init({duration: 2000});
@@ -733,6 +782,450 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Dodjela diploma generaciji 2020-2024.
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={dodjela1} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela2} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela3} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela4} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela5} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela6} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela7} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela8} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela9} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela10} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela11} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela12} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela13} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela14} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela15} alt="" />
+                    </div>
+                    <div>
+                        <img src={dodjela16} alt="" />
+                    </div>
+
+                   
+                    
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Svečano smo ispratili još jednu divnu generaciju maturantica i maturanata. Generacija koja se istakla svojim odgojem, izuzetnim moralom, maksimalnom predanošću u svim nastavnim i vannastavnim aktivnostima.</p>
+<p className="mb-4 text-blueGray-500">
+Tokom školovanja, ne samo da su se istakle/i u sticanju znanja iz knjiga, već su učili i o životu, prijateljstvu, odgovornosti i samopouzdanju. Postali su mladi ljudi spremni za nove izazove, spremni da svoje snove pretoče u stvarnost.</p>
+<p className="mb-4 text-blueGray-500">
+Maturantica, Naida Đipa, počastila je prisutne svojim literarnim radom kojim je, na veoma emotivan način, predstavila srednjoškolsko obrazovanje kao jednu od najznačajnijih faza u životima mladih.</p>
+<p className="mb-4 text-blueGray-500">
+Predstavljen je i zajednički video izuzetne generacije kojim su zabilježeni svi značajniji trenuci u protekle četiri godine. Zahvaljujemo maturantici, Emani Šahbaz, koja je pripremala video.</p>
+<p className="mb-4 text-blueGray-500">
+Razrednice: Dženana Tanović-Hamzić, Selma Jusić, Amra Hodžić, Indira Zeković, Aida Babić i Sanja Filipović su zajedno sa direktoricom Škole, Amirom Kadrispahić, uručile diplome i zahvalnice maturanticama i maturantima.</p>
+<p className="mb-4 text-blueGray-500">
+Nakon što su uručene diplome, direktorica Škole je posebnim priznanjem istakla angažman i rad maturantica i maturanata koje/i su tokom školovanja ostvarili prosjek 5.0 i primjerno vladanje: Iman Čoko,
+Melina Kadić,
+Nedim Karadž,
+Džejla Bakaran,
+Amina Ćedič,
+Naida Đipa,
+Amra Gogalić i
+Haris Ibrišagić</p>
+<p className="mb-4 text-blueGray-500">
+Posebnu zahvalnost, Direktorica je iskazala maturanticama i maturantima koje/i su dale/i  izuzetan doprinos našoj školi učešćem u raznoraznim vannastavnim aktivnostima:</p>
+<p className="mb-4 text-blueGray-500">
+Ardan Bečić, Amila Jažić, Lamija Dupovac, Emana Šahbaz, Tajra Lika, Dalila Čerkez, Anida Demir, Sara Biščević, Amna Zeba, Haris Ibrišagić, Emina Bošnjak, Azra Selimbegović, Iman Arapovic , Nađa Kadrić, Emina Šarić, Emina Kutlovac, Farah Kovačević, Ema Čaušević, Amina Dedajić, Malik Bektaš, Tarik Bostandzić, Sanita Spahović, Džejla Bakaran, Danis Alihodžić, Samil Karahmet, Arman Zukanović, Alem Čekrlija i Denis Cokić.</p>
+<p className="mb-4 text-blueGray-500">
+Posebno priznanje Direktorica je uručila maturantu, Ardanu Bečić, koji je sve svoje slobodno vrijeme tokom školovanja posvetio Školi učešćem u svim aktivnostima, uključujući i takmičenja u oblasti ekonomije.</p>
+<p className="mb-4 text-blueGray-500">
+Drage maturantice i dragi maturanti, pred vama su otvorena vrata budućnosti i sada je na vama da odlučite kojim putem ćete krenuti.</p>
+<p className="mb-4 text-blueGray-500">
+Zahvaljujemo našim dragim razrednicama, profesoricama i profesorima koje/i su vas vodile/i kroz ove četiri godine. Njihova predanost, strpljenje i mudrost ostavili su neizbrisiv trag u vašem odgoju i obrazovanju.</p>
+<p className="mb-4 text-blueGray-500">
+Posebnu zahvalnost upućujemo roditeljima koji su bili vaša stalna podrška, vjerovali u vas i pružali vam ljubav i ohrabrenje kada je bilo najpotrebnije.</p>
+<p className="mb-4 text-blueGray-500">
+Drage maturantice i dragi maturanti, vjerujemo u vas i vaše sposobnosti, vjerujemo da ćete nastaviti da rastete, učite i doprinosite zajednici na najbolji mogući način. Budite hrabri, slijedite svoje snove!</p>
+<p className="mb-4 text-blueGray-500">
+Iskrene čestitke i životne staze popločane najvišim uspjesima, svim srcem vam želimo!</p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  <video src={dodjela24} width="800" height="600" controls="controls" className="w-full align-middle rounded-lg"/> 
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">STUDIJSKA POSJETA OD RATA DO MIRA
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={bihac1} alt="" />
+                    </div>
+                    <div>
+                        <img src={bihac2} alt="" />
+                    </div>
+                    <div>
+                        <img src={bihac3} alt="" />
+                    </div>
+                    <div>
+                        <img src={bihac4} alt="" />
+                    </div>
+                    <div>
+                        <img src={bihac5} alt="" />
+                    </div>
+                    <div>
+                        <img src={bihac6} alt="" />
+                    </div>
+                    <div>
+                        <img src={bihac7} alt="" />
+                    </div>
+
+                   
+                    
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Ministarstvo za odgoj i obrazovanje Kantona Sarajevo ustanovilo je četverodnevnu studijsku posjetu pod nazivom OD RATA DO MIRA za učenike/ce prvih razreda srednjih škola Kantona Sarajevo. Institut za razvoj preduniverzitetskog obrazovanja Kantona Sarajevo je preuzeo ulogu koordinatora ovih aktivnosti. Projekt je u potpunosti finansiran iz Budžeta Kantona Sarajevo. Pohodi su uključili preko četiri hiljade srednjoškolaca. Ova inspirativna inicijativa provodi se u okviru programa Kultura sjećanja i obuhvata uzbudljivu rutu koja vodi učenike kroz centralni, sjeverni i zapadni dio Bosne.</p>
+<p className="mb-4 text-blueGray-500">
+Sadržaji ove studijske posjete imaju za cilj oblikovanje, razvijanje i očuvanje sjećanja na historijske trenutke, lokalitete, materijalnu i nematerijalnu baštinu naše domovine. Općenito, program Kultura sjećanja podrazumijeva niz aktivnosti koje se provode u cilju razvijanja, promoviranja i očuvanja kolektivne memorije, historije i kulturno-historijskog nasljeđa Bosne i Hercegovine. Program uključuje učenje o memorijalnim centrima, spomeničkim kompleksima, spomenicima, muzejima, bogomoljama, tradiciji i običajima naroda u Bosni i Hercegovini, kao i ostalim čuvarima prošlosti. Pored edukacije i razvijanja svijesti, podrazumijeva proučavanje povijesnih činjenica i rekonstrukciju prošlosti kroz organiziranje predavanja, historijskih časova, posjeta i radionica, obrazovnih materijala, arhivske građe, muzejskih eksponata, dokumenata, fotografija, te audio i videozapisa koji ističu značajne ličnosti i događaje iz bosanskohercegovačke prošlosti. Osim toga, nije zaboravljena ni antifašističku borba  naroda Bosne i Hercegovine u Drugom svjetskom ratu, kao i period odbrane države tokom agresije na Bosnu i Hercegovinu, odnosno obilježavanje značajnih godišnjica, datuma i događaja iz prošlosti,  kako bi se odavala počast i pijetet žrtvama, razvijao osjećaj empatije, patriotizma i samopoštovanja. Podrazumijeva promoviranje i uključivanje svih umjetničkih i kulturnih izraza, od likovne umjetnosti, književnosti, muzike, filma i ostalih oblika koji u svojim temama obrađuju značajne povijesne događaje, te prenose vrijednosti, sjećanja, svjedočanstva i emocije iz različitih vremenskih perioda prošlosti. Uvažavajući specifikum bosanskohercegovačke višestoljetne tradicije multikukturalnosti i multikonfesionalnosti, u cilju očuvanja raznolikosti i pluralizma, a u svjetlu posljednjih ratnih dešavanja, program promovira i podstiče dijalog, pomirenje i upoznavanje s činjenicama iz prošlosti s namjerom izgradnje trajnog  mira, povjerenja, zajedništva i saradnje. Ove aktivnosti pokrenute su u tekućoj školskoj 2023/24. godini. Učenici/ce naše škole su bili/e posljednja grupa sarajevskih srednjoškolaca u ovoj školskoj godini.</p>
+<p className="mb-4 text-blueGray-500">
+Program posjete počeo je obilaskom Muzeja franjevačkog samostana u Fojnici, vjekovnog čuvara bosanskohercegovačke duhovnosti i prošlosti. Muzej posjeduje neprocjenjivo vrijednu riznicu kulturno-historijskog naslijeđa Bosne. Muzejska zbirka i bibliotečki fond franjevačkog samostana su proglašeni za nacionalni spomenik Bosne i Hercegovine. Sljedeća posjeta je bila Šehidskom spomen obilježju u Ahmićima, nadomak Viteza. U Travniku, posjetili smo  Travničku tvrđavu ili Stari grad u Travniku, jedan  od najljepših i najočuvanijih utvrđenih objekata srednjovjekovne Bosne i Hercegovine, Šarenu džamiju ili Sulejmaniju, zbog neobičnih biljnih dekoracija na unutrašnjim i vanjskim zidovima i muzej Rodna kuća Ive Andrića. Na spratu objekta sagrađenog u stilu tradicionalne bosanske stambene arhitekture, pregledali smo  stalnu izložbenu postavku o životu i književnom djelu našeg nobelovca.  Spomen park Galica posvećen oslobodiocima Vlašića 1995. godine je bio naša sljedeća tačka puta.</p>
+<p className="mb-4 text-blueGray-500">
+Uslijedila je posjeta Prijedoru, memorijalnom kompleksu Šehidsko mezarje Kamičani – Kozarac gdje su uklesana imena ubijenih stanovnika ovog područja od 1992. do 1995. godine.</p>
+<p className="mb-4 text-blueGray-500">
+Boravili smo u hotelima Blanka i Pahuljica na Vlašiću, te u hotelu Safir u Bihaću. Treći dan smo obišli srednjovjekovni grad Bužim, Muzej 505. Viteške brigade, mezar legendarnog heroja Krajine, Izeta Nanića. Impresivna je  bila posjeta Velikoj Kladuši, čije zidine i kule kao da još uvijek stražare nad gradom i čuvaju zapadnu kapiju Bosne i Hercegovine, kuli krajiškog epskog junaka Muje Hrnjice, dvorcu Velika Kladuša, te bajkovitom dvorcu Ostrožac, simbolu Bosanske krajine. Uključuje tri različite historijske epohe značajne za historiju BiH, srednjovjekovni, osmanski i austrougarski dio.Na kraju, obišli smo staru jezgru grada Bihaća i Japodske otoke, koji predstavljaju kulturno-arheološko područje, smješteno u naselju Račić nadomak Bihaća, okružene zelenilom i kraljicom rijeka zemlje Bosne, rijekom Unom. Pet drvenih mostića povezuju pet riječnih ada, koje gledajući iz zraka daju jedinstvenu sliku  “srca prirode”. Posjetili smo  i kraljevski grad Jajce, prijestolnicu bosanskih kraljeva u srednjem vijeku, muzej pod otvorenim nebom. Sa stare tvrđave se pruža prelijep pogled na grad, a tvrđava i stari grad svjedoci su burne prošlosti Jajca. Nevjerovatno je doći ovdje, osjetiti ovu građevinu koja dominira nad gradom, osjetiti dah prošlih vremena i zamisliti kako je zapravo ovdje izgledao život. </p>
+<p className="mb-4 text-blueGray-500">
+Obišli smo i Muzej II zasjedanja AVNOJ-a. Novom, stalnom postavkom naglašene su i istaknute osnovne značajke i različitosti antifašističkog pokreta u Jugoslaviji u odnosu na antifašističke pokrete drugih zemalja. Muzej II zasjedanja AVNOJ-a je čuvar sjećanja na antifašističku tradiciju naroda regije i Evrope. Zanimale su nas odluke Drugog zasijedanja AVNOJ-a i njihov historijski značaj. Muzej je posvećen antifašizmu kao svjetskoj pojavi i kustosi muzeja su nam pružili doživljaj tog dijela naše prošlosti. </p>
+<p className="mb-4 text-blueGray-500">
+Na svim ovim lokalitetima smo imali vrhunske vodiče,  kustose muzeja,  turističke vodiče, profesore historije, lokalne imame i fratre. Učenici/ce su ispoljili/e veliko  interesovanje  za sve edukativne sadržaje. Vodiči su profesionalno i sa puno entuzijazma držali historijska predavanja, čak i u autobusima, kad se nije moglo biti na otvorenom zbog jake kiše. Organizacija studijske posjete bila je vrhunska, a za uposlenike agencije, vozače, vodiče Biss Tours-a možemo reći da smo impresionirani njihovim profesionalizmom, entuzijazmom i spremnošću da nam prirede vrhunske doživljaje.Tokom putovanja, imali smo i medicinsku pratnju, na sreću,  sa neznatnim intervencijama. Ovdje recimo i da smo izuzetno ponosni na ponašanje i dostojanstvo naših učenika/ca tokom realizacije višednevnog putovanja. Profesori/ce naše škole Suvada Trako, Suada Tadić, Sead Šljivnjak, Azemina Hujdur, Alma Karamujić, Muhidin Karčić i Ševala Čaušević su uložili izniman napor da sve protekne u najboljem redu.  Brinuli su za sigurnost djece, omogućili im da uče, da se druže ali i zabave.</p>
+<p className="mb-4 text-blueGray-500">
+Nadamo se da će ova studijska posjeta biti inspiracija za sve naše učenike/ce da budu promotori mira, tolerancije i pomirenja, te prokrčiti put boljoj i harmoničnijoj budućnosti za sve nas. Ova studijska posjeta je svojevrsna promocija programa Kulture sjećanja da svi zajedno podižemo svijest o  značaju kulturno-povijesnog nasljeđa i promoviramo odgovornost za njegovo očuvanje. Esencijalno je mladima  isticanje bogatstva i unikatnosti bosanskohercegovačke tradicije i kulture, te činjenice da je kulturno nasljeđe sastavni dio našeg identiteta. Ovo putovanje bila je promocija raznolikosti i pluralizma BiH, prijateljstva, susreta, dijaloga, te objektivno upoznavanje sa historijskim činjenicama s namjerom izgradnje trajnog mira, zajedništva i saradnje na ovim prostorima. Svi učesnici ovog nezaboravnog putovanja napojili su dušu, srce i oči neizrecivom ljepotom prirode zemlje Bosne, njene kulturne baštine, nijemih svjedoka njene burne prošlosti i gdje god smo došli, ugrijao nam je dušu dobri duh dobrih Bošnjana! </p>
+<p className="mb-4 text-blueGray-500">
+Neka je vječna naša domovina Bosna i Hercegovina!</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Posjeta bratskoj školi Mustafa Kemal Anadolu Lisesi u Istanbulu
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={ista1} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista2} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista3} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista4} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista5} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista6} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista7} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista8} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista9} alt="" />
+                    </div>
+                   
+                    
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Radost ponovnog susreta sa dragim prijateljima iz Istanbula, uslijedila je uzvratnom posjetom našem gradu.</p>
+<p className="mb-4 text-blueGray-500">
+Direktor bratske škole, Yuksel Kahraman, profesorice Duygu i Zeynep, bili su pratnja učenicama i učenicima, koje/i su, u svojim domovima u Istanbulu, ugostile/i učenice i učenici naše škole.</p>
+<p className="mb-4 text-blueGray-500">
+Nakon dočeka gostiju na sarajevskom aerodromu, uputili smo se prema Školi, gdje su roditelji i djeca domaćini zajedno sa našim profesoricama Suvadom Trako,  Lejlom Avdagić, pedagogicom Amilom Kurtalić, direktoricom Amirom Kadrispahić, profesorom Senom Čolo i Munirom Šehić, priredili toplu dobrodošlicu i bogatu tradicionalnu  trpezu. Druženje je trajalo do kasnih večernjih sati.</p>
+<p className="mb-4 text-blueGray-500">
+Sutradan je organizovana posjeta Mostaru, gradu za koji su naši gosti iskazali veliko interesovanje i želju da ga posjete. Potrudili smo se da dožive mostarske draži, ali nismo propustili ni priliku da ih odvedemo na Vrelo Bune, što je na njih ostavilo poseban utisak. Obilazak Tekije i kahva uz hladnu rijeku, dale su poseban pečat posjeti gradu na Neretvi.</p>
+<p className="mb-4 text-blueGray-500">
+Fascinirani znanjem naših gostiju o rahmetli Predsjedniku, Aliji Izetbegović, divljenje njegovom liku i djelu, bilo je razlogom posjete Muzeju i mezaru rahmetli Predsjednika, gdje smo proučili Fatihu i zajedno uživali u dodatnim informacijama koje nam je kazivao kustos Muzeja. </p>
+<p className="mb-4 text-blueGray-500">
+Neizostavno je sve goste našeg Šehera počastiti čuvenim sarajevskim ćevapima. Mi smo se odlučili za čuvenog Ferhatovića i nakon oduševljenja gostiju ukusom i ljubaznošću zaposlenih, bili smo sigurni da smo birali najbolje.</p>
+<p className="mb-4 text-blueGray-500">
+Posebno oduševljenje izazvala je šetnja Baščaršijom i toliko dodirnih tačaka, kako u kulturi, tradiciji, tako i u građevinama Osmanskog perioda.</p>
+<p className="mb-4 text-blueGray-500">
+Posebnu čast ukazali su nam predstavnici Fondacije Yunus Emre, koji su nas ugostili i detaljnije upoznali sa svojim aktivnosstima i upriličili ugodno druženje uz orginalni turski čaj, kojeg smo, također, uz orginalnu tursku baklavu, degustirali i u novootvorenom turskom restoranu našeg učenika Adema Arslana u Ferhadiji.</p>
+<p className="mb-4 text-blueGray-500">
+Toplom dobrodošlicom, prezentacijom aktivnosti i ukusnim ručkom, počastili su nas i menadžeri IUS Univerziteta. </p>
+<p className="mb-4 text-blueGray-500">
+Posljednji dan našeg druženja protekao je u dodatnim školskim aktivnostima i planiranju zajedničkih aktivnosti za nastavak saradnje. Uz obilje emocija i suza zbog rastanka, ispratili smo naše goste u nadi da smo bili dobri domaćini i da smo uspjeli potaknuti njihovu želju da opet dođu u Sarajevo.</p>
+<p className="mb-4 text-blueGray-500">
+Zahvaljujemo svima koji su nam pomogli da ovo druženje ostane u nezaboravnom sjećanju našim gostima. Posebnu zahvalnost iskazujemo Agenciji Biss Tours, koja nam je bila na usluzi sve vrijeme realizacije izuzetno značajnog Projekta za našu školu.
+
+</p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Učenici naše škole na Međunarodnom sajmu preduzeća za vježbu u Plovdivu
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={plovdiv1} alt="" />
+                    </div>
+                    <div>
+                        <img src={plovdiv2} alt="" />
+                    </div>
+                    <div>
+                        <img src={plovdiv3} alt="" />
+                    </div>
+                    <div>
+                        <img src={plovdiv4} alt="" />
+                    </div>
+                    <div>
+                        <img src={plovdiv5} alt="" />
+                    </div>
+                    <div>
+                        <img src={plovdiv6} alt="" />
+                    </div>
+                   
+                    
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Učenici četvrtog razreda, Ardan i Danis, učestvovali su na Međunarodnom sajmu preduzeća za vježbu u Plovdivu, a u pratnji direktorice Škole, Amire Kadrispahić.</p>
+<p className="mb-4 text-blueGray-500">
+Sajam se održava <b>dvadeset i sedam godina i prvi put je predstavljena Bosna i Hercegovina</b> od početka realizacije Sajma. Naši učenici su predstavili školsko preduzeće Ecotours koje je izazvalo veliku pažnju posjetilaca, a posebno interesovanje iskazano je za vodopad Kravice.</p>
+<p className="mb-4 text-blueGray-500">
+Učešće naše države obezbijeđeno je u okviru BRIDGE projekta kojeg sufinansira Evropska unija, a implementira CPCD kao partner iz naše zemlje.</p>
+<p className="mb-4 text-blueGray-500">
+Zahvaljujemo CPCD organizaciji koja nam je ukazala čast da prvi put u dvadeset i sedam godina realizacije izuzetno značajnog Sajma, dostojanstveno predstavimo našu domovinu.</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Posjeta JU Srednja škola za okoliš i drvni dizajn
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={zadnjeee1} alt="" />
+                    </div>
+                    <div>
+                        <img src={zadnjeee2} alt="" />
+                    </div>
+                   
+                    
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  U srijedu, 05. juna 2024. godine učenici I5 odjeljenja u pratnji profesorice ekologije Merime Likić i profesorice  historije Azemine Hujdur, posjetili su izložbu pod nazivom „Svrzina kuća - Vedra kuća u mirisu ruža“, autora Mustafe Arslanagića i Selme Oruč. </p>
+<p className="mb-4 text-blueGray-500">
+Izložba je organizovana u JU Srednja škola za okoliš i drvni dizajn, u povodu Dana zaštite okoliša.</p>
+<p className="mb-4 text-blueGray-500">
+Na samom početku posjete učenicima se obratila profesorica Bojana Pintarić-Avdagić, koja ih je kroz edukativno predavanja upoznala sa dugogodišnjom tradicijom bosanske bašče i uzgojem raznovrsnog ukrasnog bilja: zumbula, kadifica, hadžibega, latifica, ruža i drugih. Neke  od ovih biljaka i danas krase mnoge bosanske avlije. Naglasila je važnost očuvanja autohtonih biljaka kako bismo sačuvali kulturno naslijeđe. Zbog toga bi od velike važnosti bilo da svaka škola u svom dvorištu ima jedan dio kojeg će krasiti upravo naše autohtono bilje i grmovi.</p>
+<p className="mb-4 text-blueGray-500">
+Čuvajmo vrijednosti naše kulturne baštinu i potičimo interes za njeno očuvanje.</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
