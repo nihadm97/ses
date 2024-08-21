@@ -9,12 +9,13 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import UpisNavbar from "components/Navbars/UpisNavbar";
 import Footer from "components/Footers/Footer.js";
-import upis1 from './images/upis1.webp';
-import video1 from './video.mp4';
+import upisnovo from './images/upisnovo.jpg';
+//import video1 from './video.mp4';
 import historija1 from './images/historija1.webp';
 import historija2 from './images/historija2.webp';
 import historija3 from './images/historija3.webp';
 import historija4 from './images/historija4.webp';
+import video1 from './images/dodjela24.mp4';
 
 
 
@@ -228,7 +229,7 @@ Ovo odlikovanje bilo je priznanje za sve generacije učenika, profesora i drugih
 
               <div className="w-full md:w-4/12 px-4 mr-auto ml-auto" >
                 <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-lightBlue-500" style={{backgroundColor: '#92d050'}}>
-                <img src={upis1} alt="Logo" width={"100"} height={"100"} className="w-full align-middle rounded-t-lg"/>
+                <img src={upisnovo} alt="Logo" width={"100"} height={"100"} className="w-full align-middle rounded-t-lg"/>
                   <blockquote className="relative p-8 mb-4" >
                     <svg
                       preserveAspectRatio="none"

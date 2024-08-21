@@ -724,6 +724,19 @@ import plovdiv3 from './images/plovdiv3.jpg';
 import plovdiv4 from './images/plovdiv4.jpg';
 import plovdiv5 from './images/plovdiv5.jpg';
 import plovdiv6 from './images/plovdiv6.jpg';
+import plovdiv0 from './images/plovdiv0.jpg';
+import plovdiv00 from './images/plovdiv00.jpg';
+
+import turci1 from './images/turci1.jpg';
+import turci2 from './images/turci2.jpg';
+import turci3 from './images/turci3.jpg';
+import turci4 from './images/turci4.jpg';
+import turci5 from './images/turci5.jpg';
+import turci6 from './images/turci6.jpg';
+import turci7 from './images/turci7.jpg';
+import turci8 from './images/turci8.jpg';
+import turci9 from './images/turci9.jpg';
+import turci10 from './images/turci10.jpg';
 
 import ista1 from './images/ista1.jpg';
 import ista2 from './images/ista2.jpg';
@@ -734,6 +747,14 @@ import ista6 from './images/ista6.jpg';
 import ista7 from './images/ista7.jpg';
 import ista8 from './images/ista8.jpg';
 import ista9 from './images/ista9.jpg';
+
+import mars1 from './images/mars1.jpg';
+import mars2 from './images/mars2.jpg';
+import mars3 from './images/mars3.jpg';
+import mars4 from './images/mars4.jpg';
+import mars5 from './images/mars5.jpg';
+import mars6 from './images/mars6.jpg';
+import mars7 from './images/mars7.jpg';
 
 import bihac1 from './images/bihac1.jpg';
 import bihac2 from './images/bihac2.jpg';
@@ -762,6 +783,14 @@ import dodjela16 from './images/dodjela255.jpg';
 
 import dodjela24 from './images/dodjela24.mp4';
 
+import marsput from './images/marsput.jpg';
+import marsput1 from './images/marsput1.jpg';
+import marsput2 from './images/marsput2.jpg';
+import marsput3 from './images/marsput3.jpg';
+import marsput4 from './images/marsput4.jpg';
+import marsput5 from './images/marsput5.jpg';
+
+
 
 const Projekti = () => {
   useEffect(() => {
@@ -782,6 +811,138 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">NAŠI UČENICI U KOLONI MARŠA MIRA 
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={marsput} alt="" />
+                    </div>
+                    <div>
+                        <img src={marsput2} alt="" />
+                    </div>
+                    <div>
+                        <img src={marsput3} alt="" />
+                    </div>
+                    <div>
+                        <img src={marsput4} alt="" />
+                    </div>
+                    <div>
+                        <img src={marsput5} alt="" />
+                    </div>
+                    <div>
+                        <img src={marsput1} alt="" />
+                    </div>
+         
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  <b>Marš mira</b> je memorijalni pješački pohod  koji se održava u sklopu obilježavanja godišnjice genocida nad Bošnjacima u Srebrenici i njenoj okolini s ciljem odavanja počasti žrtvama genocida  te podsjećanja na stravične zločine koje su počinile vojne strukture Republike Srpske, potpomognute snagama iz Srbije, nad Bošnjacima iz zaštićene UN-a, Srebrenica u julu 1995. Srbija je odlukom Međunarodnog krivičnog suda u Hagu označena je kao odgovorna što nije učinila ništa da se genocid spriječi i da kazni počinitelje. Marš mira je međunarodnog karaktera, sa učesnicima iz većine evropskih zemalja pa čak i iz Amerike i Australije. Kolonu Marša mira predvodili  su veterani koji su uspjeli preživjeti put smrti i genocid iz jula 1995. godine. Prvi marš održan je 2005. godine, povodom obilježavanja desete godišnjice genocida. Ova godina je posebno značajna, jer se obilježava 20. godišnjica prvog Marša mira.</p>
+<p className="mb-4 text-blueGray-500">
+Više od četiri hiljade učesnika je 8. jula krenulo iz Nezuka, pored Tuzle, na stotinu kilometara dug Marš mira ka Srebrenici i na taj način dali doprinos sjećanju na žrtve genocida i promicanju mira i kulture sjećanja. Rezolucijom UN-a 11. juli je proglašen Međunarodnim danom sjećanja i obilježavanja genocida počinjenog u Srebrenici 1995, koji će se obilježavati svake godine. Takođe, osuđuje se svako negiranje genocida u Srebrenici i pozivaju se sve države da to spriječe čuvanjem utvrđenih činjenica, uključujući i kroz svoje obrazovne sisteme. O genocidu u Srebrenici učit će se u školama širom svijeta. Učesnici su pješačili tri dana,  istim stazama kojima su se Srebreničani u julu 1995. godine pokušavali probiti do slobodne teritorije u Tuzli ili Kladnju. Ovom stazom u suprotnom smjeru, od Potočara do Nezuka, su se u julu 1995. godine izvlačili i probijali Bošnjaci prilikom okupacije i zauzimanja zone Srebrenica od strane srpskih vojnih i policijskih formacija. Učesnici su po završetku Marša mira, 11. jula prisustvovali komemoraciji i kolektivnoj dženazi, ukopu četrnaest identificiranih žrtava genocida, pronađenih u nekoj od masovnih grobnica s lokaliteta kojima su i sami prolazili u sklopu planirane maršrute. Dio  Marša mira bili su  moto-maraton, biciklistički maraton i ultra maraton. Historijski čas je održan na dijelu Kamenjačka Bukva. <b>Profesor Sejad Šenderović i učenici II4 razreda Emin Delić, Adem Idrizović, Eman Oruč i Kerim Bajramović su uzeli učešća u ovogodišnjem maršu mira.</b>
+</p>
+<p className="mb-4 text-blueGray-500">
+<b>Projekat je iniciralo Ministarstvo za odgoj i obrazovanje Kantona Sarajevo i Institut za razvoj preduniverzitetskog obrazovanja Kantona Sarajevo, a podržalo Federalno ministarstvo rada i socijalne politike.</b> Cilj projekta je okupiti učenike, nastavnike i direktore srednjih škola Kantona Sarajevo, kako bi zajedno, na dvadesetu godišnjicu Marša mira i godinu usvajanja Rezolucije o genocidu u Srebrenici od strane Generalne skupštine UN-a, odali počast žrtvama te potaknuli dijalog o važnosti mira, tolerancije i zajedničkog života. Namjera je da gradimo i njegujemo kulturu sjećanja, i to sistemski, kroz obrazovni sistem. Prisjetili smo se žrtava genocida u Srebrenici i ovim želimo odgojiti nove generacije da pamte i da svojom moralnom snagom promovišu mir, sjećanje i solidarnost ovdje i u svijetu, uvažavaju sve ljude bez obzira na ime, vjeru i naciju i na taj način im pomažemo da zajedno grade bolji svijet. <b>Institutucionalizacija i memorizacija kulture sjećanja na počinjen genocid u Srebrenici je ključ naše zajedničke težnje za boljim, tolerantnijim i pravednijim svijetom! Da se više nikada i nikome ne ponovi!</b>
+</p>
+<p className="mb-4 text-blueGray-500">
+Marš ima za cilj i izgradnju, unapređenje i njegovanje kulture sjećanja na genocid nad Bošnjacima u Srebrenici te onemogućavanje negiranja, poricanja i relativiziranja zločina genocida. Marš mira je i prilika da svi učimo univerzalnu ljudsku i moralnu lekciju iz Srebrenice,  da  svi  ustanemo ujedinjeni u borbi za istinu i pravdu, ali je i svjetionik sjećanja, istine i nade za buduće generacije!  Ponosni smo na našeg profesora i učenike koji su odali najdublje poštovanje i počast žrtvama genocida Srebrenice, ali i preživjelima da njihovi najmiliji nikada neće biti zaboravljeni!</p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Pripreme za pohod Marš mira
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={mars1} alt="" />
+                    </div>
+                    <div>
+                        <img src={mars2} alt="" />
+                    </div>
+                    <div>
+                        <img src={mars3} alt="" />
+                    </div>
+                    <div>
+                        <img src={mars4} alt="" />
+                    </div>
+                    <div>
+                        <img src={mars5} alt="" />
+                    </div>
+                    <div>
+                        <img src={mars6} alt="" />
+                    </div>
+                    <div>
+                        <img src={mars7} alt="" />
+                    </div>
+         
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  U prostorijama naše škole, izvršene su posljednje pripreme za realizaciju pohoda Marš mira, a u organizaciji Ministarstva odgoja i obrazovanja i Instituta za preduniverzitetsko obrazovanje Kantona Sarajevo.</p>
+<p className="mb-4 text-blueGray-500">
+Na ovogodišnjem Maršu mira, koji će se realizovati od 8. do 11. jula, kada je planirana i kolektivna dženaza u Potočarima, učestvovat će i naši učenici: Kerim Bajramović, Emin Delić, Adem Idrizović i Eman Oruč (II-4) u pratnji profesora Sejada Šenderović.</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
@@ -998,10 +1159,10 @@ Neka je vječna naša domovina Bosna i Hercegovina!</p>
             </div>
             </div>
           </section>
-    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
-              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Posjeta bratskoj školi Mustafa Kemal Anadolu Lisesi u Istanbulu
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Posjeta bratske škole iz Istanbula
 
 
 
@@ -1015,31 +1176,34 @@ Neka je vječna naša domovina Bosna i Hercegovina!</p>
                   <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
                   <div>
-                        <img src={ista1} alt="" />
+                        <img src={turci1} alt="" />
                     </div>
                     <div>
-                        <img src={ista2} alt="" />
+                        <img src={turci2} alt="" />
                     </div>
                     <div>
-                        <img src={ista3} alt="" />
+                        <img src={turci3} alt="" />
                     </div>
                     <div>
-                        <img src={ista4} alt="" />
+                        <img src={turci4} alt="" />
                     </div>
                     <div>
-                        <img src={ista5} alt="" />
+                        <img src={turci5} alt="" />
                     </div>
                     <div>
-                        <img src={ista6} alt="" />
+                        <img src={turci6} alt="" />
                     </div>
                     <div>
-                        <img src={ista7} alt="" />
+                        <img src={turci7} alt="" />
                     </div>
                     <div>
-                        <img src={ista8} alt="" />
+                        <img src={turci8} alt="" />
                     </div>
                     <div>
-                        <img src={ista9} alt="" />
+                        <img src={turci9} alt="" />
+                    </div>
+                    <div>
+                        <img src={turci10} alt="" />
                     </div>
                    
                     
@@ -1097,6 +1261,95 @@ Zahvaljujemo svima koji su nam pomogli da ovo druženje ostane u nezaboravnom sj
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Posjeta bratskoj školi Mustafa Kemal Anadolu Lisesi u Istanbulu
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={ista1} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista2} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista3} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista4} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista5} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista6} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista7} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista8} alt="" />
+                    </div>
+                    <div>
+                        <img src={ista9} alt="" />
+                    </div>
+                  
+                   
+                    
+                    
+                    
+                    
+                    
+          
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Učenice i učenici III I IV razreda, posjetili su bratsku školu Mustafa Kemal Anadolu Lisesi u Istanbulu, a u pratnji direktorice Škole, Amire Kadrispahić, pedagogice Amile Kurtalić i profesorica Suvade Trako, Lejle Avdagić, Larise Kekić i Munira Šehić.
+U školi je priređen srdačan i topao doček, gdje su nam domaćini veoma detaljno predstvaili tursku kulturu i tradiciju. Pored direktora, profesorica i profesora, dobrodošlicu su nam iskazali i roditelji koji su se potrudili da školsku sofru obogate i jelima koja su lično pripremali za nas.</p>
+<p className="mb-4 text-blueGray-500">
+Svakodnevne školske radionice omogućile su nam da se detaljnije upoznamo sa Nastavnim planom i programom bratske škole, te da razmijenimo ideje koje su od velikoog značaja za odgojno-obrazovni proces u obje škole.</p>
+<p className="mb-4 text-blueGray-500">
+Posjetili smo i Općinsko Ministarstvo obrazovanja, te Karadeniz Vakuf u kojem smo kroz različite aktivnosti bili u prilici pobliže osjetiti duh naroda Turske. Također, posjetili smo i osnovnu školu “Şehit Muharrem Kerem Yıldız İmam Hatip Ortaokolu”
+Istanbulsku čaroliju posebno smo osjetili obilaskom historijske jezgre Eminönü.
+Posljednji dan našeg druženja učenice i učenici su provele/i u zajedničkom obilasku shopping centara i neizostavnom krstarenju Bosforom.</p>
+<p className="mb-4 text-blueGray-500">
+Posebnu draž bratske saradnje doživjele/i su učenice i učenici, jer su neki od njih prvi put bili u prilici da putuju izvan naše domovine, za neke je ovo bila prva posjeta Istanbulu, a njihov boravak u porodičnom ambijentu, izrodio je nova životna prijateljstva.
+</p>
+<p className="mb-4 text-blueGray-500">
+Zahvaljujemo našim domaćinima za divno gostoprimstvo koje će dugo ostati u našem sjećanju.
+</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
               <h6 className="text-xl mb-1 font-semibold text-center uppercase">Učenici naše škole na Međunarodnom sajmu preduzeća za vježbu u Plovdivu
 
 
@@ -1110,6 +1363,12 @@ Zahvaljujemo svima koji su nam pomogli da ovo druženje ostane u nezaboravnom sj
                   <div className="py-5 flex-auto">
                   <Carousel interval="10000" transitionTime="1000" infiniteLoop>
                       
+                  <div>
+                        <img src={plovdiv0} alt="" />
+                    </div>
+                    <div>
+                        <img src={plovdiv00} alt="" />
+                    </div>
                   <div>
                         <img src={plovdiv1} alt="" />
                     </div>

@@ -33,6 +33,12 @@ import erasmus8 from './images/erasmus8.jpg';
 import mu1 from './images/mu1.jpg';
 import mu2 from './images/mu2.jpg';
 
+import kamp1 from './images/kamp1.jpg';
+import kamp2 from './images/kamp2.jpg';
+import kamp3 from './images/kamp3.jpg';
+import kamp4 from './images/kamp4.jpg';
+import kamp5 from './images/kamp5.jpg';
+
 const Projekti = () => {
   useEffect(() => {
     AOS.init({duration: 2000});
@@ -52,6 +58,69 @@ const Projekti = () => {
   return (
     <>
     <ProjektiNavbar fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+          <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+    <h6 className="text-xl mb-1 font-semibold uppercase mr-2">eTwinning ljetni kamp</h6>
+</span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={kamp1} alt="" />
+                    </div>
+                    <div>
+                        <img src={kamp2} alt="" />
+                    </div>
+                    <div>
+                        <img src={kamp3} alt="" />
+                    </div>
+                    <div>
+                        <img src={kamp4} alt="" />
+                    </div>
+                    <div>
+                        <img src={kamp5} alt="" />
+                    </div>
+            
+                    
+                    
+                    
+                    
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+
+                  <p className="mb-4 text-blueGray-500">
+                  Od 20. do 21. augusta je, u prelijepom  Konjicu, održan Ljetni eTwinning kamp za početnike "eTwinning je VAŠ-pokaži šta ZNAŠ!". Kamp je održan u organizaciji Državne agencije APOSO, koja ima ulogu Drzavnog koordinatora za eTwinning u Bosni i Hercegovini.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Bila je to prilika za susret eTwinnera iz cijele Bosne i Hercegovine, za razmjenu ideja, inovacije postojećih praksi, te za dobro druženje.
+</p> 
+<p className="mb-4 text-blueGray-500">
+Profesorica Lejla Hujdur, kao eTwinning ambasadorica Bosne i Hercegovine, je uzela aktivno učešće u ovom događaju: bila je voditeljica nekoliko eTw radionica, te jedna od moderatorica na plenarnim sesijama. 
+Uvjereni smo da će se iz brojnih zanimljivih i kreativnih aktivnosti sa kampa izroditi mnoštvo dobrih eTwinning projekata u kojima će i eTwinning tim naše škole uzeti učešće.
+</p> 
+
+
+             
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
           <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>

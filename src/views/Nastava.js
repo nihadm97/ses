@@ -9,49 +9,79 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import NastavaNav from "components/Navbars/NastavaNavbar";
 import Footer from "components/Footers/Footer.js";
+import { useState } from 'react';
+
 
 export default function Nastava() {
   useEffect(() => {
     AOS.init({duration: 2000});
   }, []);
+
+    const [showBankarski, setShowBankarski] = useState('ekonomski tehničar:');
+
+    const toggleText = () => {
+      setShowBankarski(!showBankarski);
+    };
   return (
     <>
       <NastavaNav transparent />
       <main>
-
-        <section className="pb-20 bg-blueGray-200 -mt-24" style={{paddingTop: "15%"}}>
-          <div className="container mx-auto px-4 text-center md:text-left">
-            <div className="flex flex-wrap items-center mt-32">
-              <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
-              <h3 className="text-3xl mb-2 font-semibold leading-normal">Predmeti koji se izučavaju u prvom razredu:</h3>
-              <ul className="text-lg leading-relaxed mt-4 mb-4">
-                <li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li>
-                <li>Engleski jezik</li>
-                <li>Njemački jezik</li>
-                <li>Tjelesni i zdravstveni odgoj </li>
-                <li>Matematika</li>
-                <li>Historija/Povijest</li>
-                <li>Vjeronauka ili Kultura  religija</li>
-                <li>Informatika</li>
-                <li>Fizika (Osnove ekonomije za smjer bankarski tehničar)</li>
-                <li>Ekologija</li>
-                <li>Geografija i ekonomska geografija</li>
-                <li>Hemija i tehnologija sa poznavanjem robe</li>
-                <li>Daktilografija sa poslovnim komunikacijama</li>
-                <li>Tehnike bankarskog računanja (za smjer bankarski tehničar)</li>
-                <li>Bankarsko poslovanje (za smjer bankarski tehničar)</li>
-              </ul>
-              </div>
-              <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
-                <img
-                  alt="..."
-                  className="max-w-full rounded-lg shadow-lg"
-                  src={Video1}
-                />
-              </div>
-            </div>
+      <section className="pb-20 bg-blueGray-200 -mt-24" style={{ paddingTop: '15%' }}>
+      <div className="container mx-auto px-4 text-center md:text-left">
+        <div className="flex flex-wrap items-center mt-32">
+          <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
+            <h3 className="text-3xl mb-2 font-semibold leading-normal">
+              Predmeti koji se izučavaju u prvom razredu za
+              <button
+                className="ml-2 px-4 py-2 bg-blue-500 text-white rounded"
+                style={{
+                  backgroundColor: showBankarski ? 'rgb(254, 125, 1)' : 'rgb(146, 208, 80)',
+                }}
+                onClick={toggleText}
+              >
+                {showBankarski ? 'bankarski tehničar:' : 'ekonomski tehničar:'}
+              </button>
+            </h3>
+            <ul className="text-lg leading-relaxed mt-4 mb-4">
+              <li>BHS jezik i knjiženost</li>
+              <li>Engleski jezik</li>
+              <li>Njemački jezik / Turski jezik</li>
+              <li>Tjelesni i zdravstveni odgoj</li>
+              <li>Matematika</li>
+              <li>Historija</li>
+              <li>Vjeronauka ili Kultura religija</li>
+              <li>Informatika</li>
+              <li>Daktilografija sa poslovnim komunikacijama</li>
+              <li>Ekologija</li>
+              {!showBankarski ? (
+                <>
+                  <li>Fizika</li>
+                  <li>Geografija i ekonomska geografija</li>
+                  <li>Hemija i tehnologija sa poznavanjem robe</li>
+                  
+                </>
+              ) : (
+                <>
+                  <li>Osnove ekonomije</li>
+                  <li>Geografija</li>
+                  <li>Hemija</li>
+                  <li>Tehnike bankarskog računanja</li>
+                  <li>Bankarsko poslovanje</li>
+                </>
+              )}
+            </ul>
           </div>
-        </section>
+          <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
+            <img
+              alt="..."
+              className="max-w-full rounded-lg shadow-lg"
+              src={Video1}
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+        
 
         <section className="relative py-20">
           <div
@@ -86,18 +116,47 @@ export default function Nastava() {
               </div>
               <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
                 <div className="md:pr-12">
-                <h3 className="text-3xl font-semibold">Predmeti koji se izučavaju u drugom razredu:</h3>
-                <ul className="mt-4 text-lg leading-relaxed"><li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li>
+                <h3 className="text-2xl mb-2 font-semibold leading-normal">Predmeti koji se izučavaju u drugom za
+                <button
+                className="ml-2 px-4 py-2 bg-blue-500 text-white rounded"
+                style={{
+                  backgroundColor: showBankarski ? 'rgb(254, 125, 1)' : 'rgb(146, 208, 80)',
+                }}
+                onClick={toggleText}
+              >
+                {showBankarski ? 'bankarski tehničar:' : 'ekonomski tehničar:'}
+              </button>
+                </h3>
+                <ul className="mt-4 text-lg leading-relaxed"><li>BHS jezik i knjiženost</li>
                 <li>Engleski jezik</li>
-                <li>Njemački jezik (Poslovni njemački jezik za smjer bankarski tehničar)</li>
                 <li>Tjelesni i zdravstveni odgoj </li>
                 <li>Matematika</li>
-                <li>Historija/Povijest (Bankarsko poslovanje za smjer bankarski tehničar)</li>
                 <li>Vjeronauka ili Kultura  religija</li>
-                <li>Informatika (Poslovna informatika za smjer bankarski tehničar)</li>
-                <li>Marketing (Marketing u bankarstvu za smjer bankarski tehničar</li>
-                <li>Biznis ekonomija (Tehnike bankarskog računanja za smjer bankarski tehničar)</li>
-                <li>Praktična nastava u bankama (za smjer bankarski tehničar)</li></ul>
+                {!showBankarski ? (
+                <>
+                  <li>Historija</li>
+                  <li>Njemački jezik / Turski jezik</li>
+                  <li>Informatika</li>
+                  <li>Marketing</li>
+                  <li>Biznis ekonomija</li>
+
+
+                  
+                </>
+              ) : (
+                <>
+                  <li>Bankarsko poslovanje</li>
+                  <li>Poslovni njemački jezik / Turski jezik</li>
+                  <li>Poslovna informatika</li>
+                  <li>Marketing u bankarstvu</li>
+                  <li>Tehnike bankarskog računanja</li>
+                  <li>Bankarsko poslovanje</li>
+                  <li>Praktična nastava u bankama 2 dana sedmično</li>
+
+                </>
+              )}
+                
+                </ul>
                   
                 </div>
               </div>
@@ -108,20 +167,48 @@ export default function Nastava() {
           <div className="container mx-auto px-4 text-center md:text-left">
             <div className="flex flex-wrap items-center mt-32">
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
-              <h3 className="text-3xl mb-2 font-semibold leading-normal">Predmeti koji se izučavaju u trećem razredu:</h3>
+              <h3 className="text-3xl mb-2 font-semibold leading-normal">Predmeti koji se izučavaju u trećem razredu za
+              <button
+                className="ml-2 px-4 py-2 bg-blue-500 text-white rounded"
+                style={{
+                  backgroundColor: showBankarski ? 'rgb(254, 125, 1)' : 'rgb(146, 208, 80)',
+                }}
+                onClick={toggleText}
+              >
+                {showBankarski ? 'bankarski tehničar:' : 'ekonomski tehničar:'}
+              </button>
+              </h3>
               <ul className="text-lg leading-relaxed mt-4 mb-4">
-                <li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li>
+                <li>BHS jezik i knjiženost</li>
                 <li>Engleski jezik</li>
-                <li>Njemački jezik (Poslovni njemački jezik)</li>
                 <li>Tjelesni i zdravstveni odgoj</li>
                 <li>Matematika</li>
-                <li>Vjeronauka ili Kultura  religija</li>
+                <li>Vjeronauka ili Kultura religija</li>
                 <li>Građansko obrazovanje/Demokracija i ljudska prava</li>
-                <li>Marketing (Bankarsko poslovanje za smjer bankarski tehničar)</li>
-                <li>Biznis ekonomija</li>
-                <li>Informatičke tehnologije</li>
-                <li>Ekonomska matematika (Uvod u bankarsko poslovanje za smjer bankarski tehničar)</li>
-                <li>Praktična nastava u bankama (za smjer bankarski tehničar)</li></ul>
+                {!showBankarski ? (
+                <>
+                  <li>Njemački jezik / Turski jezik</li>
+                  <li>Marketing</li>
+                  <li>Biznis ekonomija</li>
+                  <li>Informatičke tehnologije</li>
+                  <li>Ekonomska matematika</li>
+
+
+
+
+                  
+                </>
+              ) : (
+                <>
+                  <li>Uvod u poslovno pravo</li>
+                  <li>Poslovni njemački jezik / Turski jezik</li>
+                  <li>Bankarsko poslovanje</li>
+                  <li>Praktična nastava u bankama 3 dana sedmično</li>
+
+                </>
+              )}
+                
+                </ul>
               </div>
               <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
                 <img
@@ -168,20 +255,44 @@ export default function Nastava() {
               </div>
               <div className="w-full md:w-5/12 ml-auto mr-auto px-4 text-center md:text-left">
                 <div className="md:pr-12">
-                <h3 className="text-3xl font-semibold">Predmeti koji se izučavaju u četvrtom razredu:</h3>
+                <h3 className="text-2xl mb-2 font-semibold leading-normal">Predmeti koji se izučavaju u četvrtom razredu za
+                <button
+                className="ml-2 px-4 py-2 bg-blue-500 text-white rounded"
+                style={{
+                  backgroundColor: showBankarski ? 'rgb(254, 125, 1)' : 'rgb(146, 208, 80)',
+                }}
+                onClick={toggleText}
+              >
+                {showBankarski ? 'bankarski tehničar:' : 'ekonomski tehničar:'}
+              </button>
+                </h3>
                 <ul className="mt-4 text-lg leading-relaxed">
-                  <li>Bosanski jezik i knjiženost/Hrvatski jezik i knjiženost/Srpski jezik i knjiženost</li>
+                  <li>BHS jezik i knjiženost</li>
                   <li>Engleski jezik</li>
-                  <li>Njemački jezik (Poslovni engleski jezik za smjer bankarski tehničar)</li>
                   <li>Tjelesni i zdravstveni odgoj</li>
-                  <li>Matematika</li>
-                  <li>Vjeronauka ili Kultura  religija</li>
+                  <li>Vjeronauka ili Kultura religija</li>
+                  {!showBankarski ? (
+                <>
+                  <li>Njemački jezik / Turski jezik</li>
+                  <li>Međunarodna ekonomija</li>
                   <li>Biznis ekonomija</li>
-                  <li>Međunarodna ekonomija (Bankarsko poslovanje za smjer bankarski tehničar)</li>
-                  <li>Evropska unija i međunarodna saradnja (Poslovno pravo za smjer bankarski tehničar)</li>
-                  <li>Privredno pravo</li>
-                  <li>Izborni predmet (Knjigovodstvo, Bankarsko poslovanje, Preduzeće za vježbu, Matematika) za smjer bankarski tehničar</li>
-                  <li>Praktična nastava u bankama (za smjer bankarski tehničar)</li></ul>
+                  <li>Evropska unija i međunarodna saradnja</li>
+                  <li>Privredno Pravo</li>
+                  <li>Izborni predmet (Knjigovodstvo, Bankarsko poslovanje, Preduzeće za vježbu, Matematika)</li>
+
+                  
+                </>
+              ) : (
+                <>
+                  <li>Poslovno pravo</li>
+                  <li>Poslovni njemački jezik / Turski jezik</li>
+                  <li>Bankarsko poslovanje</li>
+                  <li>Praktična nastava u bankama 3 dana sedmično</li>
+
+                </>
+              )}
+                  
+                  </ul>
                   
                 </div>
               </div>
