@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.e21263a2.js",
+    "main.js": "/static/js/main.a91d03bf.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
@@ -566,6 +566,7 @@
     "static/media/nab1.jpg": "/static/media/nab1.16c867ea68ae91de9e33.jpg",
     "static/media/matu6.jpg": "/static/media/matu6.7529442ab9cf5f302231.jpg",
     "static/media/yunus10.jpg": "/static/media/yunus10.3f3bd90f9f5b556694e9.jpg",
+    "static/media/hanadi2.jpg": "/static/media/hanadi2.209c89f9008c95e644d1.jpg",
     "static/media/noc14.jpg": "/static/media/noc14.49fe1cc7f5cdb2f4a572.jpg",
     "static/media/gimn5.jpg": "/static/media/gimn5.a75edb2133354533f2c8.jpg",
     "static/media/ista5.jpg": "/static/media/ista5.a5bf5b999d2342725fee.jpg",
@@ -691,6 +692,7 @@
     "static/media/tehn2.jpg": "/static/media/tehn2.99842f9d394fa5453de1.jpg",
     "static/media/vjećnica.jpeg": "/static/media/vjećnica.3e845a4b4be3640d9d45.jpeg",
     "static/media/erasmus.png": "/static/media/erasmus.eb7a9d6b7c427fad716f.png",
+    "static/media/hanadi3.jpg": "/static/media/hanadi3.e6d7da08ba04b5470ac4.jpg",
     "static/media/februar3.jpg": "/static/media/februar3.4abc1c1280673da54ada.jpg",
     "static/media/dzeki1.jpg": "/static/media/dzeki1.d0c5cd8cd144a1514880.jpg",
     "static/media/plovdiv6.jpg": "/static/media/plovdiv6.0d75918615e487ff6aa7.jpg",
@@ -734,6 +736,7 @@
     "static/media/satler2.jpg": "/static/media/satler2.cf6a0eed8f0c72d07468.jpg",
     "static/media/malik1.jpeg": "/static/media/malik1.7abed0c51e188067c07c.jpeg",
     "static/media/hemija8.jpg": "/static/media/hemija8.fb3c29ef619f46602dbc.jpg",
+    "static/media/hanadi1.jpg": "/static/media/hanadi1.a99d65d3c43902ef2097.jpg",
     "static/media/hemija5.jpg": "/static/media/hemija5.ba918bccd5bc91f0d768.jpg",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.4079ae2d2a15d0689568.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.1017bce89c72f95bcf8e.ttf",
@@ -752,10 +755,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.e21263a2.js.map": "/static/js/main.e21263a2.js.map"
+    "main.a91d03bf.js.map": "/static/js/main.a91d03bf.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.e21263a2.js"
+    "static/js/main.a91d03bf.js"
   ]
 }
