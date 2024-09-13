@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.0c531e8f.js",
+    "main.js": "/static/js/main.3c28ee31.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
@@ -204,6 +204,7 @@
     "static/media/priredba11.jpg": "/static/media/priredba11.cf43e4f7495f2ebf7268.jpg",
     "static/media/yunus2.jpg": "/static/media/yunus2.06c0089dc29c4202596f.jpg",
     "static/media/svila5.jpg": "/static/media/svila5.4bdd18c83bc64bb041be.jpg",
+    "static/media/newsletter3.jpg": "/static/media/newsletter3.40f2e9a2d07da4553c55.jpg",
     "static/media/izlet6.jpg": "/static/media/izlet6.e71312bdc65482c78029.jpg",
     "static/media/stednja3.jpg": "/static/media/stednja3.1272b9d38c6d9c0a0654.jpg",
     "static/media/svila3.jpg": "/static/media/svila3.edf8e993d0b9d5f99794.jpg",
@@ -755,10 +756,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.0c531e8f.js.map": "/static/js/main.0c531e8f.js.map"
+    "main.3c28ee31.js.map": "/static/js/main.3c28ee31.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.0c531e8f.js"
+    "static/js/main.3c28ee31.js"
   ]
 }
