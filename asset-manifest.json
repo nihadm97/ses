@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.3c28ee31.js",
+    "main.js": "/static/js/main.64e00d64.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
@@ -267,6 +267,7 @@
     "static/media/goradzde10.jpg": "/static/media/goradzde10.d891742d44876c7f32ea.jpg",
     "static/media/ples3.jpg": "/static/media/ples3.3d65f038ff8e0bc74643.jpg",
     "static/media/goradzde21.jpg": "/static/media/goradzde21.87206538fa83dec8e07c.jpg",
+    "static/media/street3.jpg": "/static/media/street3.ee7fadfb7aae1fdba44f.jpg",
     "static/media/priredba6.jpg": "/static/media/priredba6.2696db8f41e67db3189d.jpg",
     "static/media/vladimir3.jpg": "/static/media/vladimir3.1d2888256f7cd6442eca.jpg",
     "static/media/dodjela245.jpg": "/static/media/dodjela245.5ef95e855e65f0b24f8a.jpg",
@@ -306,6 +307,7 @@
     "static/media/vece6.jpg": "/static/media/vece6.bb73ce7e752894295911.jpg",
     "static/media/yunus7.jpg": "/static/media/yunus7.764ef55884e949c9e64c.jpg",
     "static/media/marsput4.jpg": "/static/media/marsput4.8ad45b3b1aeb5c3ef8c4.jpg",
+    "static/media/street2.jpg": "/static/media/street2.af0d7e5d77387799fb5a.jpg",
     "static/media/banka5.jpg": "/static/media/banka5.29d50144a74fdcff62e8.jpg",
     "static/media/sajamaaa4.jpg": "/static/media/sajamaaa4.cb7adfdca9b0202302b4.jpg",
     "static/media/carina5.jpg": "/static/media/carina5.c6ead44bed085bcc31a9.jpg",
@@ -363,6 +365,7 @@
     "static/media/nasilje3.jpg": "/static/media/nasilje3.abe1df31ae7e56aeb8ba.jpg",
     "static/media/ha3.jpg": "/static/media/ha3.cf6bc1273ab1c0d2446b.jpg",
     "static/media/ista1.jpg": "/static/media/ista1.1a6df87ccf367e2551bd.jpg",
+    "static/media/street5.jpg": "/static/media/street5.adf55f5b5017953d9613.jpg",
     "static/media/banka2.jpg": "/static/media/banka2.9776aedd60a9cd19a221.jpg",
     "static/media/almina1.jpg": "/static/media/almina1.976bdac9df397ed0cfb0.jpg",
     "static/media/alija1.jpg": "/static/media/alija1.5b692203cfee0a9d4bcd.jpg",
@@ -372,6 +375,7 @@
     "static/media/zec9.jpg": "/static/media/zec9.81b5c9ef79dfae870e1d.jpg",
     "static/media/celjo3.jpg": "/static/media/celjo3.17821e289979a1b02e00.jpg",
     "static/media/danas4.jpg": "/static/media/danas4.0e7483bc905b702c83fa.jpg",
+    "static/media/street4.jpg": "/static/media/street4.4b7da15ead5e6920a10a.jpg",
     "static/media/turci1.jpg": "/static/media/turci1.f2db3b15552b0ca0740a.jpg",
     "static/media/dan6.jpg": "/static/media/dan6.f3949881a4a4216bb1e0.jpg",
     "static/media/radi4.jpg": "/static/media/radi4.9d39afec83ddc37025da.jpg",
@@ -576,6 +580,7 @@
     "static/media/banka1.jpg": "/static/media/banka1.52bf0376d5ad2a25df88.jpg",
     "static/media/centralna6.jpg": "/static/media/centralna6.9f1f0cc0e06837eadb33.jpg",
     "static/media/celjo4.jpg": "/static/media/celjo4.40ba304c41ff6d9d5f32.jpg",
+    "static/media/street1.jpg": "/static/media/street1.36de12e0c408f6f9993e.jpg",
     "static/media/nab5.jpg": "/static/media/nab5.e3d139b0c5a3beaa231d.jpg",
     "static/media/naida.jpg": "/static/media/naida.a666e0cca76efcc09404.jpg",
     "static/media/argeta5.jpg": "/static/media/argeta5.aea6f070a488191da929.jpg",
@@ -756,10 +761,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.3c28ee31.js.map": "/static/js/main.3c28ee31.js.map"
+    "main.64e00d64.js.map": "/static/js/main.64e00d64.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.3c28ee31.js"
+    "static/js/main.64e00d64.js"
   ]
 }
