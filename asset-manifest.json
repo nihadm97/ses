@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.31981d23.js",
+    "main.js": "/static/js/main.bb100e32.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
     "static/media/skola.gif": "/static/media/skola.86bf69be8295f742ab3d.gif",
@@ -738,12 +738,18 @@
     "static/media/spars3.jpg": "/static/media/spars3.7923db2cf57f3cc46f04.jpg",
     "static/media/hemija1.jpg": "/static/media/hemija1.27f3a50330d5562101f3.jpg",
     "static/media/hemija6.jpg": "/static/media/hemija6.813d6ec01c677f95a8d7.jpg",
+    "static/media/gluhi4.jpg": "/static/media/gluhi4.607a3b9e975b19b28ebb.jpg",
     "static/media/eu.png": "/static/media/eu.119a117c649f6dd005cc.png",
+    "static/media/gluhi6.jpg": "/static/media/gluhi6.76415b52ae2e55aaf5fb.jpg",
     "static/media/zeleno1.webp": "/static/media/zeleno1.e239e8d85a60982c96c7.webp",
     "static/media/poduzetnici1.jpg": "/static/media/poduzetnici1.cc275be10c04114db757.jpg",
     "static/media/hemija7.jpg": "/static/media/hemija7.85b840d64b9f23a7269e.jpg",
+    "static/media/gluhi2.jpg": "/static/media/gluhi2.6165b80f2d896e35b64c.jpg",
     "static/media/pismenost1.jpg": "/static/media/pismenost1.63e6d1d1446545e6a57e.jpg",
+    "static/media/gluhi5.jpg": "/static/media/gluhi5.fab211f9c3f97e37a3e6.jpg",
     "static/media/pismenost2.jpg": "/static/media/pismenost2.4ed79238e31e960aadfc.jpg",
+    "static/media/gluhi3.jpg": "/static/media/gluhi3.571e0de07e7717987309.jpg",
+    "static/media/gluhi1.jpg": "/static/media/gluhi1.8b384730f42ac539e70c.jpg",
     "static/media/satler2.jpg": "/static/media/satler2.cf6a0eed8f0c72d07468.jpg",
     "static/media/malik1.jpeg": "/static/media/malik1.7abed0c51e188067c07c.jpeg",
     "static/media/hemija8.jpg": "/static/media/hemija8.fb3c29ef619f46602dbc.jpg",
@@ -766,10 +772,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.31981d23.js.map": "/static/js/main.31981d23.js.map"
+    "main.bb100e32.js.map": "/static/js/main.bb100e32.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.31981d23.js"
+    "static/js/main.bb100e32.js"
   ]
 }
