@@ -790,7 +790,48 @@ import marsput3 from './images/marsput3.jpg';
 import marsput4 from './images/marsput4.jpg';
 import marsput5 from './images/marsput5.jpg';
 
+import hanadi1 from './images/hanadi1.jpg';
+import hanadi2 from './images/hanadi2.jpg';
+import hanadi3 from './images/hanadi3.jpg';
 
+import street1 from './images/street1.jpg';
+import street2 from './images/street2.jpg';
+import street3 from './images/street3.jpg';
+import street4 from './images/street4.jpg';
+import street5 from './images/street5.jpg';
+
+import emir1 from './images/emir1.jpg';
+import emir2 from './images/emir2.jpg';
+import emir3 from './images/emir3.jpg';
+import emir4 from './images/emir4.jpg';
+import emir5 from './images/emir5.jpg';
+
+import gluhi1 from './images/gluhi1.jpg';
+import gluhi2 from './images/gluhi2.jpg';
+import gluhi3 from './images/gluhi3.jpg';
+import gluhi4 from './images/gluhi4.jpg';
+import gluhi5 from './images/gluhi5.jpg';
+import gluhi6 from './images/gluhi6.jpg';
+
+import hist21 from './images/historija1.jpg';
+import hist22 from './images/historija2.jpg';
+import hist23 from './images/historija3.jpg';
+import hist24 from './images/historija4.jpg';
+import hist25 from './images/historija5.jpg';
+import hist26 from './images/historija6.jpg';
+import hist27 from './images/historija7.jpg';
+import hist28 from './images/historija8.jpg';
+import hist29 from './images/historija9.jpg';
+
+import beg1 from './images/beg1.jpg';
+import beg2 from './images/beg2.jpg';
+import beg3 from './images/beg3.jpg';
+import beg4 from './images/beg4.jpg';
+import beg5 from './images/beg5.jpg';
+import beg6 from './images/beg6.jpg';
+import beg7 from './images/beg7.jpg';
+import beg8 from './images/beg8.jpg';
+import beg9 from './images/beg9.jpg';
 
 const Projekti = () => {
   useEffect(() => {
@@ -811,6 +852,408 @@ const Projekti = () => {
   return (
     <>
     <Menu fixed/>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Posjeta  Historijskom muzeju Bosne i Hercegovine
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+
+                  <div>
+                        <img src={hist21} alt="" />
+                    </div> 
+                  <div>
+                        <img src={hist22} alt="" />
+                    </div>
+                    <div>
+                        <img src={hist23} alt="" />
+                    </div>
+                    <div>
+                        <img src={hist24} alt="" />
+                    </div>
+                    <div>
+                        <img src={hist25} alt="" />
+                    </div>
+                    <div>
+                        <img src={hist26} alt="" />
+                    </div>
+                    <div>
+                        <img src={hist27} alt="" />
+                    </div>
+                    <div>
+                        <img src={hist28} alt="" />
+                    </div>
+                    <div>
+                        <img src={hist29} alt="" />
+                    </div>
+
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Učenice i učenici II2 odjeljenja, u pratnji profesorice Historije Azemine Hujdur, posjetile/i su u četvrtak, 26. septembra 2024.godine Historijski muzej Bosne i Hercegovine. </p>
+<p className="mb-4 text-blueGray-500">
+Tokom posjete obišli su neke od najvažnijih muzejskih postavki: 15 godina / Jim Marshall,  “Mi, izbjeglice”, ”Labirint devedesetih”, “Polet žena” i posebno značajnu “Opkoljeno Sarajevo”. </p>
+<p className="mb-4 text-blueGray-500">
+Izložba „Opkoljeno Sarajevo“ potresna je priča o životu tokom opsade Sarajeva u periodu agresije na Bosnu i Hercegovinu od 1992. do 1995. godine. Stalna je postavka Historijskog muzeja Bosne i Hercegovine. U njenom stvaranju učestvovali su i građani Sarajeva doniranjem ratnih predmeta muzeju i dijeljenjem svojih ratnih priča i sećanja. Nijemi je svjedok nadljudske upornosti, snalažljivosti, hrabrosti i kreativnosti građanki i građana Sarajeva da prežive bez struje, vode, grijanja i osnovnih životnih namirnica. Prikazuje svakodnevicu u opkoljenom gradu, snalaženje za vodu i hranu, ratne pijace i ulice, načine komunikacije, ratne škole i bolnice, kulturni život grada pod opsadom. No, ova izložba, nijemi svjedok golgote Sarajeva, slavi i neuništivost života, slobode na ovim prostorima, poput  svježeg, neiscrpnog  izvora koji neprekidno ističe i nikada ne gubi vodu. Bila je ovo prilika da zajedno uče o herojskoj odbrani građana/ki Sarajeva, o nesalomljivoj snazi duha Sarajeva. Građani/ke su napadani dok su išli po vodu, na posao, u nabavku, dok su prisustvovali sahranama, djeca dok su se igrala, vozila bicikl ili išla u školu. </p>
+<p className="mb-4 text-blueGray-500">
+No, herojsko srce ovog grada, drevne zemlje Bosne nijedan osvajač nije mogao, niti može ubiti!</p>
+<p className="mb-4 text-blueGray-500">
+Sarajevo će biti, sve drugo će proći. Bosna će biti, sve drugo će proći.</p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+          <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Izložba "Istočno od Zapada, zapadno od Istoka”
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+
+                  <div>
+                        <img src={beg1} alt="" />
+                    </div> 
+                  <div>
+                        <img src={beg2} alt="" />
+                    </div>
+                    <div>
+                        <img src={beg3} alt="" />
+                    </div>
+                    <div>
+                        <img src={beg4} alt="" />
+                    </div>
+                    <div>
+                        <img src={beg5} alt="" />
+                    </div>
+                    <div>
+                        <img src={beg6} alt="" />
+                    </div>
+                    <div>
+                        <img src={beg7} alt="" />
+                    </div>
+                    <div>
+                        <img src={beg8} alt="" />
+                    </div>
+                    <div>
+                        <img src={beg9} alt="" />
+                    </div>
+
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Izložbu "Istočno od Zapada, zapadno od Istoka” organizuju Ambasada Slovačke Republike u Bosni i Hercegovini i Bošnjačka zajednica kulture „Preporod“ u saradnji sa Univerzitetskom bibliotekom u Bratislavi i Muzejom Sarajeva. Rukopisna ostavština Safvet-bega Bašagića" postavljena je u Muzeju Sarajeva, u Brusa bezistanu, povodom 100. godišnjice osnivanja Bašagićeve zbirke u Univerzitetskoj biblioteci u Bratislavi, 90. godišnjice smrti Safvet-bega Bašagića, izuzetne figure u kulturi i društvu Bosne i Hercegovine krajem 19. i početkom 20. stoljeća, te Dana slovačke kulture u Bosni i Hercegovini. </p>
+<p className="mb-4 text-blueGray-500">
+Učenici/ce prvih razreda i profesorice naše škole, u petak, 27.09.2024. godine  posjetili/e  su ovu neprocjenjivo vrijednu izložbu. Riječ je o unikatnoj izložbi Bašagićeve rukopisne ostavštine upisane na listu UNESKO-ove svjetske dokumentarne baštine „Pamćenje svijeta“ (Memory of the World“). Bašagićeva posvećenost, intelektualna snaga i kulturni doprinosi  inspiracija su  budućim naraštajima i bogatstvo koje je ostavio za sve nas. Bila je ovo prilika da se svi prisjetimo  značaja dr. Safvet-bega Bašagića za našu kulturnu baštinu, pregled naše prošlosti, maksimalno odgojno i obrazovno usmjeren.</p>
+<p className="mb-4 text-blueGray-500">
+Sigurni smo da će nam svima ova izložba donijeti nova saznanja i dublje razumijevanje Bašagićeve ostavštine, ali i bogate kulturne i intelektualne tradicije koju je on promovisao. Završimo Bašagićevim citatom “Nema naroda bez narodne prošlosti, niti slobode bez narodne svijesti", koji snažno odražava njegovu posvećenost očuvanju kulturnog i historijskog identiteta Bošnjaka i Bosne i Hercegovine, te ističe važnost svijesti o očuvanju vlastitog naslijeđa i kulturne baštine u borbi za slobodu i napredak. Izložba je i podsjećanje na ulogu Safvet-bega Bašagića kao osnivača i prvog predsjednika Bošnjačke zajednice kulture “Preporod”. Bilo je impresivno pregledati i druge vrijedne dokumente iz zbirki Bošnjačke zajednice kulture “Preporod” i Historijskog arhiva Sarajevo.</p>
+<p className="mb-4 text-blueGray-500">
+Organizacijsku podršku učeničkim posjetama izložbi pruža  Ministarstvo za odgoj i obrazovanje KS i Institut za razvoj preduniverzitetskog obrazovanja KS.</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Međunarodna sedmica gluhih: Gluh jesam, nevidljiv nisam 
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+
+                  <div>
+                        <img src={gluhi6} alt="" />
+                    </div> 
+                  <div>
+                        <img src={gluhi1} alt="" />
+                    </div>
+                    <div>
+                        <img src={gluhi2} alt="" />
+                    </div>
+                    <div>
+                        <img src={gluhi3} alt="" />
+                    </div>
+                    <div>
+                        <img src={gluhi4} alt="" />
+                    </div>
+                    <div>
+                        <img src={gluhi5} alt="" />
+                    </div>
+
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Izuzetna nam je čast da smo bili u prilici dati vlastiti doprinos obilježavanju Međunarodnog dana gluhih i nagluhih osoba. Naše učenice i učenike posjetile/i su učenice i učenici Centra za slušnu i govornu rehabilitaciju. </p>
+<p className="mb-4 text-blueGray-500">
+Druženje, koje je bilo veoma emotivno i interaktivno uz zabavu i učenje znakovnog jezika sa željom da jedni druge bolje upoznaju i razumiju svijet koji ih okružuje, upriličili smo u odjeljenju u kojem je naša učenica koja koristi usluge Centra.</p>
+<p className="mb-4 text-blueGray-500">
+Sretni smo da će se novostečena prijateljstva nastaviti i dalje, a ova posjeta je stanoviti doprinos boljoj povezanosti i saradnji naše škole sa Centrom za govornu i slušnu rehabilitaciju.</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Međunarodna konferencija u Sofiji, Bugarska: Business Agility & Modern Leadership in IT and Across Industries
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={emir1} alt="" />
+                    </div>
+                    <div>
+                        <img src={emir2} alt="" />
+                    </div>
+                    <div>
+                        <img src={emir3} alt="" />
+                    </div>
+                    <div>
+                        <img src={emir4} alt="" />
+                    </div>
+                    <div>
+                        <img src={emir5} alt="" />
+                    </div>
+
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Ministarstvo za odgoj i obrazovanje i JU Institut za razvoj preduniverzitetskog obrazovanja Kantona Sarajevo, između ostalog, realizuju aktivnosti vezane za učešće odgajatelja, nastavnika i stručnih saradnika na međunarodnim konferencijama, a u toku je Međunarodna konferencija posvećena temama poslovne agilnosti i modernog liderstva u IT sektoru i drugim industrijama, koja se održava u Sofiji, Bugarska. </p>
+<p className="mb-4 text-blueGray-500">
+Aktivno učešće uzeli su i naša profesorica Selma Jusić i profesor Emir Ustavdić. </p>
+<p className="mb-4 text-blueGray-500">
+Izražavamo zahvalnost Ministarstvu za odgoj i obrazovanje Kantona Sarajevo, uvaženoj ministrici Naidi Hota Muminović i JU Institutu za razvoj preduniverzitetskog obrazovanja Kantona Sarajevo za ukazanu priliku. </p>
+<p className="mb-4 text-blueGray-500">
+Učesnicama i učesnicima želimo uspješan rad i prijatan boravak u Sofiji, u nadi da će stečena znanja i iskustva  prenijeti unutar šire obrazovne zajednice.</p>
+
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">Naše košarkašice na 12. takmičenju Gorenje S.ketch Street Basketball 2024
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={street1} alt="" />
+                    </div>
+                    <div>
+                        <img src={street2} alt="" />
+                    </div>
+                    <div>
+                        <img src={street3} alt="" />
+                    </div>
+                    <div>
+                        <img src={street4} alt="" />
+                    </div>
+                    <div>
+                        <img src={street5} alt="" />
+                    </div>
+
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  "Gorenje  S.ketch Street Basketball 2024",  dvanaesto takmičenje u "uličnoj košarci" za osnovce i srednjoškolce odigrano  je u periodu od 21. do 23. septembra, na platou ARIA Mall-a, u organizaciji Marketing agencije B40.</p>
+<p className="mb-4 text-blueGray-500">
+Na turniru je učestvovalo više od pedeset ekipa iz dvadeset i pet osnovnih i srednjih škola u pet konkurencija: dječaci do 9. razreda osnovne škole, dječaci do 2. i 4. razreda srednje škole, te djevojčice do 9. razreda osnovne škole i do 4. razreda srednje škole. Bio je ovo praznik košarke, jednog od najdinamičnijh sportova loptom. Nezaboravno takmičenje školaraca donijelo je mnogo igre, radosti, strasti, emocija i ljubavi igrača/ica na terenu i njihove publike.</p>
+<p className="mb-4 text-blueGray-500">
+Naše košarkašice Emina Večka I4, Hanadi Oručević II1 i Semina Hodžić IV1,  demonstrirale su veliku izdržljivost, motiviranost, izvanrednu timsku i individualnu tehniku igre. Odnijele su pobjedu u utakmici za treće mjesto. </p>
+<p className="mb-4 text-blueGray-500">
+Čestitamo našim košarkašicama! </p>
+<p className="mb-4 text-blueGray-500">
+Voditelj tima: Ankica Zulčić, prof.</p>
+
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+    <section data-aos="fade-in" className="pb-20 bg-white w-full">
+          <div className="container mx-auto px-4">
+            <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">
+              <h6 className="text-xl mb-1 font-semibold text-center uppercase">HANADI ORUČEVIĆ NA ATLETSKOM TAKMIČENJU ZA JUNIORE/KE U ZENICI
+
+
+
+
+</h6>
+            </span>
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-lg">
+                  <div className="py-5 flex-auto">
+                  <Carousel interval="10000" transitionTime="1000" infiniteLoop>
+                      
+                  <div>
+                        <img src={hanadi1} alt="" />
+                    </div>
+                    <div>
+                        <img src={hanadi2} alt="" />
+                    </div>
+                    <div>
+                        <img src={hanadi3} alt="" />
+                    </div>
+
+                </Carousel>
+                    </div>
+                  </div>
+                </div>
+              <div className="lg:pt-12 pt-6 w-full px-6 text-center md:w-6/12">
+                <div className="relative flex flex-col min-w-0 break-words bg-blueGray-200 w-full mb-8 shadow-">
+                  <div className="px-4 py-5 flex-auto">
+                  <span className="text-sm my-4 p-3 text-blueGray-700 rounded  border-solid border-blueGray-100">
+ 
+                  <p className="mb-4 text-blueGray-500">
+                  Na Pojedinačnom atletskom takmičenju za juniore i juniorke održanom  13. i 14. jula 2024. godine u Zenici, naša učenica Hanadi Oručević II1 razred,  imala je odličan nastup i osvojila dvije medalje, u dvije discipline, skok sa motkom i skok u vis.</p>
+<p className="mb-4 text-blueGray-500">
+U disciplini skok sa motkom naša mlada atletičarka osvojila je prvo mjesto i dostigla visinu skoka 1,90 m. Na takmičenju u disciplini skok u vis osvojila je treće mjesto.</p>
+<p className="mb-4 text-blueGray-500">
+Bio je ovo praznik atletike i  mladih atletskih talenata Bosne i Hercegovine!</p>
+<p className="mb-4 text-blueGray-500">
+Historija atletike svjedoči o neprekidnoj ljudskoj težnji za brzinom, snagom i izdržljivošću. Atletika je priča o strasti, predanosti i neprestanoj potrazi čovjeka za savršenstvom. Atletika je važan dio naše sportske kulture, inspiriše mnoge i promiče vrijednosti sporta i zdravog načina života.</p>
+<p className="mb-4 text-blueGray-500">
+Ponosni smo na našu Hanadi Oručević!</p>
+<p className="mb-4 text-blueGray-500">
+Čestitamo joj na atletskim postignućima i želimo joj puno sreće na narednim takmičenjima!</p>
+<p className="mb-4 text-blueGray-500">
+Sve čestitke i svim atletičarima i atletskim klubovima koji su uzeli učeŝĉe na ovom takmičenju! </p>
+</span>
+                  </div>
+                  <div className="w-full md:w-9/12 ml-auto mr-auto px-4" style={{paddingBottom: "5%"}}>    
+                  
+                  
+          
+               
+           </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
     <section data-aos="fade-in" className="pb-20 bg-white w-full">
           <div className="container mx-auto px-4">
             <span className="text-sm block my-4 p-3 text-blueGray-700 rounded border border-solid border-blueGray-100">

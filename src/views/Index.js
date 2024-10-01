@@ -85,15 +85,15 @@ export default function Index() {
                 >
                   Kontakt
                 </Link> 
-                <Link
-                  to="/aktivnosti"
+                <a 
+                  href="https://drive.google.com/file/d/1REm1kN1mW7Dn80f893MUlI8tM0NQm8Gw/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                   className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                   style={{backgroundColor: 'rgb(254, 125, 1)'}}
                 >
-                  Aktivnosti
-                </Link>     
+                  RASPORED
+                </a>     
               </div>
             </div>
             
