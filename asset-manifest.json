@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34b9cf43.css",
-    "main.js": "/static/js/main.b27648af.js",
+    "main.js": "/static/js/main.7afef52f.js",
     "static/media/pink.mp4": "/static/media/pink.8659955e807c9240acd3.mp4",
     "static/media/senka.mp4": "/static/media/senka.6bcddaa26e9d1c35fb27.mp4",
     "static/media/priredba.mp4": "/static/media/priredba.fea8798e995454efde5b.mp4",
@@ -75,9 +75,11 @@
     "static/media/grada4.jpg": "/static/media/grada4.99e6fbef3535f07b48a7.jpg",
     "static/media/mmp1.jpg": "/static/media/mmp1.6dbbca150f70493c39a8.jpg",
     "static/media/stem2.jpg": "/static/media/stem2.d31e17fd6f96ac17c0a6.jpg",
+    "static/media/stoj7.jpg": "/static/media/stoj7.28b0d61ba3df75e06e4d.jpg",
     "static/media/mu1.jpg": "/static/media/mu1.0b5e26e4f3530c8ddea1.jpg",
     "static/media/stem9.jpg": "/static/media/stem9.d1f13954cdc50df7d62e.jpg",
     "static/media/stem1.jpg": "/static/media/stem1.09d87320817af49bac6c.jpg",
+    "static/media/stoj8.jpg": "/static/media/stoj8.e330bf69265744450de8.jpg",
     "static/media/stem4.jpg": "/static/media/stem4.d53ede28f0271213986f.jpg",
     "static/media/indira3.jpg": "/static/media/indira3.c6cad76163945864d2a2.jpg",
     "static/media/Opis3.png": "/static/media/Opis3.b8b7060cc7a9402b1e10.png",
@@ -88,6 +90,7 @@
     "static/media/indira2.jpg": "/static/media/indira2.3d705e5f84f43606a201.jpg",
     "static/media/edin3.jpg": "/static/media/edin3.ae31ea7a1e9a5497de90.jpg",
     "static/media/star2.jpg": "/static/media/star2.f5056d985f103e1ad157.jpg",
+    "static/media/stoj9.jpg": "/static/media/stoj9.760f98c6787f10235ff3.jpg",
     "static/media/izlet3.jpg": "/static/media/izlet3.38e19b0acc5a0fc48a77.jpg",
     "static/media/knjiges1.jpg": "/static/media/knjiges1.123a14a4fd5698fcd933.jpg",
     "static/media/celjo2.jpg": "/static/media/celjo2.a19fd691a95e1bc400be.jpg",
@@ -175,6 +178,7 @@
     "static/media/dandrzavnosti1.jpg": "/static/media/dandrzavnosti1.9715ffee9e9e8ace72ee.jpg",
     "static/media/bamba11.jpg": "/static/media/bamba11.b9bf3d5f18da6d83f68d.jpg",
     "static/media/beograd3.jpg": "/static/media/beograd3.82dfce748082febdcf07.jpg",
+    "static/media/stoj4.jpg": "/static/media/stoj4.953139921b3376e936e2.jpg",
     "static/media/dodjela251.jpg": "/static/media/dodjela251.bfbb5d458a579709fcaf.jpg",
     "static/media/carina4.jpg": "/static/media/carina4.2e3cd9ae1cb897a56b06.jpg",
     "static/media/medijske0.jpg": "/static/media/medijske0.9ca4f55f4bb412c39702.jpg",
@@ -188,6 +192,7 @@
     "static/media/ha2.jpg": "/static/media/ha2.fad6fc6bd4bc9a71e7e2.jpg",
     "static/media/glob5.jpg": "/static/media/glob5.49b59581a6db9581d062.jpg",
     "static/media/medijske1.jpg": "/static/media/medijske1.9b1455750a11ddc93c73.jpg",
+    "static/media/stoj3.jpg": "/static/media/stoj3.41ae19fed659531846ea.jpg",
     "static/media/historija9.jpg": "/static/media/historija9.c31e69f5e7a81b62a9e7.jpg",
     "static/media/beg1.jpg": "/static/media/beg1.fa23a64d149828a2662d.jpg",
     "static/media/izborna3.jpg": "/static/media/izborna3.b9d4f365a951e9dec9e9.jpg",
@@ -219,6 +224,7 @@
     "static/media/beg8.jpg": "/static/media/beg8.e6c33141e869650695ee.jpg",
     "static/media/svila5.jpg": "/static/media/svila5.4bdd18c83bc64bb041be.jpg",
     "static/media/newsletter3.jpg": "/static/media/newsletter3.40f2e9a2d07da4553c55.jpg",
+    "static/media/stoj2.jpg": "/static/media/stoj2.05eec6a1d1ec884c6638.jpg",
     "static/media/izlet6.jpg": "/static/media/izlet6.e71312bdc65482c78029.jpg",
     "static/media/senka7.jpg": "/static/media/senka7.5d89368170d23c1dc994.jpg",
     "static/media/stednja3.jpg": "/static/media/stednja3.1272b9d38c6d9c0a0654.jpg",
@@ -246,6 +252,7 @@
     "static/media/bihac2.jpg": "/static/media/bihac2.8fff46128f5cf7f1009e.jpg",
     "static/media/volim2.jpg": "/static/media/volim2.1b938edd761e7e34bd90.jpg",
     "static/media/sajamaaa1.jpg": "/static/media/sajamaaa1.efb814d88b439d762ed5.jpg",
+    "static/media/stoj5.jpg": "/static/media/stoj5.b53a86c3a2f4736804a7.jpg",
     "static/media/bihac6.jpg": "/static/media/bihac6.1cafc16a2f4ac6efe0d4.jpg",
     "static/media/muzej4.jpg": "/static/media/muzej4.2f54bea6dd137ad02f45.jpg",
     "static/media/historija7.jpg": "/static/media/historija7.a116dc5214a27097b71d.jpg",
@@ -300,6 +307,7 @@
     "static/media/hocu1.jpg": "/static/media/hocu1.0d58b5a60a406fe2b845.jpg",
     "static/media/bamba12.jpg": "/static/media/bamba12.8016201219aa3220dce1.jpg",
     "static/media/ista4.jpg": "/static/media/ista4.d4b07b7a30ab9ea6a20d.jpg",
+    "static/media/stoj10.jpg": "/static/media/stoj10.bd0f2a91b354662bcd41.jpg",
     "static/media/izborna7.jpg": "/static/media/izborna7.0eacd53260d39e246dba.jpg",
     "static/media/noc15.jpg": "/static/media/noc15.ea27ddc18edd6194cf17.jpg",
     "static/media/historija5.jpg": "/static/media/historija5.8a948ac705c1398fba5c.jpg",
@@ -473,6 +481,7 @@
     "static/media/izborna5.jpg": "/static/media/izborna5.646bd0dd0b50379a05fe.jpg",
     "static/media/cika5.jpg": "/static/media/cika5.cf10573af696be86a257.jpg",
     "static/media/atl8.jpg": "/static/media/atl8.bd8dd28f12b21c813b21.jpg",
+    "static/media/stoj6.jpg": "/static/media/stoj6.b23b7f20f33cc2c94835.jpg",
     "static/media/skolap2.jpg": "/static/media/skolap2.cc6f81d5dca7bbaffac3.jpg",
     "static/media/goradzde16.jpg": "/static/media/goradzde16.c783e2458370d45ece02.jpg",
     "static/media/g3.jpg": "/static/media/g3.566fc01080b2fbcb380d.jpg",
@@ -647,6 +656,7 @@
     "static/media/matu5.jpg": "/static/media/matu5.0beb2cc8540e572a436f.jpg",
     "static/media/dodjela24.jpg": "/static/media/dodjela24.8f4e9222efad089a666d.jpg",
     "static/media/danas1.jpg": "/static/media/danas1.e74014cd16a6bcf34c2f.jpg",
+    "static/media/stoj1.jpg": "/static/media/stoj1.50f45968b26b46a24b5d.jpg",
     "static/media/yunus1.jpg": "/static/media/yunus1.13d6b4ad0ae26211f2e0.jpg",
     "static/media/tomislav3.jpg": "/static/media/tomislav3.544dee538bd7025a6ae6.jpg",
     "static/media/gimn1.jpg": "/static/media/gimn1.d15c77ab2f44ba4faff4.jpg",
@@ -807,10 +817,10 @@
     "static/media/etwi1.webp": "/static/media/etwi1.4b5409bc04aea59a105e.webp",
     "index.html": "/index.html",
     "main.34b9cf43.css.map": "/static/css/main.34b9cf43.css.map",
-    "main.b27648af.js.map": "/static/js/main.b27648af.js.map"
+    "main.7afef52f.js.map": "/static/js/main.7afef52f.js.map"
   },
   "entrypoints": [
     "static/css/main.34b9cf43.css",
-    "static/js/main.b27648af.js"
+    "static/js/main.7afef52f.js"
   ]
 }
